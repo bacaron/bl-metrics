@@ -1,0 +1,615 @@
+{
+    "totalObjectCount": 11947,
+    "totalObjectSize": 3033391595520,
+    "totalObjectDownload": 15164,
+    "byUsers": [
+        {
+            "sub": "43",
+            "count": 1922,
+            "totalSize": 47330805760,
+            "totalDownload": 100
+        },
+        {
+            "sub": "1",
+            "count": 1091,
+            "totalSize": 640110018560,
+            "totalDownload": 879
+        },
+        {
+            "sub": "56",
+            "count": 3924,
+            "totalSize": 601336637440,
+            "totalDownload": 5836
+        },
+        {
+            "sub": "392",
+            "count": 4,
+            "totalSize": 80855040,
+            "totalDownload": 7
+        },
+        {
+            "sub": "148",
+            "count": 60,
+            "totalSize": 7738204160,
+            "totalDownload": 0
+        },
+        {
+            "sub": "146",
+            "count": 1161,
+            "totalSize": 63974676480,
+            "totalDownload": 888
+        },
+        {
+            "sub": "250",
+            "count": 5,
+            "totalSize": 374865920,
+            "totalDownload": 141
+        },
+        {
+            "sub": "233",
+            "count": 2,
+            "totalSize": 28549120,
+            "totalDownload": 2
+        },
+        {
+            "sub": "218",
+            "count": 4,
+            "totalSize": 3995064320,
+            "totalDownload": 0
+        },
+        {
+            "sub": "337",
+            "count": 92,
+            "totalSize": 88136878080,
+            "totalDownload": 3
+        },
+        {
+            "sub": "16",
+            "count": 216,
+            "totalSize": 33464442880,
+            "totalDownload": 1589
+        },
+        {
+            "sub": "19",
+            "count": 2792,
+            "totalSize": 893604638720,
+            "totalDownload": 2338
+        },
+        {
+            "sub": "239",
+            "count": 6,
+            "totalSize": 3532789760,
+            "totalDownload": 0
+        },
+        {
+            "sub": "93",
+            "count": 1,
+            "totalSize": 25384960,
+            "totalDownload": 2
+        },
+        {
+            "sub": "283",
+            "count": 184,
+            "totalSize": 530952294400,
+            "totalDownload": 146
+        },
+        {
+            "sub": "126",
+            "count": 476,
+            "totalSize": 118078668800,
+            "totalDownload": 3228
+        },
+        {
+            "sub": "135",
+            "count": 4,
+            "totalSize": 952320,
+            "totalDownload": 5
+        },
+        {
+            "sub": "414",
+            "count": 1,
+            "totalSize": 3962880,
+            "totalDownload": 0
+        },
+        {
+            "sub": "430",
+            "count": 2,
+            "totalSize": 621905920,
+            "totalDownload": 0
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "5a281aee2c214c9ba83ce620",
+            "datatypeName": "neuro/mask",
+            "count": 770,
+            "totalSize": 120791040,
+            "totalDownload": 65
+        },
+        {
+            "datatypeId": "5a79df48d071a1753f1d661b",
+            "datatypeName": "neuro/tensor",
+            "count": 65,
+            "totalSize": 4752291840,
+            "totalDownload": 90
+        },
+        {
+            "datatypeId": "59c3eae633fc1cf9ead71679",
+            "datatypeName": "raw",
+            "count": 1281,
+            "totalSize": 86316922880,
+            "totalDownload": 3254
+        },
+        {
+            "datatypeId": "592dded1436ee50ffd88f5d0",
+            "datatypeName": "neuro/tractmasks",
+            "count": 257,
+            "totalSize": 336629760,
+            "totalDownload": 1
+        },
+        {
+            "datatypeId": "5cb7711c44947d8aea8cb4f4",
+            "datatypeName": "generic/image/svg",
+            "count": 779,
+            "totalSize": 952832000,
+            "totalDownload": 384
+        },
+        {
+            "datatypeId": "5967b799b09297d8d831709e",
+            "datatypeName": "generic/images",
+            "count": 2,
+            "totalSize": 798720,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 96,
+            "totalSize": 103141775360,
+            "totalDownload": 684
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 332,
+            "totalSize": 2984888320,
+            "totalDownload": 1079
+        },
+        {
+            "datatypeId": "5c478b7bf9109beac4520be6",
+            "datatypeName": "neuro/parcellation/surface-deprecated",
+            "count": 532,
+            "totalSize": 10921216000,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "59b685a08e5d38b0b331ddc5",
+            "datatypeName": "neuro/func/task",
+            "count": 647,
+            "totalSize": 530707496960,
+            "totalDownload": 145
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 58,
+            "totalSize": 15520593920,
+            "totalDownload": 288
+        },
+        {
+            "datatypeId": "5c390505f9109beac42b00df",
+            "datatypeName": "neuro/fmap",
+            "count": 100,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "datatypeId": "5965467cb09297d8d81bdbcd",
+            "datatypeName": "neuro/tractprofile-deprecated",
+            "count": 2,
+            "totalSize": 153600,
+            "totalDownload": 5
+        },
+        {
+            "datatypeId": "5c1a7489f9109beac4a88a1f",
+            "datatypeName": "neuro/parcellation/volume",
+            "count": 532,
+            "totalSize": 175677440,
+            "totalDownload": 9
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 476,
+            "totalSize": 120749721600,
+            "totalDownload": 3191
+        },
+        {
+            "datatypeId": "5be9ea0315a8683a39a1ebd9",
+            "datatypeName": "neuro/rois",
+            "count": 800,
+            "totalSize": 44296806400,
+            "totalDownload": 1003
+        },
+        {
+            "datatypeId": "58f10a90436ee50ffd9063c5",
+            "datatypeName": "neuro/wmc-deprecated",
+            "count": 1174,
+            "totalSize": 1253167718400,
+            "totalDownload": 1908
+        },
+        {
+            "datatypeId": "5c536bf0f9109beac46adb45",
+            "datatypeName": "neuro/csd",
+            "count": 2572,
+            "totalSize": 852739020800,
+            "totalDownload": 2086
+        },
+        {
+            "datatypeId": "599f305ad1f46fec1759f363",
+            "datatypeName": "neuro/tractmeasures",
+            "count": 1045,
+            "totalSize": 3510538240,
+            "totalDownload": 967
+        },
+        {
+            "datatypeId": "5b956f6cd7b3f1e24e9121ce",
+            "datatypeName": "neuro/track/trk",
+            "count": 424,
+            "totalSize": 2959523840,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5c4f6a8af9109beac4b3dae0",
+            "datatypeName": "neuro/regressors",
+            "count": 1,
+            "totalSize": 92160,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "594c0325fa1d2e5a1f0beda5",
+            "datatypeName": "neuro/anat/t2w",
+            "count": 2,
+            "totalSize": 36106240,
+            "totalDownload": 4
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "5fce3fdfe802b5abf20db412",
+            "projectName": "DWI Processing",
+            "count": 14,
+            "totalSize": 2216591360,
+            "totalDownload": 161
+        },
+        {
+            "projectId": "5abebc75e182730027c55569",
+            "projectName": "SWMRI",
+            "count": 160,
+            "totalSize": 89062123520,
+            "totalDownload": 1050
+        },
+        {
+            "projectId": "5a55061141fd04003f9d4892",
+            "projectName": "UCLA data Controls",
+            "count": 856,
+            "totalSize": 13594378240,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5fcfabf8678a91d5e14a0aa6",
+            "projectName": "Report 4",
+            "count": 14,
+            "totalSize": 2216591360,
+            "totalDownload": 158
+        },
+        {
+            "projectId": "5d3209df6c03750a8a525423",
+            "projectName": "Trekker test",
+            "count": 1,
+            "totalSize": 19886080,
+            "totalDownload": 32
+        },
+        {
+            "projectId": "5a55069256e507002d1a962d",
+            "projectName": "UCLA data Bipolar",
+            "count": 333,
+            "totalSize": 5232947200,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5c7a9cd2714f8e00341dfabe",
+            "projectName": "first project",
+            "count": 1,
+            "totalSize": 3962880,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5fa925f3afcdcce87fc3facc",
+            "projectName": "DL with Pytorch - preliminary tests",
+            "count": 1,
+            "totalSize": 1863680,
+            "totalDownload": 23
+        },
+        {
+            "projectId": "60db1ac0cdfdb54f43011816",
+            "projectName": "PVP-development-removedSubjects",
+            "count": 44,
+            "totalSize": 4203356160,
+            "totalDownload": 293
+        },
+        {
+            "projectId": "5ada4960da9f040027366ce9",
+            "projectName": "mrtrix3 dev",
+            "count": 6,
+            "totalSize": 1650677760,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5c61ccd214027a01b14adccf",
+            "projectName": "josh_test_projects",
+            "count": 6,
+            "totalSize": 3532789760,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5a550659b1fd8000452bda4f",
+            "projectName": "UCLA data SCHZ",
+            "count": 349,
+            "totalSize": 5483294720,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5fc831451828bc10b05271f7",
+            "projectName": "Report 4",
+            "count": 14,
+            "totalSize": 2216591360,
+            "totalDownload": 161
+        },
+        {
+            "projectId": "5cc7b19b4b5e4502275edb2e",
+            "projectName": "jaime_test",
+            "count": 1,
+            "totalSize": 25384960,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5e1dddc31875e1cb3794cb3f",
+            "projectName": "HCP-minor bundle dataset",
+            "count": 2,
+            "totalSize": 1538365440,
+            "totalDownload": 12
+        },
+        {
+            "projectId": "5cae01b876cdaa0030b921d3",
+            "projectName": "Reproducibility-WMQL",
+            "count": 559,
+            "totalSize": 3359877120,
+            "totalDownload": 195
+        },
+        {
+            "projectId": "5c702244dac33f00310c13d2",
+            "projectName": "OHBM 2019 - NKI",
+            "count": 950,
+            "totalSize": 245321359360,
+            "totalDownload": 134
+        },
+        {
+            "projectId": "5cac40de76cdaa0030b92155",
+            "projectName": "Replicability of NN and LAP",
+            "count": 300,
+            "totalSize": 1187850240,
+            "totalDownload": 538
+        },
+        {
+            "projectId": "5d65b359398672e65d4962ba",
+            "projectName": "Brad Quals",
+            "count": 2,
+            "totalSize": 306851840,
+            "totalDownload": 108
+        },
+        {
+            "projectId": "5a9ee80853bd38003c02afa7",
+            "projectName": "HCP Derivatives 3T - b1000 shell",
+            "count": 47,
+            "totalSize": 10935214080,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5ca6bea6666d760036a7b951",
+            "projectName": "dwi bil6005",
+            "count": 2,
+            "totalSize": 621905920,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5c54775812cbcc01e1635a9a",
+            "projectName": "Brie Stark's Lesion Study",
+            "count": 4,
+            "totalSize": 80855040,
+            "totalDownload": 7
+        },
+        {
+            "projectId": "5cb8973c71a8630036207a6a",
+            "projectName": "Athlete Microstructure Data",
+            "count": 72,
+            "totalSize": 11029217280,
+            "totalDownload": 531
+        },
+        {
+            "projectId": "5e941466571b8b4b51b27d4e",
+            "projectName": "Tractogram Filtering",
+            "count": 1,
+            "totalSize": 1863680,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5a74ccd66ed91402ce400cc6",
+            "projectName": "fmriprep test project",
+            "count": 1,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5c004987da949a0027cf9e72",
+            "projectName": "TractSeg on HCP Data",
+            "count": 92,
+            "totalSize": 88136878080,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5ca77206666d760036a7b97f",
+            "projectName": "OHBM 2019 - NKI Repeats",
+            "count": 162,
+            "totalSize": 17516267520,
+            "totalDownload": 162
+        },
+        {
+            "projectId": "5ef88795c67a0de16e2a017f",
+            "projectName": "LWX-Multishell-denoise2sub",
+            "count": 98,
+            "totalSize": 8971622400,
+            "totalDownload": 642
+        },
+        {
+            "projectId": null,
+            "projectName": null,
+            "count": 162,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5d990a143785509717c76892",
+            "projectName": "the reading project",
+            "count": 500,
+            "totalSize": 0,
+            "totalDownload": 113
+        },
+        {
+            "projectId": "5c50b6f12daf2e0032f880eb",
+            "projectName": "HCP Derivatives 3T - multishell",
+            "count": 1108,
+            "totalSize": 467384545280,
+            "totalDownload": 1594
+        },
+        {
+            "projectId": "5c3c06d58fba0500367240c6",
+            "projectName": "Athlete Microstructure Preprocessing ",
+            "count": 2,
+            "totalSize": 48128000,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5c364eeb836af601cc858651",
+            "projectName": "MPI-Leipzig_Mind-Brain-Body",
+            "count": 60,
+            "totalSize": 7738204160,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5a78c177340591004da75e6f",
+            "projectName": "AAA - Giulia test",
+            "count": 24,
+            "totalSize": 1707182080,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5b6cc26811ff980027c3699d",
+            "projectName": "TEST life",
+            "count": 2,
+            "totalSize": 28549120,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5b0dad8041711001e958b519",
+            "projectName": "A dorso-ventral attention network in the human brain",
+            "count": 4,
+            "totalSize": 952320,
+            "totalDownload": 5
+        },
+        {
+            "projectId": "5a74d1e26ed91402ce400cca",
+            "projectName": "LWX-MultiShell",
+            "count": 98,
+            "totalSize": 8971622400,
+            "totalDownload": 693
+        },
+        {
+            "projectId": "5c702228dac33f00310c13d1",
+            "projectName": "Cam-CAN Structural Network Neuroscience Derivatives",
+            "count": 621,
+            "totalSize": 169523353600,
+            "totalDownload": 548
+        },
+        {
+            "projectId": "5bf0cb4d910945002799f765",
+            "projectName": "TractSeg Male",
+            "count": 4,
+            "totalSize": 3995064320,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5c33a141836af601cc85858d",
+            "projectName": "ECoG project",
+            "count": 4352,
+            "totalSize": 1241446656000,
+            "totalDownload": 6600
+        },
+        {
+            "projectId": "5e849e65952fef3dcd7a1700",
+            "projectName": "PVP-development",
+            "count": 76,
+            "totalSize": 6869944320,
+            "totalDownload": 550
+        },
+        {
+            "projectId": "5e31f673b81ce27d319ca87a",
+            "projectName": "Reprocess Athlete Microstructure Networks",
+            "count": 72,
+            "totalSize": 11029217280,
+            "totalDownload": 214
+        },
+        {
+            "projectId": "5fc6d6471828bc64b952345c",
+            "projectName": "bl_class_project",
+            "count": 8,
+            "totalSize": 1269821440,
+            "totalDownload": 118
+        },
+        {
+            "projectId": "5af88e8c54d02900272819c8",
+            "projectName": "Giulia 200",
+            "count": 274,
+            "totalSize": 56177674240,
+            "totalDownload": 115
+        },
+        {
+            "projectId": "5a5506fc4f89380027a9a493",
+            "projectName": "UCLA data ADHD",
+            "count": 282,
+            "totalSize": 4293406720,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5afc7d24322997002773ed19",
+            "projectName": "HCP 7T / Retinotopy (pRF)",
+            "count": 184,
+            "totalSize": 530952294400,
+            "totalDownload": 146
+        },
+        {
+            "projectId": "5c3f97cc147b69003601c923",
+            "projectName": "Susa Practice Dataset",
+            "count": 8,
+            "totalSize": 1269821440,
+            "totalDownload": 82
+        },
+        {
+            "projectId": "5e6ea1a48a2089fc6d8e9fc7",
+            "projectName": "Bl class test data",
+            "count": 14,
+            "totalSize": 2216591360,
+            "totalDownload": 164
+        }
+    ]
+}

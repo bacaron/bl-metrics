@@ -1,0 +1,151 @@
+{
+    "totalObjectCount": 977,
+    "totalObjectSize": 1931018240,
+    "totalObjectDownload": 452,
+    "byUsers": [
+        {
+            "sub": "1",
+            "count": 801,
+            "totalSize": 0,
+            "totalDownload": 37
+        },
+        {
+            "sub": "99",
+            "count": 4,
+            "totalSize": 0,
+            "totalDownload": 8
+        },
+        {
+            "sub": "19",
+            "count": 5,
+            "totalSize": 1731399680,
+            "totalDownload": 19
+        },
+        {
+            "sub": "106",
+            "count": 156,
+            "totalSize": 0,
+            "totalDownload": 319
+        },
+        {
+            "sub": "16",
+            "count": 7,
+            "totalSize": 199618560,
+            "totalDownload": 49
+        },
+        {
+            "sub": "50",
+            "count": 1,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "101",
+            "count": 3,
+            "totalSize": 0,
+            "totalDownload": 20
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 1,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 224,
+            "totalSize": 199618560,
+            "totalDownload": 184
+        },
+        {
+            "datatypeId": "599f305ad1f46fec1759f363",
+            "datatypeName": "neuro/tractmeasures",
+            "count": 1,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58f10a90436ee50ffd9063c5",
+            "datatypeName": "neuro/wmc-deprecated",
+            "count": 1,
+            "totalSize": 19793920,
+            "totalDownload": 5
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 160,
+            "totalSize": 0,
+            "totalDownload": 19
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 370,
+            "totalSize": 0,
+            "totalDownload": 81
+        },
+        {
+            "datatypeId": "594c0325fa1d2e5a1f0beda5",
+            "datatypeName": "neuro/anat/t2w",
+            "count": 57,
+            "totalSize": 0,
+            "totalDownload": 121
+        },
+        {
+            "datatypeId": "58d15eaee13a50849b258844",
+            "datatypeName": "neuro/LiFE",
+            "count": 1,
+            "totalSize": 1711605760,
+            "totalDownload": 8
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 162,
+            "totalSize": 0,
+            "totalDownload": 30
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "59c55f21af55780027908882",
+            "projectName": "Sherbrooke dataset",
+            "count": 1,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "59a074fc6895d6002e0aca7a",
+            "projectName": "agerl",
+            "count": 160,
+            "totalSize": 0,
+            "totalDownload": 327
+        },
+        {
+            "projectId": "59a57af4b5e93a0023001416",
+            "projectName": "NKI",
+            "count": 3,
+            "totalSize": 0,
+            "totalDownload": 20
+        },
+        {
+            "projectId": "59a8729606340400237d13a6",
+            "projectName": "My NKI Derivatives",
+            "count": 806,
+            "totalSize": 1731399680,
+            "totalDownload": 56
+        },
+        {
+            "projectId": "59244639b3cd7c00211dc1b0",
+            "projectName": "Concussion",
+            "count": 7,
+            "totalSize": 199618560,
+            "totalDownload": 49
+        }
+    ]
+}

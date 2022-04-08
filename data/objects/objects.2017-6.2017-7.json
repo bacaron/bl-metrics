@@ -1,0 +1,178 @@
+{
+    "totalObjectCount": 5438,
+    "totalObjectSize": 5262219908608,
+    "totalObjectDownload": 134306,
+    "byUsers": [
+        {
+            "sub": "1",
+            "count": 5438,
+            "totalSize": 5262219908608,
+            "totalDownload": 134306
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 1409,
+            "totalSize": 1790257278976,
+            "totalDownload": 21176
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 2461,
+            "totalSize": 3451202170880,
+            "totalDownload": 68312
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 1568,
+            "totalSize": 20760458752,
+            "totalDownload": 44818
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "5f3cf38929b3ac4a18f086ff",
+            "projectName": "MIDL",
+            "count": 695,
+            "totalSize": 9201709056,
+            "totalDownload": 17996
+        },
+        {
+            "projectId": "606bde8bc7f80a4df794b2d4",
+            "projectName": "HCP test-retest",
+            "count": 21,
+            "totalSize": 26175395328,
+            "totalDownload": 597
+        },
+        {
+            "projectId": "5f51591542c172bcf864d100",
+            "projectName": "BrainLife Class 2020 - Taylor's Project",
+            "count": 14,
+            "totalSize": 18433567232,
+            "totalDownload": 655
+        },
+        {
+            "projectId": "5941a225f876b000210c11e5",
+            "projectName": "HCP 3T / Diffusion",
+            "count": 2619,
+            "totalSize": 2587546098688,
+            "totalDownload": 68891
+        },
+        {
+            "projectId": "5d1cbc963673850636611be1",
+            "projectName": "FNAL - IFOFs - dataset",
+            "count": 22,
+            "totalSize": 291119616,
+            "totalDownload": 1402
+        },
+        {
+            "projectId": "5d80275d03e8c9098ceaef19",
+            "projectName": "HCP 3T ",
+            "count": 962,
+            "totalSize": 1089537344000,
+            "totalDownload": 9979
+        },
+        {
+            "projectId": "5e977ee26365e9a04a474c57",
+            "projectName": "pRf Mapping lab report",
+            "count": 8,
+            "totalSize": 9884360704,
+            "totalDownload": 331
+        },
+        {
+            "projectId": "5fc5965a1828bc9f3551e377",
+            "projectName": "Rapporto tre",
+            "count": 7,
+            "totalSize": 9783767040,
+            "totalDownload": 413
+        },
+        {
+            "projectId": "5f8e2cbdc1938584540c63dc",
+            "projectName": "HCP Test-Retest",
+            "count": 21,
+            "totalSize": 26175395328,
+            "totalDownload": 332
+        },
+        {
+            "projectId": "5fa925f3afcdcce87fc3facc",
+            "projectName": "DL with Pytorch - preliminary tests",
+            "count": 34,
+            "totalSize": 41916634112,
+            "totalDownload": 459
+        },
+        {
+            "projectId": "5e9779476365e95fd8473fb6",
+            "projectName": "Junchu's Third Class Project",
+            "count": 7,
+            "totalSize": 9783767040,
+            "totalDownload": 322
+        },
+        {
+            "projectId": "60c866457657d95b8fe1458d",
+            "projectName": "Sample data for BUAN workflow ",
+            "count": 10,
+            "totalSize": 5829593088,
+            "totalDownload": 244
+        },
+        {
+            "projectId": "6178bcf09538685e5db810ee",
+            "projectName": "HCP network neuro",
+            "count": 992,
+            "totalSize": 1391338813440,
+            "totalDownload": 30224
+        },
+        {
+            "projectId": "5e5265be5fb033cf26f9a341",
+            "projectName": "HCP Data",
+            "count": 1,
+            "totalSize": 1254928384,
+            "totalDownload": 1196
+        },
+        {
+            "projectId": "5fc136061828bc8c1e5130c2",
+            "projectName": "Report 3",
+            "count": 7,
+            "totalSize": 9783767040,
+            "totalDownload": 412
+        },
+        {
+            "projectId": "5e9478da509219972ff0af90",
+            "projectName": "HCPD",
+            "count": 2,
+            "totalSize": 2876654592,
+            "totalDownload": 138
+        },
+        {
+            "projectId": "5a78c177340591004da75e6f",
+            "projectName": "AAA - Giulia test",
+            "count": 1,
+            "totalSize": 1439170560,
+            "totalDownload": 77
+        },
+        {
+            "projectId": "5e9f790af1745d2a3cf6d3fe",
+            "projectName": "Project 3 ",
+            "count": 7,
+            "totalSize": 9783767040,
+            "totalDownload": 307
+        },
+        {
+            "projectId": "5e941466571b8b4b51b27d4e",
+            "projectName": "Tractogram Filtering",
+            "count": 1,
+            "totalSize": 1400289280,
+            "totalDownload": 19
+        },
+        {
+            "projectId": "5ea319a3f1745da74df74ffd",
+            "projectName": "pRF Mapping report",
+            "count": 7,
+            "totalSize": 9783767040,
+            "totalDownload": 312
+        }
+    ]
+}

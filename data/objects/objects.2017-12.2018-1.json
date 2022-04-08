@@ -1,0 +1,167 @@
+{
+    "totalObjectCount": 1914,
+    "totalObjectSize": 53261977600,
+    "totalObjectDownload": 3828,
+    "byUsers": [
+        {
+            "sub": "43",
+            "count": 22,
+            "totalSize": 32232181760,
+            "totalDownload": 106
+        },
+        {
+            "sub": "1",
+            "count": 1567,
+            "totalSize": 13144709120,
+            "totalDownload": 3045
+        },
+        {
+            "sub": "106",
+            "count": 5,
+            "totalSize": 1073592320,
+            "totalDownload": 5
+        },
+        {
+            "sub": "99",
+            "count": 313,
+            "totalSize": 6518056960,
+            "totalDownload": 672
+        },
+        {
+            "sub": "19",
+            "count": 7,
+            "totalSize": 293437440,
+            "totalDownload": 0
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "594c0325fa1d2e5a1f0beda5",
+            "datatypeName": "neuro/anat/t2w",
+            "count": 580,
+            "totalSize": 3869634560,
+            "totalDownload": 42
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 560,
+            "totalSize": 15310213120,
+            "totalDownload": 989
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 2,
+            "totalSize": 471244800,
+            "totalDownload": 3
+        },
+        {
+            "datatypeId": "58d15eaee13a50849b258844",
+            "datatypeName": "neuro/LiFE",
+            "count": 5,
+            "totalSize": 9986344960,
+            "totalDownload": 19
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 756,
+            "totalSize": 7473356800,
+            "totalDownload": 2721
+        },
+        {
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 5,
+            "totalSize": 13855303680,
+            "totalDownload": 25
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 5,
+            "totalSize": 1542389760,
+            "totalDownload": 29
+        },
+        {
+            "datatypeId": "59c3eae633fc1cf9ead71679",
+            "datatypeName": "raw",
+            "count": 1,
+            "totalSize": 753489920,
+            "totalDownload": 0
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "59a074fc6895d6002e0aca7a",
+            "projectName": "agerl",
+            "count": 7,
+            "totalSize": 1073592320,
+            "totalDownload": 6
+        },
+        {
+            "projectId": "59a07539b47c0c0027ad7045",
+            "projectName": "subval",
+            "count": 137,
+            "totalSize": 2032906240,
+            "totalDownload": 496
+        },
+        {
+            "projectId": "5a20809e4b91f3005120875a",
+            "projectName": "HCP b2000 shell for cesar",
+            "count": 22,
+            "totalSize": 32232181760,
+            "totalDownload": 106
+        },
+        {
+            "projectId": "5a389b0b9602e51a586f4b26",
+            "projectName": "IXI",
+            "count": 1553,
+            "totalSize": 13012510720,
+            "totalDownload": 2905
+        },
+        {
+            "projectId": "5e28c8682f45e2786c09071f",
+            "projectName": "Report 1- Anatomical Preprocessing",
+            "count": 1,
+            "totalSize": 10127360,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5f4e87fb42c17290bb646396",
+            "projectName": "IXI Preprocess",
+            "count": 9,
+            "totalSize": 87500800,
+            "totalDownload": 97
+        },
+        {
+            "projectId": "5e28c8962f45e261a1090768",
+            "projectName": "Micaela IU lab demo",
+            "count": 2,
+            "totalSize": 17080320,
+            "totalDownload": 32
+        },
+        {
+            "projectId": "5a28e449e78f7477c8b8d9aa",
+            "projectName": "My Dev Derivatives",
+            "count": 7,
+            "totalSize": 293437440,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5e28c8992f45e20049090769",
+            "projectName": "Tial IU Lab demo",
+            "count": 2,
+            "totalSize": 17489920,
+            "totalDownload": 8
+        },
+        {
+            "projectId": "5a25f2714e57c077cf5e3471",
+            "projectName": "TLT",
+            "count": 174,
+            "totalSize": 4485150720,
+            "totalDownload": 175
+        }
+    ]
+}

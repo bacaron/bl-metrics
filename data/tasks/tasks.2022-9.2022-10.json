@@ -1,0 +1,12 @@
+{
+    "totalJobCount": 0,
+    "totalWalltime": 0,
+    "totalUsers": 0,
+    "totalServices": 0,
+    "totalGroups": 0,
+    "totalResources": 0,
+    "byUsers": [],
+    "byServices": [],
+    "byGroup": [],
+    "byResources": []
+}

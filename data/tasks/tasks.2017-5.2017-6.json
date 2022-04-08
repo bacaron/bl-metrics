@@ -1,0 +1,156 @@
+{
+    "totalJobCount": 668,
+    "totalWalltime": 0,
+    "totalUsers": 8,
+    "totalServices": 14,
+    "totalGroups": 1,
+    "totalResources": 4,
+    "byUsers": [
+        {
+            "sub": "30",
+            "jobCount": 54,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "53",
+            "jobCount": 14,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "1",
+            "jobCount": 271,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "43",
+            "jobCount": 29,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "51",
+            "jobCount": 250,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "41",
+            "jobCount": 33,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "16",
+            "jobCount": 11,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "50",
+            "jobCount": 6,
+            "jobWalltime": 0
+        }
+    ],
+    "byServices": [
+        {
+            "service": "brain-life/app-splitshells",
+            "jobCount": 4,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-tractclassification",
+            "jobCount": 6,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-datanormalize",
+            "jobCount": 10,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-connectome-data-comparison",
+            "jobCount": 6,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-tracking",
+            "jobCount": 41,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-life",
+            "jobCount": 31,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/abcd-novnc",
+            "jobCount": 22,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 56,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-networkneuro",
+            "jobCount": 4,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-noop",
+            "jobCount": 141,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-autoalignacpc",
+            "jobCount": 47,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-dtiinit",
+            "jobCount": 58,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-product-raw",
+            "jobCount": 198,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-freesurfer",
+            "jobCount": 44,
+            "jobWalltime": 0
+        }
+    ],
+    "byGroup": [
+        {
+            "groupId": null,
+            "jobCount": 668,
+            "jobWalltime": 0
+        }
+    ],
+    "byResources": [
+        {
+            "resourceId": "5845c8ceff35844a88494323",
+            "resourceName": "Karst @ IU (RIP)",
+            "jobCount": 586,
+            "jobWalltime": 0
+        },
+        {
+            "resourceId": "5889312fbde9e62488f860dd",
+            "resourceName": "iu-bigred2",
+            "jobCount": 5,
+            "jobWalltime": 0
+        },
+        {
+            "resourceId": null,
+            "resourceName": null,
+            "jobCount": 55,
+            "jobWalltime": 0
+        },
+        {
+            "resourceId": null,
+            "resourceName": null,
+            "jobCount": 22,
+            "jobWalltime": 0
+        }
+    ],
+    "visByType": []
+}
