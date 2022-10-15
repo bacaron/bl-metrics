@@ -61,16 +61,16 @@ def identify_docker_containers(owner,repo,branch,main_file):
 
 def check_neuroimage_package(df,package,container,check_command,check_file):
 
-    tmp = subprocess.run(["docker","run","--rm",container.split('docker://')[1],check_command,check_file],stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+    tmp = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],check_command,check_file],stdout=subprocess.PIPE,stderr=subprocess.PIPE)
     found_by = 'brad-code'
 
     if package == 'qsiprep' or package == 'fmriprep' or package == 'mriqc':
-        package_version = subprocess.run(["docker","run","--rm",container.split('docker://')[1],check_command],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').strip('\n').split(' ')[1]
+        package_version = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],check_command],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').strip('\n').split(' ')[1]
         df = df.append({'package': package, 'version': package_version, 'found_by': found_by},ignore_index=True)
     elif package == 'freesurfer-stats':
         if tmp.stdout.decode('utf-8'):
             filepath = check_file+'/Pipfile'
-            tmp_vs = subprocess.run(["docker","run","--rm",container.split('docker://')[1],"cat",filepath],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+            tmp_vs = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],"cat",filepath],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')
             package_version = [ tmp_vs[f+1] for f in range(len(tmp_vs)) if 'freesurfer-stats' in tmp_vs[f] ][0].split(' ')[1]
             df = df.append({'package': package, 'version': package_version, 'found_by': found_by},ignore_index=True)
     else:    
@@ -80,21 +80,21 @@ def check_neuroimage_package(df,package,container,check_command,check_file):
                 if 'bin' in filepath:
                     filepath = filepath.split('/bin')[0]
                 filepath = filepath+'/VERSION'
-                package_version = subprocess.run(["docker","run","--rm",container.split('docker://')[1],"cat",filepath],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0]
+                package_version = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],"cat",filepath],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0]
                 if not package_version:
-                    package_version = subprocess.run(["docker","run","--rm",container.split('docker://')[1],"mri_vol2vol","--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0].split(' ')[-1]
+                    package_version = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],"mri_vol2vol","--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0].split(' ')[-1]
                     if package_version == 'info)':
                         package_version = 'dev'
             elif package == 'connectome_workbench':
-                tmp_vs = subprocess.run(["docker","run","--rm",container.split('docker://')[1],check_file,"-version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+                tmp_vs = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],check_file,"-version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')
                 package_version = [ f for f in tmp_vs if 'Version:' in f ][0].split('Version:')[1].strip(' ')
             elif package == 'mrtrix':
-                tmp_vs = subprocess.run(["docker","run","--rm",container.split('docker://')[1],check_file,"--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+                tmp_vs = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],check_file,"--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')
                 package_version = [ f for f in tmp_vs if check_file in f ][0].replace('==','').strip(' ').split(' ')[1]
             elif package == 'dsistudio':
-                package_version = subprocess.run(["docker","run","--rm",container.split('docker://')[1],check_file,"--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0].split(': ')[1]
+                package_version = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],check_file,"--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0].split(': ')[1]
             elif package == 'pynets':
-                package_version = subprocess.run(["docker","run","--rm",container.split('docker://')[1],check_file,"--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0].split(' ')[1]   
+                package_version = subprocess.run(["sudo","docker","run","--rm",container.split('docker://')[1],check_file,"--version"],stdout=subprocess.PIPE,stderr=subprocess.PIPE).stdout.decode('utf-8').split('\n')[0].split(' ')[1]   
                         
             df = df.append({'package': package, 'version': package_version, 'found_by': found_by},ignore_index=True)
 
@@ -155,7 +155,7 @@ def identify_binaries(container):
     df['containers'] = [ container for f in range(len(df)) ]
 
     # removes the singularity image to avoid memory issues
-    subprocess.run(["docker","rmi", container.split('docker://')[1]])
+    subprocess.run(["sudo","docker","rmi", container.split('docker://')[1]])
     
     return df
 
