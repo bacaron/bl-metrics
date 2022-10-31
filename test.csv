@@ -1,0 +1,13 @@
+input,intermediate_a,intermediate_b,output,frequency
+anat/t1w,freesurfer,,parc-stats,100
+dwi,track,wmc,tractmeasures,100
+dwi,tensor,,tractmeasures,100
+dwi,noddi,,tractmeasures,100
+dwi,track,,network,100
+dwi,tensor,,parc-stats,100
+dwi,noddi,,parc-stats,100
+dwi,noddi,,network,100
+dwi,tensor,,network,100
+func/task,timeseries,,network,100
+meeg,timeseries,,psd,100
+anat/t1w,freesurfer,,network,100
