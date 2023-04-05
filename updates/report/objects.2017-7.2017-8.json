@@ -1,0 +1,170 @@
+{
+    "totalObjectCount": 1150,
+    "totalObjectSize": 11166686720,
+    "totalObjectDownload": 31573,
+    "byUsers": [
+        {
+            "sub": "56",
+            "count": 8,
+            "totalSize": 297082880,
+            "totalDownload": 21
+        },
+        {
+            "sub": "1",
+            "count": 1142,
+            "totalSize": 10869603840,
+            "totalDownload": 31552
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 990,
+            "totalSize": 10916994560,
+            "totalDownload": 31312
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 160,
+            "totalSize": 249692160,
+            "totalDownload": 261
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "59a09bbab47c0c0027ad7046",
+            "projectName": "HCP 7T / Diffusion",
+            "count": 297,
+            "totalSize": 0,
+            "totalDownload": 414
+        },
+        {
+            "projectId": "5e28c8682f45e2786c09071f",
+            "projectName": "Report 1- Anatomical Preprocessing",
+            "count": 6,
+            "totalSize": 79695872,
+            "totalDownload": 395
+        },
+        {
+            "projectId": "5fc15cff1828bc401351636e",
+            "projectName": "report 3 2.0",
+            "count": 7,
+            "totalSize": 92669440,
+            "totalDownload": 696
+        },
+        {
+            "projectId": "5e3b2e289362b7627bf97c9f",
+            "projectName": "Natalie_R1_P457",
+            "count": 5,
+            "totalSize": 0,
+            "totalDownload": 23
+        },
+        {
+            "projectId": "5f51591542c172bcf864d100",
+            "projectName": "BrainLife Class 2020 - Taylor's Project",
+            "count": 7,
+            "totalSize": 92669440,
+            "totalDownload": 582
+        },
+        {
+            "projectId": "5965231d36b4660028ba5f52",
+            "projectName": "NYUpreprocess",
+            "count": 8,
+            "totalSize": 297082880,
+            "totalDownload": 21
+        },
+        {
+            "projectId": "5d1cbc963673850636611be1",
+            "projectName": "FNAL - IFOFs - dataset",
+            "count": 5,
+            "totalSize": 66159616,
+            "totalDownload": 578
+        },
+        {
+            "projectId": "5a78c177340591004da75e6f",
+            "projectName": "AAA - Giulia test",
+            "count": 1,
+            "totalSize": 13239808,
+            "totalDownload": 78
+        },
+        {
+            "projectId": "5e977ee26365e9a04a474c57",
+            "projectName": "pRf Mapping lab report",
+            "count": 6,
+            "totalSize": 79421952,
+            "totalDownload": 424
+        },
+        {
+            "projectId": "5fc5965a1828bc9f3551e377",
+            "projectName": "Rapporto tre",
+            "count": 7,
+            "totalSize": 92669440,
+            "totalDownload": 582
+        },
+        {
+            "projectId": "5e9478da509219972ff0af90",
+            "projectName": "HCPD",
+            "count": 1,
+            "totalSize": 13239808,
+            "totalDownload": 72
+        },
+        {
+            "projectId": "5941a225f876b000210c11e5",
+            "projectName": "HCP 3T / Diffusion",
+            "count": 251,
+            "totalSize": 3323053568,
+            "totalDownload": 13171
+        },
+        {
+            "projectId": "5e9779476365e95fd8473fb6",
+            "projectName": "Junchu's Third Class Project",
+            "count": 24,
+            "totalSize": 92669440,
+            "totalDownload": 574
+        },
+        {
+            "projectId": "5e9f790af1745d2a3cf6d3fe",
+            "projectName": "Project 3 ",
+            "count": 7,
+            "totalSize": 92669440,
+            "totalDownload": 454
+        },
+        {
+            "projectId": "5ea319a3f1745da74df74ffd",
+            "projectName": "pRF Mapping report",
+            "count": 7,
+            "totalSize": 92669440,
+            "totalDownload": 473
+        },
+        {
+            "projectId": "5e28c8992f45e20049090769",
+            "projectName": "Tial IU Lab demo",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 35
+        },
+        {
+            "projectId": "5d80275d03e8c9098ceaef19",
+            "projectName": "HCP 3T ",
+            "count": 251,
+            "totalSize": 3323053568,
+            "totalDownload": 4836
+        },
+        {
+            "projectId": "5f3cf38929b3ac4a18f086ff",
+            "projectName": "MIDL",
+            "count": 251,
+            "totalSize": 3323053568,
+            "totalDownload": 7590
+        },
+        {
+            "projectId": "5fc136061828bc8c1e5130c2",
+            "projectName": "Report 3",
+            "count": 7,
+            "totalSize": 92669440,
+            "totalDownload": 575
+        }
+    ]
+}

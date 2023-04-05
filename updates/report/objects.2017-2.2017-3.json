@@ -1,0 +1,52 @@
+{
+    "totalObjectCount": 10,
+    "totalObjectSize": 0,
+    "totalObjectDownload": 20,
+    "byUsers": [
+        {
+            "sub": "1",
+            "count": 10,
+            "totalSize": 0,
+            "totalDownload": 20
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 8
+        },
+        {
+            "datatypeId": "59b685a08e5d38b0b331ddc5",
+            "datatypeName": "neuro/func/task",
+            "count": 6,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 12
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "59a57af4b5e93a0023001416",
+            "projectName": "NKI",
+            "count": 8,
+            "totalSize": 0,
+            "totalDownload": 20
+        },
+        {
+            "projectId": "5c702244dac33f00310c13d2",
+            "projectName": "OHBM 2019 - NKI",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 0
+        }
+    ]
+}

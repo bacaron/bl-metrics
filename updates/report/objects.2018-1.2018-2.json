@@ -1,0 +1,167 @@
+{
+    "totalObjectCount": 3204,
+    "totalObjectSize": 1625452636160,
+    "totalObjectDownload": 4161,
+    "byUsers": [
+        {
+            "sub": "1",
+            "count": 3070,
+            "totalSize": 1615702394880,
+            "totalDownload": 3723
+        },
+        {
+            "sub": "99",
+            "count": 2,
+            "totalSize": 1478768640,
+            "totalDownload": 14
+        },
+        {
+            "sub": "43",
+            "count": 86,
+            "totalSize": 5750814720,
+            "totalDownload": 137
+        },
+        {
+            "sub": "106",
+            "count": 44,
+            "totalSize": 2446243840,
+            "totalDownload": 285
+        },
+        {
+            "sub": "19",
+            "count": 2,
+            "totalSize": 74414080,
+            "totalDownload": 2
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "58e6e21e6cd4e826de4537ee",
+            "datatypeName": "neuro/networkneuro",
+            "count": 1,
+            "totalSize": 46776320,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 269,
+            "totalSize": 70355435520,
+            "totalDownload": 1541
+        },
+        {
+            "datatypeId": "592dded1436ee50ffd88f5d0",
+            "datatypeName": "neuro/tractmasks",
+            "count": 220,
+            "totalSize": 273029120,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 307,
+            "totalSize": 19909908480,
+            "totalDownload": 940
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 263,
+            "totalSize": 2253588480,
+            "totalDownload": 807
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 524,
+            "totalSize": 20611573760,
+            "totalDownload": 17
+        },
+        {
+            "datatypeId": "59bbfadd6b956e1c2ae89ef3",
+            "datatypeName": "neuro/freesurfer/longitudinal-template",
+            "count": 1,
+            "totalSize": 27637760,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "59399b95436ee50ffdc08381",
+            "datatypeName": "neuro/laplace_beltrami_spectrum",
+            "count": 220,
+            "totalSize": 33792000,
+            "totalDownload": 228
+        },
+        {
+            "datatypeId": "5967b799b09297d8d831709e",
+            "datatypeName": "generic/images",
+            "count": 220,
+            "totalSize": 3067330560,
+            "totalDownload": 422
+        },
+        {
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 261,
+            "totalSize": 625357199360,
+            "totalDownload": 6
+        },
+        {
+            "datatypeId": "59307a08436ee50ffd973278",
+            "datatypeName": "neuro/3Dsurfaces",
+            "count": 440,
+            "totalSize": 38412912640,
+            "totalDownload": 156
+        },
+        {
+            "datatypeId": "58f10a90436ee50ffd9063c5",
+            "datatypeName": "neuro/wmc-deprecated",
+            "count": 478,
+            "totalSize": 845103452160,
+            "totalDownload": 42
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "59a074fc6895d6002e0aca7a",
+            "projectName": "agerl",
+            "count": 46,
+            "totalSize": 3925012480,
+            "totalDownload": 299
+        },
+        {
+            "projectId": "5a5506fc4f89380027a9a493",
+            "projectName": "UCLA data ADHD",
+            "count": 507,
+            "totalSize": 268563845120,
+            "totalDownload": 502
+        },
+        {
+            "projectId": "5a55069256e507002d1a962d",
+            "projectName": "UCLA data Bipolar",
+            "count": 605,
+            "totalSize": 309455319040,
+            "totalDownload": 636
+        },
+        {
+            "projectId": "5a28e449e78f7477c8b8d9aa",
+            "projectName": "My Dev Derivatives",
+            "count": 2,
+            "totalSize": 74414080,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5a550659b1fd8000452bda4f",
+            "projectName": "UCLA data SCHZ",
+            "count": 573,
+            "totalSize": 284608215040,
+            "totalDownload": 630
+        },
+        {
+            "projectId": "5a55061141fd04003f9d4892",
+            "projectName": "UCLA data Controls",
+            "count": 1471,
+            "totalSize": 758825830400,
+            "totalDownload": 2092
+        }
+    ]
+}

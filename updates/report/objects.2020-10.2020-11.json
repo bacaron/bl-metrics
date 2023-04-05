@@ -1,0 +1,1467 @@
+{
+    "totalObjectCount": 22752,
+    "totalObjectSize": 1480018616320,
+    "totalObjectDownload": 18027,
+    "byUsers": [
+        {
+            "sub": "16",
+            "count": 1444,
+            "totalSize": 558785474560,
+            "totalDownload": 3316
+        },
+        {
+            "sub": "45",
+            "count": 1,
+            "totalSize": 825835520,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1",
+            "count": 7,
+            "totalSize": 502876160,
+            "totalDownload": 11
+        },
+        {
+            "sub": "1119",
+            "count": 10,
+            "totalSize": 4248934400,
+            "totalDownload": 10
+        },
+        {
+            "sub": "156",
+            "count": 2,
+            "totalSize": 2682880,
+            "totalDownload": 1
+        },
+        {
+            "sub": "1225",
+            "count": 316,
+            "totalSize": 0,
+            "totalDownload": 9
+        },
+        {
+            "sub": "1081",
+            "count": 370,
+            "totalSize": 14644449280,
+            "totalDownload": 4
+        },
+        {
+            "sub": "1040",
+            "count": 801,
+            "totalSize": 149432320,
+            "totalDownload": 7
+        },
+        {
+            "sub": "1200",
+            "count": 5,
+            "totalSize": 341299200,
+            "totalDownload": 4
+        },
+        {
+            "sub": "506",
+            "count": 30,
+            "totalSize": 160450560,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1179",
+            "count": 510,
+            "totalSize": 60437381120,
+            "totalDownload": 61
+        },
+        {
+            "sub": "828",
+            "count": 24,
+            "totalSize": 387512320,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1233",
+            "count": 125,
+            "totalSize": 0,
+            "totalDownload": 30
+        },
+        {
+            "sub": "856",
+            "count": 399,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1008",
+            "count": 3,
+            "totalSize": 444067840,
+            "totalDownload": 10
+        },
+        {
+            "sub": "1213",
+            "count": 71,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "sub": "1212",
+            "count": 178,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1221",
+            "count": 1,
+            "totalSize": 2631680,
+            "totalDownload": 3
+        },
+        {
+            "sub": "117",
+            "count": 5,
+            "totalSize": 285982720,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1178",
+            "count": 534,
+            "totalSize": 15461754880,
+            "totalDownload": 709
+        },
+        {
+            "sub": "1170",
+            "count": 423,
+            "totalSize": 13858887680,
+            "totalDownload": 504
+        },
+        {
+            "sub": "1203",
+            "count": 26,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "510",
+            "count": 1,
+            "totalSize": 2938880,
+            "totalDownload": 2
+        },
+        {
+            "sub": "1218",
+            "count": 530,
+            "totalSize": 0,
+            "totalDownload": 51
+        },
+        {
+            "sub": "1201",
+            "count": 80,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1222",
+            "count": 31,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "513",
+            "count": 2,
+            "totalSize": 25221120,
+            "totalDownload": 1
+        },
+        {
+            "sub": "1092",
+            "count": 1,
+            "totalSize": 45056000,
+            "totalDownload": 4
+        },
+        {
+            "sub": "1177",
+            "count": 417,
+            "totalSize": 13763461120,
+            "totalDownload": 934
+        },
+        {
+            "sub": "1086",
+            "count": 250,
+            "totalSize": 12023859200,
+            "totalDownload": 0
+        },
+        {
+            "sub": "19",
+            "count": 1,
+            "totalSize": 113909760,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1073",
+            "count": 1360,
+            "totalSize": 37538027520,
+            "totalDownload": 3416
+        },
+        {
+            "sub": "1168",
+            "count": 575,
+            "totalSize": 16241039360,
+            "totalDownload": 600
+        },
+        {
+            "sub": "1116",
+            "count": 110,
+            "totalSize": 17477642240,
+            "totalDownload": 102
+        },
+        {
+            "sub": "1241",
+            "count": 62,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "sub": "1115",
+            "count": 197,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "sub": "1169",
+            "count": 566,
+            "totalSize": 16077414400,
+            "totalDownload": 1244
+        },
+        {
+            "sub": "148",
+            "count": 276,
+            "totalSize": 9567498240,
+            "totalDownload": 349
+        },
+        {
+            "sub": "907",
+            "count": 3,
+            "totalSize": 888432640,
+            "totalDownload": 0
+        },
+        {
+            "sub": "785",
+            "count": 6,
+            "totalSize": 65587200,
+            "totalDownload": 1
+        },
+        {
+            "sub": "816",
+            "count": 504,
+            "totalSize": 68001259520,
+            "totalDownload": 670
+        },
+        {
+            "sub": "584",
+            "count": 1,
+            "totalSize": 6963200,
+            "totalDownload": 0
+        },
+        {
+            "sub": "837",
+            "count": 10,
+            "totalSize": 229427200,
+            "totalDownload": 9
+        },
+        {
+            "sub": "682",
+            "count": 324,
+            "totalSize": 24480000000,
+            "totalDownload": 123
+        },
+        {
+            "sub": "578",
+            "count": 23,
+            "totalSize": 2367744000,
+            "totalDownload": 4
+        },
+        {
+            "sub": "56",
+            "count": 4,
+            "totalSize": 38236160,
+            "totalDownload": 0
+        },
+        {
+            "sub": "123",
+            "count": 409,
+            "totalSize": 89436160,
+            "totalDownload": 4
+        },
+        {
+            "sub": "1114",
+            "count": 109,
+            "totalSize": 25389230080,
+            "totalDownload": 80
+        },
+        {
+            "sub": "1183",
+            "count": 542,
+            "totalSize": 15678402560,
+            "totalDownload": 787
+        },
+        {
+            "sub": "1164",
+            "count": 403,
+            "totalSize": 12383979520,
+            "totalDownload": 263
+        },
+        {
+            "sub": "1239",
+            "count": 3,
+            "totalSize": 1055395840,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1035",
+            "count": 288,
+            "totalSize": 109058744320,
+            "totalDownload": 95
+        },
+        {
+            "sub": "629",
+            "count": 8,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "sub": "1079",
+            "count": 15,
+            "totalSize": 2553579520,
+            "totalDownload": 27
+        },
+        {
+            "sub": "1240",
+            "count": 588,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1176",
+            "count": 104,
+            "totalSize": 7930900480,
+            "totalDownload": 26
+        },
+        {
+            "sub": "808",
+            "count": 4,
+            "totalSize": 27770880,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1243",
+            "count": 1,
+            "totalSize": 148029440,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1226",
+            "count": 1,
+            "totalSize": 347402240,
+            "totalDownload": 0
+        },
+        {
+            "sub": "285",
+            "count": 2,
+            "totalSize": 698388480,
+            "totalDownload": 2
+        },
+        {
+            "sub": "1208",
+            "count": 64,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "warehouse",
+            "count": 1,
+            "totalSize": 443678720,
+            "totalDownload": 2
+        },
+        {
+            "sub": "115",
+            "count": 77,
+            "totalSize": 6376673280,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1102",
+            "count": 100,
+            "totalSize": 17230479360,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1245",
+            "count": 350,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "sub": "146",
+            "count": 6,
+            "totalSize": 898170880,
+            "totalDownload": 9
+        },
+        {
+            "sub": "521",
+            "count": 8,
+            "totalSize": 659056640,
+            "totalDownload": 6
+        },
+        {
+            "sub": "1175",
+            "count": 831,
+            "totalSize": 20993607680,
+            "totalDownload": 518
+        },
+        {
+            "sub": "1172",
+            "count": 554,
+            "totalSize": 15889776640,
+            "totalDownload": 583
+        },
+        {
+            "sub": "283",
+            "count": 1,
+            "totalSize": 1418321920,
+            "totalDownload": 1
+        },
+        {
+            "sub": "126",
+            "count": 291,
+            "totalSize": 28806901760,
+            "totalDownload": 502
+        },
+        {
+            "sub": "1209",
+            "count": 3974,
+            "totalSize": 305175500800,
+            "totalDownload": 2244
+        },
+        {
+            "sub": "1197",
+            "count": 2,
+            "totalSize": 37888000,
+            "totalDownload": 8
+        },
+        {
+            "sub": "1220",
+            "count": 1,
+            "totalSize": 31784960,
+            "totalDownload": 3
+        },
+        {
+            "sub": "135",
+            "count": 30,
+            "totalSize": 216309760,
+            "totalDownload": 0
+        },
+        {
+            "sub": "1206",
+            "count": 2750,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "sub": "1173",
+            "count": 616,
+            "totalSize": 16985835520,
+            "totalDownload": 670
+        }
+    ],
+    "byDatatypes": [
+        {
+            "datatypeId": "5c58aa5ef9109beac4b52f61",
+            "datatypeName": "neuro/cortexmap",
+            "count": 48,
+            "totalSize": 6293227520,
+            "totalDownload": 100
+        },
+        {
+            "datatypeId": "5f6954c7cfa36577f4c96595",
+            "datatypeName": "neuro/dsistudio/tinytrack",
+            "count": 11,
+            "totalSize": 1738782720,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 4407,
+            "totalSize": 52922992640,
+            "totalDownload": 3481
+        },
+        {
+            "datatypeId": "5c1a7489f9109beac4a88a1f",
+            "datatypeName": "neuro/parcellation/volume",
+            "count": 386,
+            "totalSize": 91054080,
+            "totalDownload": 141
+        },
+        {
+            "datatypeId": "5e56dc330f7fa604cc3cc291",
+            "datatypeName": "report/html",
+            "count": 1065,
+            "totalSize": 16113797120,
+            "totalDownload": 993
+        },
+        {
+            "datatypeId": "5dec20ff6c0bd9f84485779f",
+            "datatypeName": "neuro/eeg/egi",
+            "count": 2,
+            "totalSize": 117063680,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5f6a9c7ecfa365847cc9dc75",
+            "datatypeName": "neuro/dsistudio/tinytrack-s",
+            "count": 340,
+            "totalSize": 50414417920,
+            "totalDownload": 127
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 1275,
+            "totalSize": 346181570560,
+            "totalDownload": 894
+        },
+        {
+            "datatypeId": "5d9d18d8e30ae43bb0612715",
+            "datatypeName": "neuro/prf",
+            "count": 174,
+            "totalSize": 18313943040,
+            "totalDownload": 3
+        },
+        {
+            "datatypeId": "5c536bf0f9109beac46adb45",
+            "datatypeName": "neuro/csd",
+            "count": 242,
+            "totalSize": 54285885440,
+            "totalDownload": 219
+        },
+        {
+            "datatypeId": "5cb7711c44947d8aea8cb4f4",
+            "datatypeName": "generic/image/svg",
+            "count": 7,
+            "totalSize": 5601280,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "59b685a08e5d38b0b331ddc5",
+            "datatypeName": "neuro/func/task",
+            "count": 4553,
+            "totalSize": 104378798080,
+            "totalDownload": 3571
+        },
+        {
+            "datatypeId": "5c390505f9109beac42b00df",
+            "datatypeName": "neuro/fmap",
+            "count": 1075,
+            "totalSize": 3266560,
+            "totalDownload": 28
+        },
+        {
+            "datatypeId": "594c0325fa1d2e5a1f0beda5",
+            "datatypeName": "neuro/anat/t2w",
+            "count": 596,
+            "totalSize": 1192181760,
+            "totalDownload": 87
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 1,
+            "totalSize": 186572800,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5cc1d64c44947d8aea6b2d8b",
+            "datatypeName": "neuro/wmc",
+            "count": 166,
+            "totalSize": 36126351360,
+            "totalDownload": 218
+        },
+        {
+            "datatypeId": "5965467cb09297d8d81bdbcd",
+            "datatypeName": "neuro/tractprofile-deprecated",
+            "count": 28,
+            "totalSize": 119726080,
+            "totalDownload": 8
+        },
+        {
+            "datatypeId": "599f305ad1f46fec1759f363",
+            "datatypeName": "neuro/tractmeasures",
+            "count": 116,
+            "totalSize": 35328000,
+            "totalDownload": 247
+        },
+        {
+            "datatypeId": "5c4f6a8af9109beac4b3dae0",
+            "datatypeName": "neuro/regressors",
+            "count": 1065,
+            "totalSize": 1071892480,
+            "totalDownload": 1280
+        },
+        {
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 278,
+            "totalSize": 401327964160,
+            "totalDownload": 373
+        },
+        {
+            "datatypeId": "5f6957e2cfa3659a64c96606",
+            "datatypeName": "neuro/dsistudio/fib",
+            "count": 351,
+            "totalSize": 28569589760,
+            "totalDownload": 105
+        },
+        {
+            "datatypeId": "592dded1436ee50ffd88f5d0",
+            "datatypeName": "neuro/tractmasks",
+            "count": 2,
+            "totalSize": 2191360,
+            "totalDownload": 7
+        },
+        {
+            "datatypeId": "5d9cf81c0eed545f51bf75df",
+            "datatypeName": "neuro/anat/flair",
+            "count": 468,
+            "totalSize": 1196718080,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5edd3b77c5972b8c47b3a2c3",
+            "datatypeName": "neuro/parc-stats",
+            "count": 413,
+            "totalSize": 42629120,
+            "totalDownload": 584
+        },
+        {
+            "datatypeId": "5be9ea0315a8683a39a1ebd9",
+            "datatypeName": "neuro/rois",
+            "count": 22,
+            "totalSize": 68126720,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5967b799b09297d8d831709e",
+            "datatypeName": "generic/images",
+            "count": 69,
+            "totalSize": 570112000,
+            "totalDownload": 41
+        },
+        {
+            "datatypeId": "5ed02a620a8ed8e39c482a61",
+            "datatypeName": "neuro/noddi",
+            "count": 147,
+            "totalSize": 4537579520,
+            "totalDownload": 479
+        },
+        {
+            "datatypeId": "5bbfb28071454db2a890fbce",
+            "datatypeName": "neuro/transform/nifti",
+            "count": 8,
+            "totalSize": 1742080000,
+            "totalDownload": 11
+        },
+        {
+            "datatypeId": "5b956f6cd7b3f1e24e9121ce",
+            "datatypeName": "neuro/track/trk",
+            "count": 2,
+            "totalSize": 1142251520,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 879,
+            "totalSize": 270678108160,
+            "totalDownload": 1368
+        },
+        {
+            "datatypeId": "59666a40b09297d8d8271dfc",
+            "datatypeName": "generic/image/png",
+            "count": 5,
+            "totalSize": 307200,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5a281aee2c214c9ba83ce620",
+            "datatypeName": "neuro/mask",
+            "count": 2726,
+            "totalSize": 452608000,
+            "totalDownload": 2633
+        },
+        {
+            "datatypeId": "5f6956d9cfa365c3dcc965ec",
+            "datatypeName": "neuro/dsistudio/src",
+            "count": 11,
+            "totalSize": 972728320,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5a79df48d071a1753f1d661b",
+            "datatypeName": "neuro/tensor",
+            "count": 479,
+            "totalSize": 13593221120,
+            "totalDownload": 446
+        },
+        {
+            "datatypeId": "59c3eae633fc1cf9ead71679",
+            "datatypeName": "raw",
+            "count": 539,
+            "totalSize": 59916677120,
+            "totalDownload": 267
+        },
+        {
+            "datatypeId": "5dcf0047c4ae28d7f2298f48",
+            "datatypeName": "neuro/tcks",
+            "count": 4,
+            "totalSize": 27770880,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "5f6aa135cfa3656ab4c9e245",
+            "datatypeName": "neuro/dsistudio/tractmeasures",
+            "count": 331,
+            "totalSize": 26992640,
+            "totalDownload": 306
+        },
+        {
+            "datatypeId": "5c478b7bf9109beac4520be6",
+            "datatypeName": "neuro/parcellation/surface-deprecated",
+            "count": 360,
+            "totalSize": 5558507520,
+            "totalDownload": 3
+        },
+        {
+            "datatypeId": "5ddf1381936ca39318c5f045",
+            "datatypeName": "neuro/dwi/b0",
+            "count": 101,
+            "totalSize": 0,
+            "totalDownload": 3
+        }
+    ],
+    "byProjects": [
+        {
+            "projectId": "5f968fb960a9690d3097558a",
+            "projectName": "My Default Project",
+            "count": 3,
+            "totalSize": 1055395840,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5ea9f2820efebf83f3198869",
+            "projectName": "lemon",
+            "count": 10,
+            "totalSize": 229427200,
+            "totalDownload": 9
+        },
+        {
+            "projectId": "5f57f15a0c8f9597be658475",
+            "projectName": "Comp Neuro Class",
+            "count": 10,
+            "totalSize": 2075453440,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f849a95e6432d369e926e4a",
+            "projectName": "UCLA Consortium for Neuropsychiatric Phenomics LA5c Study",
+            "count": 265,
+            "totalSize": 0,
+            "totalDownload": 50
+        },
+        {
+            "projectId": "5d890ac7984220e3ea7ec11d",
+            "projectName": "Test",
+            "count": 1,
+            "totalSize": 6963200,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f7dd7b1268f76b4cd2a2bc9",
+            "projectName": "Balloon Analog Risk-taking Task",
+            "count": 64,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f9877ef60a969045f979eb0",
+            "projectName": "An EEG dataset recorded during affective music listening",
+            "count": 31,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f74478c0a320cb0c3112cd0",
+            "projectName": "HC1-Utrecht",
+            "count": 2,
+            "totalSize": 37888000,
+            "totalDownload": 8
+        },
+        {
+            "projectId": "5af88e8c54d02900272819c8",
+            "projectName": "Giulia 200",
+            "count": 1,
+            "totalSize": 825835520,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5ed5e32ada664512808e8800",
+            "projectName": "test - Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression",
+            "count": 6,
+            "totalSize": 65587200,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f889a92f5848e1ab4394a65",
+            "projectName": "CAMRI Mouse Brain MRI Data",
+            "count": 32,
+            "totalSize": 0,
+            "totalDownload": 5
+        },
+        {
+            "projectId": "5f98b1cb60a969bbf797acd5",
+            "projectName": "training",
+            "count": 1,
+            "totalSize": 13056000,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f9b2948e138ec8d204dbe6e",
+            "projectName": "DBIC QA data (weekly QA scans etc.)",
+            "count": 124,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f91f6511e3415c43eef300e",
+            "projectName": "Julia's Report 2 - Preprocessing fMRI data and quality assurance reports",
+            "count": 96,
+            "totalSize": 15970539520,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f46931e29b3ac2c69f17a3b",
+            "projectName": "ADNI-not selected",
+            "count": 18,
+            "totalSize": 2282106880,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5f7b577d268f7663b329df7e",
+            "projectName": "Psy 517 Flanker task (event-related)",
+            "count": 572,
+            "totalSize": 16174233600,
+            "totalDownload": 597
+        },
+        {
+            "projectId": "5f9ac797e138ec33694d9422",
+            "projectName": "test bcp data",
+            "count": 1,
+            "totalSize": 148019200,
+            "totalDownload": 4
+        },
+        {
+            "projectId": "5f6fc0816bbee3f6639acb80",
+            "projectName": "Flanker",
+            "count": 1,
+            "totalSize": 309401600,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5d28b38842ed0707bd305683",
+            "projectName": "My Default Project",
+            "count": 1,
+            "totalSize": 12165120,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f902a541e341555a0ef00f3",
+            "projectName": "music interface ",
+            "count": 8,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f7bc413268f760c5c29ee9e",
+            "projectName": "Flanker task (event-related) ",
+            "count": 416,
+            "totalSize": 13454059520,
+            "totalDownload": 934
+        },
+        {
+            "projectId": "5f9c6d48e138ec7add4df0a8",
+            "projectName": "DWI Tractometry",
+            "count": 801,
+            "totalSize": 149432320,
+            "totalDownload": 7
+        },
+        {
+            "projectId": "5fcfa448678a91976a4a0478",
+            "projectName": "Ensemble Tracking 2.0",
+            "count": 1,
+            "totalSize": 1822720,
+            "totalDownload": 5
+        },
+        {
+            "projectId": "5d64733db29ac960ca2e797f",
+            "projectName": "App Test",
+            "count": 6,
+            "totalSize": 184412160,
+            "totalDownload": 10
+        },
+        {
+            "projectId": "5e835594dd840e5718e97b1e",
+            "projectName": "ABCD fibers",
+            "count": 28,
+            "totalSize": 160389120,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f6a87a2cfa3656f35c9d398",
+            "projectName": "Penthera 3T",
+            "count": 323,
+            "totalSize": 49635328000,
+            "totalDownload": 210
+        },
+        {
+            "projectId": "5e7e154edd840ef147e8febb",
+            "projectName": "My Default Project",
+            "count": 504,
+            "totalSize": 68001259520,
+            "totalDownload": 670
+        },
+        {
+            "projectId": "5f454c2829b3acef34f141d5",
+            "projectName": "MPI-Leipzig_Mind-Brain-Body",
+            "count": 3,
+            "totalSize": 1056040960,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5a78c177340591004da75e6f",
+            "projectName": "AAA - Giulia test",
+            "count": 9,
+            "totalSize": 1915023360,
+            "totalDownload": 12
+        },
+        {
+            "projectId": "5ede0b3bc5972b2020b3bd47",
+            "projectName": "pRF_Oxford",
+            "count": 5,
+            "totalSize": 285982720,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f6b851fcfa36555d4ca35a9",
+            "projectName": "Traveling Adult Multicenter",
+            "count": 108,
+            "totalSize": 4577935360,
+            "totalDownload": 50
+        },
+        {
+            "projectId": "5f71dab66bbee3d0ae9ae46e",
+            "projectName": "Data Sandra",
+            "count": 1,
+            "totalSize": 55377920,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5f66983acfa365f34fc9287f",
+            "projectName": "Flanker",
+            "count": 831,
+            "totalSize": 20993607680,
+            "totalDownload": 518
+        },
+        {
+            "projectId": "5f77b072268f76ba0f29a6a9",
+            "projectName": "Flanker task (event-related)",
+            "count": 403,
+            "totalSize": 12383979520,
+            "totalDownload": 263
+        },
+        {
+            "projectId": "5f79fb56268f76321629c48d",
+            "projectName": "Multi-echo fMRI replication sample of autobiographical memory, prospection and theory of mind reasoning tasks",
+            "count": 399,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f7b7c28268f76ed2f29e8c9",
+            "projectName": "Flanker task (event-related), group",
+            "count": 613,
+            "totalSize": 16919029760,
+            "totalDownload": 667
+        },
+        {
+            "projectId": "5f866699e6432db91a92c485",
+            "projectName": "New Project",
+            "count": 1,
+            "totalSize": 31784960,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5f7c90de268f76741d2a05f9",
+            "projectName": "MPI-Leipzig_Mind-Brain-Body",
+            "count": 2750,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f8809aff5848e36da392941",
+            "projectName": "An EEG dataset recorded during affective music listening",
+            "count": 31,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f8518c7e6432d19d2929674",
+            "projectName": "UCLA Consortium for Neuropsychiatric Phenomics LA5c Study",
+            "count": 265,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f85099be6432d3acf9286f2",
+            "projectName": "BME 5310: UCLA Consortium for Neuropsychiatric Phenomics LA5c Study",
+            "count": 3974,
+            "totalSize": 305175500800,
+            "totalDownload": 2244
+        },
+        {
+            "projectId": "5f96ef8a60a969e925976204",
+            "projectName": "dwiBCP",
+            "count": 2,
+            "totalSize": 296048640,
+            "totalDownload": 6
+        },
+        {
+            "projectId": "5f78c6ef268f7600ca29b44f",
+            "projectName": "Psych 517 Flanker task (Full Data Set)",
+            "count": 566,
+            "totalSize": 16077414400,
+            "totalDownload": 1244
+        },
+        {
+            "projectId": "5f970fc060a969c463976cfd",
+            "projectName": "Capstone",
+            "count": 15,
+            "totalSize": 2220093440,
+            "totalDownload": 51
+        },
+        {
+            "projectId": "5f98ca3660a969625197b0b4",
+            "projectName": "Flanker task (event-related) Group",
+            "count": 104,
+            "totalSize": 7930900480,
+            "totalDownload": 26
+        },
+        {
+            "projectId": "5f77b6ce268f76097529a7aa",
+            "projectName": "Flanker Practice Psych 517",
+            "count": 3,
+            "totalSize": 66805760,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5f9af115e138ec01d94da8ef",
+            "projectName": "bcp dwi data",
+            "count": 1,
+            "totalSize": 148029440,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f9b297ee138ec43d64dbefe",
+            "projectName": "ADHD200 - NeuroIMAGE",
+            "count": 73,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "604a39b5ebfe4555823af512",
+            "projectName": "brad group analysis test",
+            "count": 1,
+            "totalSize": 1894400,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5bf2f149910945002799f77c",
+            "projectName": "SchizConnect-NMorphCH",
+            "count": 4,
+            "totalSize": 38236160,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5e7d10b1dd840e00cde8b24b",
+            "projectName": "ABCD post",
+            "count": 2,
+            "totalSize": 61440,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f74efc8ed40aff636d17a5c",
+            "projectName": "mountsinai-P",
+            "count": 33,
+            "totalSize": 2754478080,
+            "totalDownload": 8
+        },
+        {
+            "projectId": "5f77891f268f76d604299feb",
+            "projectName": "PAE",
+            "count": 5,
+            "totalSize": 341299200,
+            "totalDownload": 4
+        },
+        {
+            "projectId": "5f9c3bfbe138ec73414de0ec",
+            "projectName": "Report 2",
+            "count": 10,
+            "totalSize": 4248934400,
+            "totalDownload": 10
+        },
+        {
+            "projectId": "5f85b08fe6432d4e0392a317",
+            "projectName": "Psych 517 Group",
+            "count": 534,
+            "totalSize": 15461754880,
+            "totalDownload": 709
+        },
+        {
+            "projectId": "5c645a8ef2362b00318046d4",
+            "projectName": "David Test Project",
+            "count": 1,
+            "totalSize": 1418321920,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f5f093faff27a3ee8360b4e",
+            "projectName": "ADNI-Sleep",
+            "count": 5,
+            "totalSize": 85637120,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5f85b714e6432d942392a5ed",
+            "projectName": "New Project",
+            "count": 1,
+            "totalSize": 2631680,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5c3cfd3e4f660c00aec9ee23",
+            "projectName": "HUMAN-ATT-TRACKING fMRI DATASET",
+            "count": 30,
+            "totalSize": 216309760,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f91f86c1e34151662ef326f",
+            "projectName": "BI Course - Project 2",
+            "count": 110,
+            "totalSize": 17477642240,
+            "totalDownload": 102
+        },
+        {
+            "projectId": "5f7e8cc6268f7601822a5861",
+            "projectName": "Visual object recognition hrf stimation",
+            "count": 71,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5f7b2119268f76116429d6d5",
+            "projectName": "Flanker task (event-related)",
+            "count": 26,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f4d3d2a42c1728f7d6440b0",
+            "projectName": "White Matter and Learning (WML)",
+            "count": 132,
+            "totalSize": 24225873920,
+            "totalDownload": 357
+        },
+        {
+            "projectId": "5f96d24d60a969bcf7975881",
+            "projectName": "Deep Image Reconstruction",
+            "count": 588,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f9706a760a9697eeb976a6d",
+            "projectName": "An EEG dataset recorded during affective music listening",
+            "count": 31,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5e86210f952fefc37c7a5d9a",
+            "projectName": "My Default Project",
+            "count": 24,
+            "totalSize": 387512320,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f6e2de66bbee36a379aa66a",
+            "projectName": "Flanker",
+            "count": 423,
+            "totalSize": 13858887680,
+            "totalDownload": 504
+        },
+        {
+            "projectId": "5f889eecf5848ec010394cfc",
+            "projectName": "Mouse_rest_awake",
+            "count": 20,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5f8e2cbdc1938584540c63dc",
+            "projectName": "HCP Test-Retest",
+            "count": 360,
+            "totalSize": 52670197760,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5e90c6d3952fef4de77bc319",
+            "projectName": "blast_child",
+            "count": 4,
+            "totalSize": 27770880,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5be9b84cd7b88f0026873917",
+            "projectName": "JAT_TEST",
+            "count": 324,
+            "totalSize": 24480000000,
+            "totalDownload": 123
+        },
+        {
+            "projectId": "5e849e65952fef3dcd7a1700",
+            "projectName": "PVP-development",
+            "count": 88,
+            "totalSize": 1429893120,
+            "totalDownload": 60
+        },
+        {
+            "projectId": "5941a225f876b000210c11e5",
+            "projectName": "HCP 3T / Diffusion",
+            "count": 1,
+            "totalSize": 18636800,
+            "totalDownload": 7
+        },
+        {
+            "projectId": "5c3f97cc147b69003601c923",
+            "projectName": "Susa Practice Dataset",
+            "count": 288,
+            "totalSize": 109058744320,
+            "totalDownload": 95
+        },
+        {
+            "projectId": "5cb8973c71a8630036207a6a",
+            "projectName": "Athlete Microstructure Data",
+            "count": 636,
+            "totalSize": 480578795520,
+            "totalDownload": 1575
+        },
+        {
+            "projectId": "5e9c9255f1745d584ef66add",
+            "projectName": "Glaucoma white matter microstructure",
+            "count": 408,
+            "totalSize": 34058240,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5d2fb9756c03750a8a525343",
+            "projectName": "Inherited Retinal Disease",
+            "count": 149,
+            "totalSize": 10689198080,
+            "totalDownload": 404
+        },
+        {
+            "projectId": "5f6a8829cfa365dd4bc9d3b3",
+            "projectName": "Penthera 1.5T",
+            "count": 79,
+            "totalSize": 9911941120,
+            "totalDownload": 83
+        },
+        {
+            "projectId": "5f64dfd2cfa3659c95c8ef6b",
+            "projectName": "TBI PTSD IRAD",
+            "count": 16,
+            "totalSize": 2598635520,
+            "totalDownload": 31
+        },
+        {
+            "projectId": "5f776985268f76c97f299b33",
+            "projectName": "Psy517 Practice Project",
+            "count": 3,
+            "totalSize": 66805760,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5f7acd6d268f769c0e29cdd5",
+            "projectName": "Functional Connectivity in Fibromyalgia",
+            "count": 80,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f78a7a9268f7658e029b005",
+            "projectName": "Flanker task (event-related)",
+            "count": 554,
+            "totalSize": 15889776640,
+            "totalDownload": 583
+        },
+        {
+            "projectId": "5f7b651f268f766ba129e172",
+            "projectName": "Flanker task (event-related)",
+            "count": 542,
+            "totalSize": 15678402560,
+            "totalDownload": 787
+        },
+        {
+            "projectId": "5f358cae4615e011e4bf9257",
+            "projectName": "MuMoPy",
+            "count": 620,
+            "totalSize": 26668308480,
+            "totalDownload": 4
+        },
+        {
+            "projectId": "5f7cce01268f7638682a1c98",
+            "projectName": "test preproc",
+            "count": 1,
+            "totalSize": 2938880,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5f7fc492268f7684672a74f1",
+            "projectName": "Flanker 3",
+            "count": 854,
+            "totalSize": 21140326400,
+            "totalDownload": 3338
+        },
+        {
+            "projectId": "5f84c907e6432d29dd9279cb",
+            "projectName": "fmap_upload_test",
+            "count": 2,
+            "totalSize": 2682880,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5cc9e1754b5e4502275edb78",
+            "projectName": "CRIMSON",
+            "count": 276,
+            "totalSize": 9567498240,
+            "totalDownload": 349
+        },
+        {
+            "projectId": "5f6cc0816bbee389b59a1819",
+            "projectName": "Human Connectome Young Adult - Test-Retest Dataset",
+            "count": 268,
+            "totalSize": 6387036160,
+            "totalDownload": 1037
+        },
+        {
+            "projectId": "5ebc39882cc30b7a2ae4027c",
+            "projectName": "LEMON dataset analysis",
+            "count": 3,
+            "totalSize": 888432640,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f889d55f5848e2b0c394acd",
+            "projectName": "CAMRI Rat Brain MRI Data",
+            "count": 264,
+            "totalSize": 0,
+            "totalDownload": 2
+        },
+        {
+            "projectId": "5f91b3271e3415a6b3ef2192",
+            "projectName": "fMRI preprocessing tutorial",
+            "count": 4,
+            "totalSize": 1259939840,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f91be381e34156b1cef23a5",
+            "projectName": "Brain activity during reciprocal social interaction investigated using conversational robots as control condition",
+            "count": 125,
+            "totalSize": 0,
+            "totalDownload": 30
+        },
+        {
+            "projectId": "5c702228dac33f00310c13d1",
+            "projectName": "Cam-CAN Structural Network Neuroscience Derivatives",
+            "count": 1,
+            "totalSize": 113909760,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f74e402ed40af24a1d175bd",
+            "projectName": "Flanker Analysis 2",
+            "count": 506,
+            "totalSize": 16397701120,
+            "totalDownload": 78
+        },
+        {
+            "projectId": "5f7e7f92268f7618b42a563d",
+            "projectName": "w207 Final Project",
+            "count": 178,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5f91fe791e34150becef399e",
+            "projectName": "Report 2: fMRI Preprocessing",
+            "count": 100,
+            "totalSize": 23757455360,
+            "totalDownload": 82
+        },
+        {
+            "projectId": "5f9c5137e138ec1b774de649",
+            "projectName": "Naturalistic Neuroimaging Database",
+            "count": 350,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5ef26605c1a7124ca3d2c8ba",
+            "projectName": "OR in albinism",
+            "count": 74,
+            "totalSize": 5320632320,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5ef88795c67a0de16e2a017f",
+            "projectName": "LWX-Multishell-denoise2sub",
+            "count": 2,
+            "totalSize": 31600640,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5e2b98fbe51f7a9aeb88c43c",
+            "projectName": "NSD 3T - Diffusion",
+            "count": 3,
+            "totalSize": 2654648320,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "60db1ac0cdfdb54f43011816",
+            "projectName": "PVP-development-removedSubjects",
+            "count": 54,
+            "totalSize": 899440640,
+            "totalDownload": 34
+        },
+        {
+            "projectId": "5f88e405f5848ed57c39551b",
+            "projectName": "First Project",
+            "count": 1,
+            "totalSize": 347402240,
+            "totalDownload": 0
+        }
+    ]
+}
