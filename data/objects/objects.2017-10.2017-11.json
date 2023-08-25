@@ -1,19 +1,19 @@
 {
     "totalObjectCount": 752,
     "totalObjectSize": 164459079680,
-    "totalObjectDownload": 6185,
+    "totalObjectDownload": 6638,
     "byUsers": [
         {
             "sub": "16",
             "count": 211,
             "totalSize": 28191948800,
-            "totalDownload": 735
+            "totalDownload": 745
         },
         {
-            "sub": "1",
-            "count": 506,
-            "totalSize": 136227758080,
-            "totalDownload": 5411
+            "sub": "30",
+            "count": 1,
+            "totalSize": 13271040,
+            "totalDownload": 0
         },
         {
             "sub": "19",
@@ -22,102 +22,32 @@
             "totalDownload": 12
         },
         {
+            "sub": "1",
+            "count": 506,
+            "totalSize": 136227758080,
+            "totalDownload": 5852
+        },
+        {
             "sub": "99",
             "count": 20,
             "totalSize": 26101760,
-            "totalDownload": 27
-        },
-        {
-            "sub": "30",
-            "count": 1,
-            "totalSize": 13271040,
-            "totalDownload": 0
+            "totalDownload": 29
         }
     ],
     "byDatatypes": [
         {
-            "datatypeId": "59c3eae633fc1cf9ead71679",
-            "datatypeName": "raw",
-            "count": 4,
-            "totalSize": 3167805440,
-            "totalDownload": 2
-        },
-        {
-            "datatypeId": "594c688bfa1d2e5a1f0e33f1",
-            "datatypeName": "neuro/conneval",
-            "count": 35,
-            "totalSize": 1075200,
-            "totalDownload": 8
-        },
-        {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 223,
-            "totalSize": 837130240,
-            "totalDownload": 3002
+            "datatypeId": "59b685a08e5d38b0b331ddc5",
+            "datatypeName": "neuro/func/task",
+            "count": 3,
+            "totalSize": 0,
+            "totalDownload": 21
         },
         {
             "datatypeId": "5907d922436ee50ffde9c549",
             "datatypeName": "neuro/track/tck",
             "count": 40,
             "totalSize": 75072952320,
-            "totalDownload": 13
-        },
-        {
-            "datatypeId": "5967b799b09297d8d831709e",
-            "datatypeName": "generic/images",
-            "count": 3,
-            "totalSize": 46653440,
-            "totalDownload": 15
-        },
-        {
-            "datatypeId": "58cb22c8e13a50849b25882e",
-            "datatypeName": "neuro/freesurfer",
-            "count": 85,
-            "totalSize": 11001047040,
-            "totalDownload": 376
-        },
-        {
-            "datatypeId": "58e6e21e6cd4e826de4537ee",
-            "datatypeName": "neuro/networkneuro",
-            "count": 1,
-            "totalSize": 0,
-            "totalDownload": 1
-        },
-        {
-            "datatypeId": "58d15eaee13a50849b258844",
-            "datatypeName": "neuro/LiFE",
-            "count": 38,
-            "totalSize": 48352665600,
-            "totalDownload": 56
-        },
-        {
-            "datatypeId": "59b685a08e5d38b0b331ddc5",
-            "datatypeName": "neuro/func/task",
-            "count": 3,
-            "totalSize": 0,
-            "totalDownload": 19
-        },
-        {
-            "datatypeId": "58c33c5fe13a50849b25879b",
-            "datatypeName": "neuro/dwi",
-            "count": 235,
-            "totalSize": 8761794560,
-            "totalDownload": 2422
-        },
-        {
-            "datatypeId": "58cb234be13a50849b25882f",
-            "datatypeName": "neuro/dtiinit",
-            "count": 42,
-            "totalSize": 3191613440,
-            "totalDownload": 125
-        },
-        {
-            "datatypeId": "58f10a90436ee50ffd9063c5",
-            "datatypeName": "neuro/wmc-deprecated",
-            "count": 35,
-            "totalSize": 14026321920,
-            "totalDownload": 136
+            "totalDownload": 14
         },
         {
             "datatypeId": "599f305ad1f46fec1759f363",
@@ -127,6 +57,13 @@
             "totalDownload": 0
         },
         {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 223,
+            "totalSize": 837130240,
+            "totalDownload": 3109
+        },
+        {
             "datatypeId": "59bbfadd6b956e1c2ae89ef3",
             "datatypeName": "neuro/freesurfer/longitudinal-template",
             "count": 5,
@@ -134,14 +71,98 @@
             "totalDownload": 8
         },
         {
+            "datatypeId": "58e6e21e6cd4e826de4537ee",
+            "datatypeName": "neuro/networkneuro",
+            "count": 1,
+            "totalSize": 0,
+            "totalDownload": 1
+        },
+        {
+            "datatypeId": "594c688bfa1d2e5a1f0e33f1",
+            "datatypeName": "neuro/conneval",
+            "count": 35,
+            "totalSize": 1075200,
+            "totalDownload": 8
+        },
+        {
+            "datatypeId": "59c3eae633fc1cf9ead71679",
+            "datatypeName": "raw",
+            "count": 4,
+            "totalSize": 3167805440,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 42,
+            "totalSize": 3191613440,
+            "totalDownload": 125
+        },
+        {
             "datatypeId": "594c0325fa1d2e5a1f0beda5",
             "datatypeName": "neuro/anat/t2w",
             "count": 1,
             "totalSize": 0,
             "totalDownload": 2
+        },
+        {
+            "datatypeId": "58d15eaee13a50849b258844",
+            "datatypeName": "neuro/LiFE",
+            "count": 38,
+            "totalSize": 48352665600,
+            "totalDownload": 56
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 235,
+            "totalSize": 8761794560,
+            "totalDownload": 2762
+        },
+        {
+            "datatypeId": "5967b799b09297d8d831709e",
+            "datatypeName": "generic/images",
+            "count": 3,
+            "totalSize": 46653440,
+            "totalDownload": 16
+        },
+        {
+            "datatypeId": "58f10a90436ee50ffd9063c5",
+            "datatypeName": "neuro/wmc-deprecated",
+            "count": 35,
+            "totalSize": 14026321920,
+            "totalDownload": 136
+        },
+        {
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 85,
+            "totalSize": 11001047040,
+            "totalDownload": 378
         }
     ],
     "byProjects": [
+        {
+            "projectId": "59a074fc6895d6002e0aca7a",
+            "projectName": "agerl",
+            "count": 20,
+            "totalSize": 26101760,
+            "totalDownload": 29
+        },
+        {
+            "projectId": "59e0facfe50f4d0045ade03d",
+            "projectName": "My HCP 3T Derivatives",
+            "count": 4,
+            "totalSize": 0,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "59e157b8e50f4d0045ade03e",
+            "projectName": "Seed based dynamic connectivity states",
+            "count": 6,
+            "totalSize": 0,
+            "totalDownload": 52
+        },
         {
             "projectId": "5e28c8992f45e20049090769",
             "projectName": "Tial IU Lab demo",
@@ -150,11 +171,39 @@
             "totalDownload": 53
         },
         {
-            "projectId": "59e157b8e50f4d0045ade03e",
-            "projectName": "Seed based dynamic connectivity states",
-            "count": 6,
+            "projectId": "606bde8bc7f80a4df794b2d4",
+            "projectName": "HCP test-retest",
+            "count": 126,
             "totalSize": 0,
-            "totalDownload": 50
+            "totalDownload": 2583
+        },
+        {
+            "projectId": "5907aafc3ddce500216712da",
+            "projectName": "Guest Private Project 1",
+            "count": 1,
+            "totalSize": 13271040,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "59dbbd66e50f4d0045ade003",
+            "projectName": "HCP 3T Retest / Diffusion",
+            "count": 135,
+            "totalSize": 0,
+            "totalDownload": 2180
+        },
+        {
+            "projectId": "59244639b3cd7c00211dc1b0",
+            "projectName": "Concussion",
+            "count": 390,
+            "totalSize": 164419706880,
+            "totalDownload": 980
+        },
+        {
+            "projectId": "59a8729606340400237d13a6",
+            "projectName": "My NKI Derivatives",
+            "count": 10,
+            "totalSize": 0,
+            "totalDownload": 12
         },
         {
             "projectId": "5e28c8962f45e261a1090768",
@@ -162,6 +211,13 @@
             "count": 6,
             "totalSize": 0,
             "totalDownload": 86
+        },
+        {
+            "projectId": "5e3b320f9362b78366f981f7",
+            "projectName": "The effects of concussions on the volumes of brain tissue ",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 30
         },
         {
             "projectId": "5e3b2e289362b7627bf97c9f",
@@ -176,62 +232,6 @@
             "count": 44,
             "totalSize": 0,
             "totalDownload": 606
-        },
-        {
-            "projectId": "59244639b3cd7c00211dc1b0",
-            "projectName": "Concussion",
-            "count": 390,
-            "totalSize": 164419706880,
-            "totalDownload": 970
-        },
-        {
-            "projectId": "5e3b320f9362b78366f981f7",
-            "projectName": "The effects of concussions on the volumes of brain tissue ",
-            "count": 2,
-            "totalSize": 0,
-            "totalDownload": 30
-        },
-        {
-            "projectId": "606bde8bc7f80a4df794b2d4",
-            "projectName": "HCP test-retest",
-            "count": 126,
-            "totalSize": 0,
-            "totalDownload": 2580
-        },
-        {
-            "projectId": "5907aafc3ddce500216712da",
-            "projectName": "Guest Private Project 1",
-            "count": 1,
-            "totalSize": 13271040,
-            "totalDownload": 0
-        },
-        {
-            "projectId": "59a074fc6895d6002e0aca7a",
-            "projectName": "agerl",
-            "count": 20,
-            "totalSize": 26101760,
-            "totalDownload": 27
-        },
-        {
-            "projectId": "59dbbd66e50f4d0045ade003",
-            "projectName": "HCP 3T Retest / Diffusion",
-            "count": 135,
-            "totalSize": 0,
-            "totalDownload": 1744
-        },
-        {
-            "projectId": "59e0facfe50f4d0045ade03d",
-            "projectName": "My HCP 3T Derivatives",
-            "count": 4,
-            "totalSize": 0,
-            "totalDownload": 0
-        },
-        {
-            "projectId": "59a8729606340400237d13a6",
-            "projectName": "My NKI Derivatives",
-            "count": 10,
-            "totalSize": 0,
-            "totalDownload": 12
         }
     ]
 }

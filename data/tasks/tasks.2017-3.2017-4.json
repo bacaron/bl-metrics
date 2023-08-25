@@ -7,28 +7,8 @@
     "totalResources": 3,
     "byUsers": [
         {
-            "sub": "37",
-            "jobCount": 10,
-            "jobWalltime": 0
-        },
-        {
             "sub": "38",
             "jobCount": 224,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "14",
-            "jobCount": 16,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "17",
-            "jobCount": 80,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "33",
-            "jobCount": 25,
             "jobWalltime": 0
         },
         {
@@ -37,25 +17,45 @@
             "jobWalltime": 0
         },
         {
-            "sub": "39",
-            "jobCount": 137,
+            "sub": "35",
+            "jobCount": 20,
             "jobWalltime": 0
         },
         {
-            "sub": "35",
-            "jobCount": 20,
+            "sub": "37",
+            "jobCount": 10,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "14",
+            "jobCount": 16,
             "jobWalltime": 0
         },
         {
             "sub": "30",
             "jobCount": 131,
             "jobWalltime": 0
+        },
+        {
+            "sub": "33",
+            "jobCount": 25,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "17",
+            "jobCount": 80,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "39",
+            "jobCount": 137,
+            "jobWalltime": 0
         }
     ],
     "byServices": [
         {
-            "service": "soichih/sca-service-freesurfer",
-            "jobCount": 51,
+            "service": "soichih/sca-service-neuro-tracking",
+            "jobCount": 46,
             "jobWalltime": 0
         },
         {
@@ -64,18 +64,13 @@
             "jobWalltime": 0
         },
         {
-            "service": "soichih/sca-service-conneval-validate",
-            "jobCount": 204,
+            "service": "soichih/sca-service-connectome-data-comparison",
+            "jobCount": 15,
             "jobWalltime": 0
         },
         {
-            "service": "brain-life/sca-service-tractclassification",
-            "jobCount": 18,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/sca-service-autoalignacpc",
-            "jobCount": 113,
+            "service": "soichih/sca-service-freesurfer",
+            "jobCount": 51,
             "jobWalltime": 0
         },
         {
@@ -84,18 +79,23 @@
             "jobWalltime": 0
         },
         {
+            "service": "brain-life/sca-service-tractclassification",
+            "jobCount": 18,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 204,
+            "jobWalltime": 0
+        },
+        {
             "service": "soichih/sca-product-raw",
             "jobCount": 113,
             "jobWalltime": 0
         },
         {
-            "service": "soichih/sca-service-connectome-data-comparison",
-            "jobCount": 15,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-neuro-tracking",
-            "jobCount": 46,
+            "service": "brain-life/sca-service-autoalignacpc",
+            "jobCount": 113,
             "jobWalltime": 0
         },
         {
@@ -113,12 +113,6 @@
     ],
     "byResources": [
         {
-            "resourceId": "5889312fbde9e62488f860dd",
-            "resourceName": "iu-bigred2",
-            "jobCount": 55,
-            "jobWalltime": 0
-        },
-        {
             "resourceId": "5845c8ceff35844a88494323",
             "resourceName": "Karst @ IU (RIP)",
             "jobCount": 637,
@@ -128,6 +122,12 @@
             "resourceId": null,
             "resourceName": null,
             "jobCount": 15,
+            "jobWalltime": 0
+        },
+        {
+            "resourceId": "5889312fbde9e62488f860dd",
+            "resourceName": "iu-bigred2",
+            "jobCount": 55,
             "jobWalltime": 0
         }
     ],

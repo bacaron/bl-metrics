@@ -1,73 +1,13 @@
 {
-    "totalObjectCount": 13966,
-    "totalObjectSize": 6411367864320,
-    "totalObjectDownload": 21060,
+    "totalObjectCount": 13964,
+    "totalObjectSize": 6410984980480,
+    "totalObjectDownload": 21161,
     "byUsers": [
-        {
-            "sub": "50",
-            "count": 68,
-            "totalSize": 129381294080,
-            "totalDownload": 49
-        },
-        {
-            "sub": "43",
-            "count": 11813,
-            "totalSize": 4509098536960,
-            "totalDownload": 5717
-        },
-        {
-            "sub": "99",
-            "count": 487,
-            "totalSize": 469859921920,
-            "totalDownload": 472
-        },
         {
             "sub": "41",
             "count": 36,
             "totalSize": 36751278080,
             "totalDownload": 58
-        },
-        {
-            "sub": "146",
-            "count": 537,
-            "totalSize": 701908879360,
-            "totalDownload": 12311
-        },
-        {
-            "sub": "1",
-            "count": 6,
-            "totalSize": 8483174400,
-            "totalDownload": 3
-        },
-        {
-            "sub": "148",
-            "count": 352,
-            "totalSize": 66204272640,
-            "totalDownload": 49
-        },
-        {
-            "sub": "126",
-            "count": 2,
-            "totalSize": 382883840,
-            "totalDownload": 4
-        },
-        {
-            "sub": "156",
-            "count": 2,
-            "totalSize": 136929280,
-            "totalDownload": 4
-        },
-        {
-            "sub": "101",
-            "count": 85,
-            "totalSize": 77505546240,
-            "totalDownload": 70
-        },
-        {
-            "sub": "157",
-            "count": 11,
-            "totalSize": 1623726080,
-            "totalDownload": 25
         },
         {
             "sub": "185",
@@ -76,18 +16,114 @@
             "totalDownload": 0
         },
         {
+            "sub": "148",
+            "count": 352,
+            "totalSize": 66204272640,
+            "totalDownload": 49
+        },
+        {
+            "sub": "50",
+            "count": 68,
+            "totalSize": 129381294080,
+            "totalDownload": 49
+        },
+        {
             "sub": "16",
             "count": 564,
             "totalSize": 410016337920,
-            "totalDownload": 2298
+            "totalDownload": 2402
+        },
+        {
+            "sub": "157",
+            "count": 11,
+            "totalSize": 1623726080,
+            "totalDownload": 25
+        },
+        {
+            "sub": "156",
+            "count": 2,
+            "totalSize": 136929280,
+            "totalDownload": 4
+        },
+        {
+            "sub": "146",
+            "count": 537,
+            "totalSize": 701908879360,
+            "totalDownload": 12311
+        },
+        {
+            "sub": "43",
+            "count": 11813,
+            "totalSize": 4509098536960,
+            "totalDownload": 5718
+        },
+        {
+            "sub": "1",
+            "count": 6,
+            "totalSize": 8483174400,
+            "totalDownload": 3
+        },
+        {
+            "sub": "99",
+            "count": 487,
+            "totalSize": 469859921920,
+            "totalDownload": 472
+        },
+        {
+            "sub": "101",
+            "count": 85,
+            "totalSize": 77505546240,
+            "totalDownload": 70
         }
     ],
     "byDatatypes": [
         {
+            "datatypeId": "5967b799b09297d8d831709e",
+            "datatypeName": "generic/images",
+            "count": 263,
+            "totalSize": 3318528000,
+            "totalDownload": 25
+        },
+        {
+            "datatypeId": "5afe38b15858d874a48650a6",
+            "datatypeName": "neuro/dp/optimal",
+            "count": 8,
+            "totalSize": 13474273280,
+            "totalDownload": 5
+        },
+        {
+            "datatypeId": "58d15eaee13a50849b258844",
+            "datatypeName": "neuro/LiFE",
+            "count": 497,
+            "totalSize": 488318617600,
+            "totalDownload": 461
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 466,
+            "totalSize": 404037242880,
+            "totalDownload": 475
+        },
+        {
+            "datatypeId": "5a04b08b2c214c9ba8033391",
+            "datatypeName": "neuro/recon",
+            "count": 90,
+            "totalSize": 29207224320,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "58f10a90436ee50ffd9063c5",
+            "datatypeName": "neuro/wmc-deprecated",
+            "count": 4627,
+            "totalSize": 2990063656960,
+            "totalDownload": 2044
+        },
+        {
             "datatypeId": "58cb22c8e13a50849b25882e",
             "datatypeName": "neuro/freesurfer",
-            "count": 102,
-            "totalSize": 44888596480,
+            "count": 101,
+            "totalSize": 44541849600,
             "totalDownload": 25
         },
         {
@@ -98,25 +134,11 @@
             "totalDownload": 362
         },
         {
-            "datatypeId": "58f10a90436ee50ffd9063c5",
-            "datatypeName": "neuro/wmc-deprecated",
-            "count": 4628,
-            "totalSize": 2990099793920,
-            "totalDownload": 2048
-        },
-        {
-            "datatypeId": "5afe38b15858d874a48650a6",
-            "datatypeName": "neuro/dp/optimal",
-            "count": 8,
-            "totalSize": 13474273280,
-            "totalDownload": 5
-        },
-        {
-            "datatypeId": "58cb234be13a50849b25882f",
-            "datatypeName": "neuro/dtiinit",
-            "count": 294,
-            "totalSize": 81596590080,
-            "totalDownload": 179
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 230,
+            "totalSize": 2471884800,
+            "totalDownload": 1093
         },
         {
             "datatypeId": "59399b95436ee50ffdc08381",
@@ -126,20 +148,6 @@
             "totalDownload": 1468
         },
         {
-            "datatypeId": "5967b799b09297d8d831709e",
-            "datatypeName": "generic/images",
-            "count": 263,
-            "totalSize": 3318528000,
-            "totalDownload": 25
-        },
-        {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 230,
-            "totalSize": 2471884800,
-            "totalDownload": 989
-        },
-        {
             "datatypeId": "5907d922436ee50ffde9c549",
             "datatypeName": "neuro/track/tck",
             "count": 1008,
@@ -147,11 +155,25 @@
             "totalDownload": 12915
         },
         {
+            "datatypeId": "592dded1436ee50ffd88f5d0",
+            "datatypeName": "neuro/tractmasks",
+            "count": 1468,
+            "totalSize": 3401656320,
+            "totalDownload": 9
+        },
+        {
             "datatypeId": "5a79df48d071a1753f1d661b",
             "datatypeName": "neuro/tensor",
             "count": 37,
             "totalSize": 246835200,
             "totalDownload": 67
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 294,
+            "totalSize": 81596590080,
+            "totalDownload": 179
         },
         {
             "datatypeId": "59c3eae633fc1cf9ead71679",
@@ -166,50 +188,15 @@
             "count": 1465,
             "totalSize": 236441384960,
             "totalDownload": 1116
-        },
-        {
-            "datatypeId": "592dded1436ee50ffd88f5d0",
-            "datatypeName": "neuro/tractmasks",
-            "count": 1468,
-            "totalSize": 3401656320,
-            "totalDownload": 8
-        },
-        {
-            "datatypeId": "58c33c5fe13a50849b25879b",
-            "datatypeName": "neuro/dwi",
-            "count": 466,
-            "totalSize": 404037242880,
-            "totalDownload": 475
-        },
-        {
-            "datatypeId": "58d15eaee13a50849b258844",
-            "datatypeName": "neuro/LiFE",
-            "count": 497,
-            "totalSize": 488318617600,
-            "totalDownload": 461
-        },
-        {
-            "datatypeId": "5a04b08b2c214c9ba8033391",
-            "datatypeName": "neuro/recon",
-            "count": 90,
-            "totalSize": 29207224320,
-            "totalDownload": 0
         }
     ],
     "byProjects": [
         {
-            "projectId": "5ae907e7f446980028b15ea7",
-            "projectName": "HCP Derivatives Retest",
-            "count": 2337,
-            "totalSize": 1531621253120,
-            "totalDownload": 346
-        },
-        {
-            "projectId": "5ae916e7f446980028b15eb3",
-            "projectName": "Brainlife User Tutorial",
-            "count": 2,
-            "totalSize": 382883840,
-            "totalDownload": 4
+            "projectId": "5a9ee80853bd38003c02afa7",
+            "projectName": "HCP Derivatives 3T - b1000 shell",
+            "count": 7169,
+            "totalSize": 2176216668160,
+            "totalDownload": 3131
         },
         {
             "projectId": "5aec7f8df446980028b15f08",
@@ -219,18 +206,32 @@
             "totalDownload": 23
         },
         {
-            "projectId": "5cac40de76cdaa0030b92155",
-            "projectName": "Replicability of NN and LAP",
-            "count": 10,
-            "totalSize": 27693312000,
-            "totalDownload": 1546
+            "projectId": "5a55061141fd04003f9d4892",
+            "projectName": "UCLA data Controls",
+            "count": 1088,
+            "totalSize": 379586078720,
+            "totalDownload": 1259
         },
         {
-            "projectId": "5a9ee80853bd38003c02afa7",
-            "projectName": "HCP Derivatives 3T - b1000 shell",
-            "count": 7169,
-            "totalSize": 2176216668160,
-            "totalDownload": 3130
+            "projectId": "5aeca875f446980028b15f11",
+            "projectName": "Visual pathway test",
+            "count": 3,
+            "totalSize": 15083520,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "59a07539b47c0c0027ad7045",
+            "projectName": "subval",
+            "count": 426,
+            "totalSize": 426684180480,
+            "totalDownload": 443
+        },
+        {
+            "projectId": "5af88e8c54d02900272819c8",
+            "projectName": "Giulia 200",
+            "count": 524,
+            "totalSize": 674199091200,
+            "totalDownload": 10764
         },
         {
             "projectId": "5b0c29d941711001e958b483",
@@ -244,35 +245,7 @@
             "projectName": "Athlete Microstructure Data",
             "count": 41,
             "totalSize": 638085120,
-            "totalDownload": 443
-        },
-        {
-            "projectId": "5aecbc0cf446980028b15f1e",
-            "projectName": "TestTutorial Brainhack",
-            "count": 5,
-            "totalSize": 236410880,
-            "totalDownload": 2
-        },
-        {
-            "projectId": "5e28c8752f45e286ba090737",
-            "projectName": "2020 Brain Imaging Class",
-            "count": 10,
-            "totalSize": 119265280,
-            "totalDownload": 88
-        },
-        {
-            "projectId": "5a550659b1fd8000452bda4f",
-            "projectName": "UCLA data SCHZ",
-            "count": 435,
-            "totalSize": 145096837120,
-            "totalDownload": 319
-        },
-        {
-            "projectId": "5b02b7609ae9260026c8ddf4",
-            "projectName": "test_app",
-            "count": 27,
-            "totalSize": 24625623040,
-            "totalDownload": 67
+            "totalDownload": 547
         },
         {
             "projectId": "5fc831451828bc10b05271f7",
@@ -289,18 +262,11 @@
             "totalDownload": 3
         },
         {
-            "projectId": "59a07539b47c0c0027ad7045",
-            "projectName": "subval",
-            "count": 426,
-            "totalSize": 426684180480,
-            "totalDownload": 443
-        },
-        {
-            "projectId": "5a55069256e507002d1a962d",
-            "projectName": "UCLA data Bipolar",
-            "count": 432,
-            "totalSize": 149979535360,
-            "totalDownload": 305
+            "projectId": "5a550659b1fd8000452bda4f",
+            "projectName": "UCLA data SCHZ",
+            "count": 435,
+            "totalSize": 145096837120,
+            "totalDownload": 319
         },
         {
             "projectId": "5a14a85d765df1005977d1b1",
@@ -310,20 +276,6 @@
             "totalDownload": 1177
         },
         {
-            "projectId": "5b06fe7c25da6f011fb5b7b8",
-            "projectName": "ABIDEII-IP_1",
-            "count": 298,
-            "totalSize": 59750225920,
-            "totalDownload": 49
-        },
-        {
-            "projectId": "5a55061141fd04003f9d4892",
-            "projectName": "UCLA data Controls",
-            "count": 1088,
-            "totalSize": 379586078720,
-            "totalDownload": 1259
-        },
-        {
             "projectId": "5fcfabf8678a91d5e14a0aa6",
             "projectName": "Report 4",
             "count": 3,
@@ -331,11 +283,53 @@
             "totalDownload": 27
         },
         {
-            "projectId": "5af88e8c54d02900272819c8",
-            "projectName": "Giulia 200",
-            "count": 524,
-            "totalSize": 674199091200,
-            "totalDownload": 10764
+            "projectId": "5a55069256e507002d1a962d",
+            "projectName": "UCLA data Bipolar",
+            "count": 432,
+            "totalSize": 149979535360,
+            "totalDownload": 305
+        },
+        {
+            "projectId": "5b06fe7c25da6f011fb5b7b8",
+            "projectName": "ABIDEII-IP_1",
+            "count": 298,
+            "totalSize": 59750225920,
+            "totalDownload": 49
+        },
+        {
+            "projectId": "5fce3fdfe802b5abf20db412",
+            "projectName": "DWI Processing",
+            "count": 3,
+            "totalSize": 35502080,
+            "totalDownload": 31
+        },
+        {
+            "projectId": "5a78c177340591004da75e6f",
+            "projectName": "AAA - Giulia test",
+            "count": 3,
+            "totalSize": 16476160,
+            "totalDownload": 1
+        },
+        {
+            "projectId": "5e6ea1a48a2089fc6d8e9fc7",
+            "projectName": "Bl class test data",
+            "count": 3,
+            "totalSize": 35502080,
+            "totalDownload": 27
+        },
+        {
+            "projectId": "5b0dad8041711001e958b519",
+            "projectName": "A dorso-ventral attention network in the human brain",
+            "count": 234,
+            "totalSize": 276271400960,
+            "totalDownload": 417
+        },
+        {
+            "projectId": "5cac40de76cdaa0030b92155",
+            "projectName": "Replicability of NN and LAP",
+            "count": 10,
+            "totalSize": 27693312000,
+            "totalDownload": 1546
         },
         {
             "projectId": "5a5506fc4f89380027a9a493",
@@ -359,39 +353,25 @@
             "totalDownload": 0
         },
         {
-            "projectId": "5e6ea1a48a2089fc6d8e9fc7",
-            "projectName": "Bl class test data",
-            "count": 3,
-            "totalSize": 35502080,
-            "totalDownload": 27
+            "projectId": "5aecbc0cf446980028b15f1e",
+            "projectName": "TestTutorial Brainhack",
+            "count": 5,
+            "totalSize": 236410880,
+            "totalDownload": 2
         },
         {
-            "projectId": "5fce3fdfe802b5abf20db412",
-            "projectName": "DWI Processing",
-            "count": 3,
-            "totalSize": 35502080,
-            "totalDownload": 31
+            "projectId": "5b02b7609ae9260026c8ddf4",
+            "projectName": "test_app",
+            "count": 27,
+            "totalSize": 24625623040,
+            "totalDownload": 67
         },
         {
-            "projectId": "5a78c177340591004da75e6f",
-            "projectName": "AAA - Giulia test",
-            "count": 3,
-            "totalSize": 16476160,
-            "totalDownload": 1
-        },
-        {
-            "projectId": "5b0dad8041711001e958b519",
-            "projectName": "A dorso-ventral attention network in the human brain",
-            "count": 234,
-            "totalSize": 276271400960,
-            "totalDownload": 417
-        },
-        {
-            "projectId": "5abce6d7c931e60132a6a520",
-            "projectName": "Diffusion Predictor",
-            "count": 110,
-            "totalSize": 174615746560,
-            "totalDownload": 110
+            "projectId": "5e28c8752f45e286ba090737",
+            "projectName": "2020 Brain Imaging Class",
+            "count": 10,
+            "totalSize": 119265280,
+            "totalDownload": 88
         },
         {
             "projectId": "59a074fc6895d6002e0aca7a",
@@ -401,11 +381,18 @@
             "totalDownload": 29
         },
         {
-            "projectId": "5aeca875f446980028b15f11",
-            "projectName": "Visual pathway test",
-            "count": 3,
-            "totalSize": 15083520,
-            "totalDownload": 0
+            "projectId": "5abce6d7c931e60132a6a520",
+            "projectName": "Diffusion Predictor",
+            "count": 110,
+            "totalSize": 174615746560,
+            "totalDownload": 110
+        },
+        {
+            "projectId": "5ae907e7f446980028b15ea7",
+            "projectName": "HCP Derivatives Retest",
+            "count": 2337,
+            "totalSize": 1531621253120,
+            "totalDownload": 346
         }
     ]
 }

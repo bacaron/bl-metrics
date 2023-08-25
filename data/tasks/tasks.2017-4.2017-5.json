@@ -7,38 +7,8 @@
     "totalResources": 4,
     "byUsers": [
         {
-            "sub": "41",
-            "jobCount": 43,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "48",
+            "sub": "50",
             "jobCount": 4,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "1",
-            "jobCount": 191,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "43",
-            "jobCount": 46,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "38",
-            "jobCount": 46,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "35",
-            "jobCount": 8,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "30",
-            "jobCount": 113,
             "jobWalltime": 0
         },
         {
@@ -47,39 +17,49 @@
             "jobWalltime": 0
         },
         {
-            "sub": "50",
+            "sub": "30",
+            "jobCount": 113,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "48",
             "jobCount": 4,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "41",
+            "jobCount": 43,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "35",
+            "jobCount": 8,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "1",
+            "jobCount": 191,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "38",
+            "jobCount": 46,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "43",
+            "jobCount": 46,
             "jobWalltime": 0
         }
     ],
     "byServices": [
         {
-            "service": "soichih/sca-product-raw",
-            "jobCount": 123,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-tracking",
-            "jobCount": 21,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-life",
-            "jobCount": 15,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/abcd-novnc",
-            "jobCount": 28,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-conneval-validate",
-            "jobCount": 63,
-            "jobWalltime": 0
-        },
-        {
             "service": "soichih/sca-service-freesurfer",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-life",
             "jobCount": 1,
             "jobWalltime": 0
         },
@@ -89,33 +69,13 @@
             "jobWalltime": 0
         },
         {
+            "service": "soichih/abcd-novnc",
+            "jobCount": 28,
+            "jobWalltime": 0
+        },
+        {
             "service": "soichih/sca-service-neuro-tracking",
             "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-tractclassification",
-            "jobCount": 8,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-connectome-data-comparison",
-            "jobCount": 7,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-life",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/sca-service-autoalignacpc",
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-dtiinit",
-            "jobCount": 2,
             "jobWalltime": 0
         },
         {
@@ -129,8 +89,13 @@
             "jobWalltime": 0
         },
         {
-            "service": "brain-life/app-networkneuro",
-            "jobCount": 8,
+            "service": "soichih/sca-service-dtiinit",
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-tracking",
+            "jobCount": 21,
             "jobWalltime": 0
         },
         {
@@ -139,8 +104,43 @@
             "jobWalltime": 0
         },
         {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 63,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/sca-service-autoalignacpc",
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
             "service": "soichih/sca-service-noop",
             "jobCount": 67,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-product-raw",
+            "jobCount": 123,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-networkneuro",
+            "jobCount": 8,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-tractclassification",
+            "jobCount": 8,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-connectome-data-comparison",
+            "jobCount": 7,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-life",
+            "jobCount": 15,
             "jobWalltime": 0
         }
     ],
@@ -153,9 +153,9 @@
     ],
     "byResources": [
         {
-            "resourceId": "5845c8ceff35844a88494323",
-            "resourceName": "Karst @ IU (RIP)",
-            "jobCount": 411,
+            "resourceId": null,
+            "resourceName": null,
+            "jobCount": 28,
             "jobWalltime": 0
         },
         {
@@ -165,15 +165,15 @@
             "jobWalltime": 0
         },
         {
-            "resourceId": null,
-            "resourceName": null,
-            "jobCount": 11,
+            "resourceId": "5845c8ceff35844a88494323",
+            "resourceName": "Karst @ IU (RIP)",
+            "jobCount": 411,
             "jobWalltime": 0
         },
         {
             "resourceId": null,
             "resourceName": null,
-            "jobCount": 28,
+            "jobCount": 11,
             "jobWalltime": 0
         }
     ],

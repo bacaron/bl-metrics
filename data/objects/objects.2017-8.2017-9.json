@@ -18,13 +18,6 @@
     ],
     "byDatatypes": [
         {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 2,
-            "totalSize": 0,
-            "totalDownload": 6
-        },
-        {
             "datatypeId": "58c33c5fe13a50849b25879b",
             "datatypeName": "neuro/dwi",
             "count": 5,
@@ -37,9 +30,23 @@
             "count": 1,
             "totalSize": 0,
             "totalDownload": 2
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 6
         }
     ],
     "byProjects": [
+        {
+            "projectId": "59a07539b47c0c0027ad7045",
+            "projectName": "subval",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 9
+        },
         {
             "projectId": "59a8729606340400237d13a6",
             "projectName": "My NKI Derivatives",
@@ -53,13 +60,6 @@
             "count": 3,
             "totalSize": 0,
             "totalDownload": 6
-        },
-        {
-            "projectId": "59a07539b47c0c0027ad7045",
-            "projectName": "subval",
-            "count": 2,
-            "totalSize": 0,
-            "totalDownload": 9
         }
     ]
 }

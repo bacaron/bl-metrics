@@ -1,19 +1,25 @@
 {
     "totalObjectCount": 4298,
     "totalObjectSize": 57744820224,
-    "totalObjectDownload": 11584,
+    "totalObjectDownload": 12099,
     "byUsers": [
         {
             "sub": "1",
             "count": 3798,
             "totalSize": 45065232384,
-            "totalDownload": 9010
+            "totalDownload": 9487
         },
         {
-            "sub": "56",
-            "count": 2,
+            "sub": "106",
+            "count": 213,
+            "totalSize": 513976320,
+            "totalDownload": 326
+        },
+        {
+            "sub": "101",
+            "count": 11,
             "totalSize": 0,
-            "totalDownload": 14
+            "totalDownload": 8
         },
         {
             "sub": "95",
@@ -28,31 +34,53 @@
             "totalDownload": 11
         },
         {
+            "sub": "56",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 14
+        },
+        {
             "sub": "16",
             "count": 268,
             "totalSize": 11902730240,
-            "totalDownload": 2212
-        },
-        {
-            "sub": "106",
-            "count": 213,
-            "totalSize": 513976320,
-            "totalDownload": 326
-        },
-        {
-            "sub": "101",
-            "count": 11,
-            "totalSize": 0,
-            "totalDownload": 8
+            "totalDownload": 2250
         }
     ],
     "byDatatypes": [
+        {
+            "datatypeId": "59c3eae633fc1cf9ead71679",
+            "datatypeName": "raw",
+            "count": 40,
+            "totalSize": 153886720,
+            "totalDownload": 18
+        },
         {
             "datatypeId": "594c0325fa1d2e5a1f0beda5",
             "datatypeName": "neuro/anat/t2w",
             "count": 1,
             "totalSize": 0,
             "totalDownload": 0
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 36,
+            "totalSize": 0,
+            "totalDownload": 629
+        },
+        {
+            "datatypeId": "594c688bfa1d2e5a1f0e33f1",
+            "datatypeName": "neuro/conneval",
+            "count": 5,
+            "totalSize": 153600,
+            "totalDownload": 2
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 746,
+            "totalSize": 772847104,
+            "totalDownload": 5211
         },
         {
             "datatypeId": "59bbfadd6b956e1c2ae89ef3",
@@ -69,6 +97,20 @@
             "totalDownload": 0
         },
         {
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 3,
+            "totalSize": 6213242880,
+            "totalDownload": 0
+        },
+        {
+            "datatypeId": "59b685a08e5d38b0b331ddc5",
+            "datatypeName": "neuro/func/task",
+            "count": 2272,
+            "totalSize": 47075840,
+            "totalDownload": 315
+        },
+        {
             "datatypeId": "58f10a90436ee50ffd9063c5",
             "datatypeName": "neuro/wmc-deprecated",
             "count": 48,
@@ -76,39 +118,11 @@
             "totalDownload": 171
         },
         {
-            "datatypeId": "58cb234be13a50849b25882f",
-            "datatypeName": "neuro/dtiinit",
-            "count": 36,
-            "totalSize": 0,
-            "totalDownload": 629
-        },
-        {
-            "datatypeId": "58c33c5fe13a50849b25879b",
-            "datatypeName": "neuro/dwi",
-            "count": 775,
-            "totalSize": 4593049600,
-            "totalDownload": 3622
-        },
-        {
-            "datatypeId": "58d15eaee13a50849b258844",
-            "datatypeName": "neuro/LiFE",
-            "count": 5,
-            "totalSize": 6975027200,
-            "totalDownload": 8
-        },
-        {
             "datatypeId": "58cb22c8e13a50849b25882e",
             "datatypeName": "neuro/freesurfer",
             "count": 155,
             "totalSize": 23750154240,
-            "totalDownload": 1999
-        },
-        {
-            "datatypeId": "59b685a08e5d38b0b331ddc5",
-            "datatypeName": "neuro/func/task",
-            "count": 2272,
-            "totalSize": 47075840,
-            "totalDownload": 159
+            "totalDownload": 2101
         },
         {
             "datatypeId": "5967b799b09297d8d831709e",
@@ -118,82 +132,40 @@
             "totalDownload": 7
         },
         {
-            "datatypeId": "594c688bfa1d2e5a1f0e33f1",
-            "datatypeName": "neuro/conneval",
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 775,
+            "totalSize": 4593049600,
+            "totalDownload": 3632
+        },
+        {
+            "datatypeId": "58d15eaee13a50849b258844",
+            "datatypeName": "neuro/LiFE",
             "count": 5,
-            "totalSize": 153600,
-            "totalDownload": 2
-        },
-        {
-            "datatypeId": "5907d922436ee50ffde9c549",
-            "datatypeName": "neuro/track/tck",
-            "count": 3,
-            "totalSize": 6213242880,
-            "totalDownload": 0
-        },
-        {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 746,
-            "totalSize": 772847104,
-            "totalDownload": 4964
-        },
-        {
-            "datatypeId": "59c3eae633fc1cf9ead71679",
-            "datatypeName": "raw",
-            "count": 40,
-            "totalSize": 153886720,
-            "totalDownload": 18
+            "totalSize": 6975027200,
+            "totalDownload": 8
         }
     ],
     "byProjects": [
         {
-            "projectId": "5a0d02f0326f36007cb5a54f",
-            "projectName": "Phenomics LA5c Study",
-            "count": 2531,
-            "totalSize": 59184128,
-            "totalDownload": 3847
-        },
-        {
-            "projectId": "59a09bbab47c0c0027ad7046",
-            "projectName": "HCP 7T / Diffusion",
-            "count": 3,
-            "totalSize": 22558720,
-            "totalDownload": 66
-        },
-        {
-            "projectId": "5e3b320f9362b78366f981f7",
-            "projectName": "The effects of concussions on the volumes of brain tissue ",
-            "count": 5,
-            "totalSize": 0,
-            "totalDownload": 15
-        },
-        {
-            "projectId": "5a04bc57abfb590031f9f517",
-            "projectName": "SelfDataDan",
-            "count": 2,
-            "totalSize": 0,
-            "totalDownload": 14
-        },
-        {
-            "projectId": "5a075fcdabfb590031f9f51f",
-            "projectName": "test",
-            "count": 3,
-            "totalSize": 262881280,
-            "totalDownload": 3
-        },
-        {
-            "projectId": "5e9779476365e95fd8473fb6",
-            "projectName": "Junchu's Third Class Project",
-            "count": 3,
-            "totalSize": 22558720,
-            "totalDownload": 47
+            "projectId": "5a022fc99c0d250055709e9c",
+            "projectName": "O3D",
+            "count": 25,
+            "totalSize": 7288023040,
+            "totalDownload": 1713
         },
         {
             "projectId": "5a0df5ae20c9180032c02192",
             "count": 119,
             "totalSize": 0,
             "totalDownload": 4
+        },
+        {
+            "projectId": "5e28c8992f45e20049090769",
+            "projectName": "Tial IU Lab demo",
+            "count": 1,
+            "totalSize": 22558720,
+            "totalDownload": 21
         },
         {
             "projectId": "5e3b2e2a9362b7384cf97ca0",
@@ -210,18 +182,18 @@
             "totalDownload": 11
         },
         {
+            "projectId": "59244639b3cd7c00211dc1b0",
+            "projectName": "Concussion",
+            "count": 294,
+            "totalSize": 31650191360,
+            "totalDownload": 224
+        },
+        {
             "projectId": "5e24e20167c9e94405547dc1",
             "projectName": "IU Neuroanatomy Lab 2020",
             "count": 2,
             "totalSize": 575508480,
-            "totalDownload": 72
-        },
-        {
-            "projectId": "59a074fc6895d6002e0aca7a",
-            "projectName": "agerl",
-            "count": 213,
-            "totalSize": 513976320,
-            "totalDownload": 326
+            "totalDownload": 73
         },
         {
             "projectId": "59a8729606340400237d13a6",
@@ -235,21 +207,35 @@
             "projectName": "Athlete Brain Study",
             "count": 263,
             "totalSize": 11368048640,
-            "totalDownload": 2195
+            "totalDownload": 2232
         },
         {
-            "projectId": "5a022fc99c0d250055709e9c",
-            "projectName": "O3D",
-            "count": 25,
-            "totalSize": 7288023040,
-            "totalDownload": 1596
+            "projectId": "59a074fc6895d6002e0aca7a",
+            "projectName": "agerl",
+            "count": 213,
+            "totalSize": 513976320,
+            "totalDownload": 326
         },
         {
-            "projectId": "5c731acbbadd19003102e8dd",
-            "projectName": "Posterior White Matter Data Derivatives",
-            "count": 14,
-            "totalSize": 5776558080,
-            "totalDownload": 808
+            "projectId": "5a0d02f0326f36007cb5a54f",
+            "projectName": "Phenomics LA5c Study",
+            "count": 2531,
+            "totalSize": 59184128,
+            "totalDownload": 4202
+        },
+        {
+            "projectId": "5c58b49012cbcc01e1635b82",
+            "projectName": "My_UCLA",
+            "count": 795,
+            "totalSize": 12108288,
+            "totalDownload": 1657
+        },
+        {
+            "projectId": "5e9779476365e95fd8473fb6",
+            "projectName": "Junchu's Third Class Project",
+            "count": 3,
+            "totalSize": 22558720,
+            "totalDownload": 47
         },
         {
             "projectId": "5e28c8962f45e261a1090768",
@@ -259,25 +245,39 @@
             "totalDownload": 214
         },
         {
-            "projectId": "5e28c8992f45e20049090769",
-            "projectName": "Tial IU Lab demo",
-            "count": 1,
+            "projectId": "5c731acbbadd19003102e8dd",
+            "projectName": "Posterior White Matter Data Derivatives",
+            "count": 14,
+            "totalSize": 5776558080,
+            "totalDownload": 808
+        },
+        {
+            "projectId": "5e3b320f9362b78366f981f7",
+            "projectName": "The effects of concussions on the volumes of brain tissue ",
+            "count": 5,
+            "totalSize": 0,
+            "totalDownload": 15
+        },
+        {
+            "projectId": "59a09bbab47c0c0027ad7046",
+            "projectName": "HCP 7T / Diffusion",
+            "count": 3,
             "totalSize": 22558720,
-            "totalDownload": 21
+            "totalDownload": 70
         },
         {
-            "projectId": "59244639b3cd7c00211dc1b0",
-            "projectName": "Concussion",
-            "count": 294,
-            "totalSize": 31650191360,
-            "totalDownload": 223
+            "projectId": "5a075fcdabfb590031f9f51f",
+            "projectName": "test",
+            "count": 3,
+            "totalSize": 262881280,
+            "totalDownload": 3
         },
         {
-            "projectId": "5c58b49012cbcc01e1635b82",
-            "projectName": "My_UCLA",
-            "count": 795,
-            "totalSize": 12108288,
-            "totalDownload": 1657
+            "projectId": "5a04bc57abfb590031f9f517",
+            "projectName": "SelfDataDan",
+            "count": 2,
+            "totalSize": 0,
+            "totalDownload": 14
         }
     ]
 }

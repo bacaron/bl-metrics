@@ -1,19 +1,25 @@
 {
     "totalObjectCount": 4334,
     "totalObjectSize": 518017269760,
-    "totalObjectDownload": 10682,
+    "totalObjectDownload": 10718,
     "byUsers": [
         {
-            "sub": "233",
-            "count": 1,
-            "totalSize": 119982080,
-            "totalDownload": 2
+            "sub": "148",
+            "count": 238,
+            "totalSize": 125191086080,
+            "totalDownload": 3
         },
         {
             "sub": "99",
             "count": 95,
             "totalSize": 39129221120,
-            "totalDownload": 1
+            "totalDownload": 3
+        },
+        {
+            "sub": "135",
+            "count": 3773,
+            "totalSize": 208020295680,
+            "totalDownload": 10285
         },
         {
             "sub": "43",
@@ -28,16 +34,10 @@
             "totalDownload": 15
         },
         {
-            "sub": "135",
-            "count": 3773,
-            "totalSize": 208020295680,
-            "totalDownload": 10255
-        },
-        {
-            "sub": "148",
-            "count": 238,
-            "totalSize": 125191086080,
-            "totalDownload": 3
+            "sub": "101",
+            "count": 9,
+            "totalSize": 54829670400,
+            "totalDownload": 0
         },
         {
             "sub": "146",
@@ -52,10 +52,10 @@
             "totalDownload": 0
         },
         {
-            "sub": "101",
-            "count": 9,
-            "totalSize": 54829670400,
-            "totalDownload": 0
+            "sub": "16",
+            "count": 2,
+            "totalSize": 952422400,
+            "totalDownload": 2
         },
         {
             "sub": "50",
@@ -67,35 +67,28 @@
             "sub": "87",
             "count": 6,
             "totalSize": 6244413440,
-            "totalDownload": 116
+            "totalDownload": 120
         },
         {
-            "sub": "16",
-            "count": 2,
-            "totalSize": 952422400,
+            "sub": "233",
+            "count": 1,
+            "totalSize": 119982080,
             "totalDownload": 2
         }
     ],
     "byDatatypes": [
         {
+            "datatypeId": "5965467cb09297d8d81bdbcd",
+            "datatypeName": "neuro/tractprofile-deprecated",
+            "count": 130,
+            "totalSize": 52346880,
+            "totalDownload": 818
+        },
+        {
             "datatypeId": "58cb22c8e13a50849b25882e",
             "datatypeName": "neuro/freesurfer",
             "count": 3,
             "totalSize": 861880320,
-            "totalDownload": 0
-        },
-        {
-            "datatypeId": "599f305ad1f46fec1759f363",
-            "datatypeName": "neuro/tractmeasures",
-            "count": 550,
-            "totalSize": 5632000,
-            "totalDownload": 4555
-        },
-        {
-            "datatypeId": "5afe38b15858d874a48650a6",
-            "datatypeName": "neuro/dp/optimal",
-            "count": 4,
-            "totalSize": 3602176000,
             "totalDownload": 0
         },
         {
@@ -106,25 +99,18 @@
             "totalDownload": 2290
         },
         {
-            "datatypeId": "5afc7c555858d874a40c6dda",
-            "datatypeName": "neuro/stimulus",
-            "count": 5,
-            "totalSize": 6225920,
-            "totalDownload": 15
+            "datatypeId": "59494478fa1d2e5a1ffd23b4",
+            "datatypeName": "neuro/peaks_and_metrics",
+            "count": 2,
+            "totalSize": 5297684480,
+            "totalDownload": 3
         },
         {
-            "datatypeId": "58cb234be13a50849b25882f",
-            "datatypeName": "neuro/dtiinit",
-            "count": 18,
-            "totalSize": 4950681600,
-            "totalDownload": 20
-        },
-        {
-            "datatypeId": "5a281aee2c214c9ba83ce620",
-            "datatypeName": "neuro/mask",
-            "count": 363,
-            "totalSize": 73369600,
-            "totalDownload": 47
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 6,
+            "totalSize": 2515814400,
+            "totalDownload": 66
         },
         {
             "datatypeId": "5967b799b09297d8d831709e",
@@ -134,18 +120,32 @@
             "totalDownload": 53
         },
         {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 7,
-            "totalSize": 125665280,
-            "totalDownload": 63
+            "datatypeId": "5afe38b15858d874a48650a6",
+            "datatypeName": "neuro/dp/optimal",
+            "count": 4,
+            "totalSize": 3602176000,
+            "totalDownload": 0
         },
         {
-            "datatypeId": "5907d922436ee50ffde9c549",
-            "datatypeName": "neuro/track/tck",
-            "count": 1105,
-            "totalSize": 328137533440,
-            "totalDownload": 1882
+            "datatypeId": "5afc7c555858d874a40c6dda",
+            "datatypeName": "neuro/stimulus",
+            "count": 5,
+            "totalSize": 6225920,
+            "totalDownload": 15
+        },
+        {
+            "datatypeId": "5a281aee2c214c9ba83ce620",
+            "datatypeName": "neuro/mask",
+            "count": 363,
+            "totalSize": 73369600,
+            "totalDownload": 49
+        },
+        {
+            "datatypeId": "58cb234be13a50849b25882f",
+            "datatypeName": "neuro/dtiinit",
+            "count": 18,
+            "totalSize": 4950681600,
+            "totalDownload": 20
         },
         {
             "datatypeId": "59c3eae633fc1cf9ead71679",
@@ -159,71 +159,43 @@
             "datatypeName": "neuro/tensor",
             "count": 266,
             "totalSize": 6323896320,
-            "totalDownload": 627
+            "totalDownload": 628
         },
         {
-            "datatypeId": "58c33c5fe13a50849b25879b",
-            "datatypeName": "neuro/dwi",
-            "count": 6,
-            "totalSize": 2515814400,
+            "datatypeId": "5907d922436ee50ffde9c549",
+            "datatypeName": "neuro/track/tck",
+            "count": 1105,
+            "totalSize": 328137533440,
+            "totalDownload": 1882
+        },
+        {
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 7,
+            "totalSize": 125665280,
             "totalDownload": 63
         },
         {
-            "datatypeId": "5965467cb09297d8d81bdbcd",
-            "datatypeName": "neuro/tractprofile-deprecated",
-            "count": 130,
-            "totalSize": 52346880,
-            "totalDownload": 818
-        },
-        {
-            "datatypeId": "59494478fa1d2e5a1ffd23b4",
-            "datatypeName": "neuro/peaks_and_metrics",
-            "count": 2,
-            "totalSize": 5297684480,
-            "totalDownload": 3
+            "datatypeId": "599f305ad1f46fec1759f363",
+            "datatypeName": "neuro/tractmeasures",
+            "count": 550,
+            "totalSize": 5632000,
+            "totalDownload": 4585
         }
     ],
     "byProjects": [
-        {
-            "projectId": "5a9ee80853bd38003c02afa7",
-            "projectName": "HCP Derivatives 3T - b1000 shell",
-            "count": 9,
-            "totalSize": 191129600,
-            "totalDownload": 0
-        },
-        {
-            "projectId": "5b02b7609ae9260026c8ddf4",
-            "projectName": "test_app",
-            "count": 9,
-            "totalSize": 54829670400,
-            "totalDownload": 0
-        },
         {
             "projectId": "5b0dad8041711001e958b519",
             "projectName": "A dorso-ventral attention network in the human brain",
             "count": 3775,
             "totalSize": 208972718080,
-            "totalDownload": 10257
+            "totalDownload": 10287
         },
         {
-            "projectId": "5b1693806183100027ee6bdf",
-            "projectName": "Diffusion Predictor Article",
-            "count": 43,
-            "totalSize": 51744194560,
-            "totalDownload": 8
-        },
-        {
-            "projectId": "5aec7f8df446980028b15f08",
-            "projectName": "CONvAUD",
-            "count": 76,
-            "totalSize": 196526080,
-            "totalDownload": 0
-        },
-        {
-            "projectId": "5b51fe20786e0f002791d314",
-            "projectName": "SleepyBrain",
-            "count": 237,
-            "totalSize": 124528752640,
+            "projectId": "59a074fc6895d6002e0aca7a",
+            "projectName": "agerl",
+            "count": 95,
+            "totalSize": 39129221120,
             "totalDownload": 3
         },
         {
@@ -232,13 +204,6 @@
             "count": 1,
             "totalSize": 119982080,
             "totalDownload": 2
-        },
-        {
-            "projectId": "5b23e74316fe38002748e679",
-            "projectName": "DIPY workflows test project",
-            "count": 6,
-            "totalSize": 6244413440,
-            "totalDownload": 116
         },
         {
             "projectId": "5aaf6a97c931e60132a6a48d",
@@ -255,13 +220,6 @@
             "totalDownload": 20
         },
         {
-            "projectId": "59a074fc6895d6002e0aca7a",
-            "projectName": "agerl",
-            "count": 95,
-            "totalSize": 39129221120,
-            "totalDownload": 1
-        },
-        {
             "projectId": "5afc7d24322997002773ed19",
             "projectName": "HCP 7T / Retinotopy (pRF)",
             "count": 5,
@@ -269,11 +227,53 @@
             "totalDownload": 15
         },
         {
+            "projectId": "5b1693806183100027ee6bdf",
+            "projectName": "Diffusion Predictor Article",
+            "count": 43,
+            "totalSize": 51744194560,
+            "totalDownload": 8
+        },
+        {
+            "projectId": "5b51fe20786e0f002791d314",
+            "projectName": "SleepyBrain",
+            "count": 237,
+            "totalSize": 124528752640,
+            "totalDownload": 3
+        },
+        {
+            "projectId": "5a9ee80853bd38003c02afa7",
+            "projectName": "HCP Derivatives 3T - b1000 shell",
+            "count": 9,
+            "totalSize": 191129600,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5aec7f8df446980028b15f08",
+            "projectName": "CONvAUD",
+            "count": 76,
+            "totalSize": 196526080,
+            "totalDownload": 0
+        },
+        {
+            "projectId": "5b02b7609ae9260026c8ddf4",
+            "projectName": "test_app",
+            "count": 9,
+            "totalSize": 54829670400,
+            "totalDownload": 0
+        },
+        {
             "projectId": "5b3f30ac786e0f002791d1d3",
             "projectName": "Giulia - Minor - Major",
             "count": 61,
             "totalSize": 26612643840,
             "totalDownload": 260
+        },
+        {
+            "projectId": "5b23e74316fe38002748e679",
+            "projectName": "DIPY workflows test project",
+            "count": 6,
+            "totalSize": 6244413440,
+            "totalDownload": 120
         }
     ]
 }

@@ -1,39 +1,46 @@
 {
     "totalObjectCount": 192,
     "totalObjectSize": 159889550848,
-    "totalObjectDownload": 4304,
+    "totalObjectDownload": 5629,
     "byUsers": [
         {
             "sub": "1",
             "count": 192,
             "totalSize": 159889550848,
-            "totalDownload": 4304
+            "totalDownload": 5629
         }
     ],
     "byDatatypes": [
         {
-            "datatypeId": "58c33c5fe13a50849b25879b",
-            "datatypeName": "neuro/dwi",
-            "count": 44,
-            "totalSize": 56173003264,
-            "totalDownload": 567
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 75,
+            "totalSize": 993035264,
+            "totalDownload": 2383
         },
         {
             "datatypeId": "58cb22c8e13a50849b25882e",
             "datatypeName": "neuro/freesurfer",
             "count": 73,
             "totalSize": 102723512320,
-            "totalDownload": 1901
+            "totalDownload": 2430
         },
         {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 75,
-            "totalSize": 993035264,
-            "totalDownload": 1836
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 44,
+            "totalSize": 56173003264,
+            "totalDownload": 816
         }
     ],
     "byProjects": [
+        {
+            "projectId": "5fa925f3afcdcce87fc3facc",
+            "projectName": "DL with Pytorch - preliminary tests",
+            "count": 1,
+            "totalSize": 1214927360,
+            "totalDownload": 13
+        },
         {
             "projectId": "5f3cf38929b3ac4a18f086ff",
             "projectName": "MIDL",
@@ -42,11 +49,18 @@
             "totalDownload": 677
         },
         {
-            "projectId": "5fa925f3afcdcce87fc3facc",
-            "projectName": "DL with Pytorch - preliminary tests",
-            "count": 1,
-            "totalSize": 1214927360,
-            "totalDownload": 13
+            "projectId": "6178bcf09538685e5db810ee",
+            "projectName": "HCP network neuro",
+            "count": 30,
+            "totalSize": 42163630080,
+            "totalDownload": 1095
+        },
+        {
+            "projectId": "5941a225f876b000210c11e5",
+            "projectName": "HCP 3T / Diffusion",
+            "count": 90,
+            "totalSize": 80798013440,
+            "totalDownload": 3345
         },
         {
             "projectId": "5e28c8682f45e2786c09071f",
@@ -56,25 +70,11 @@
             "totalDownload": 64
         },
         {
-            "projectId": "5941a225f876b000210c11e5",
-            "projectName": "HCP 3T / Diffusion",
-            "count": 90,
-            "totalSize": 80798013440,
-            "totalDownload": 2243
-        },
-        {
             "projectId": "5d80275d03e8c9098ceaef19",
             "projectName": "HCP 3T ",
             "count": 39,
             "totalSize": 35289232384,
             "totalDownload": 435
-        },
-        {
-            "projectId": "6178bcf09538685e5db810ee",
-            "projectName": "HCP network neuro",
-            "count": 30,
-            "totalSize": 42163630080,
-            "totalDownload": 872
         }
     ]
 }

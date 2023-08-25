@@ -7,39 +7,9 @@
     "totalResources": 23,
     "byUsers": [
         {
-            "sub": "56",
-            "jobCount": 39,
-            "jobWalltime": 56930068
-        },
-        {
-            "sub": "123",
-            "jobCount": 253,
-            "jobWalltime": 183080676
-        },
-        {
-            "sub": "928",
-            "jobCount": 18,
-            "jobWalltime": 18565211
-        },
-        {
-            "sub": "578",
-            "jobCount": 7254,
-            "jobWalltime": 9631670165
-        },
-        {
-            "sub": "1160",
-            "jobCount": 1,
-            "jobWalltime": 13928
-        },
-        {
-            "sub": "83",
-            "jobCount": 1030,
-            "jobWalltime": 1075540321
-        },
-        {
-            "sub": "1114",
-            "jobCount": 233,
-            "jobWalltime": 380844876
+            "sub": "1073",
+            "jobCount": 348,
+            "jobWalltime": 1658496869
         },
         {
             "sub": "1116",
@@ -47,124 +17,9 @@
             "jobWalltime": 724516390
         },
         {
-            "sub": "250",
-            "jobCount": 7,
-            "jobWalltime": 17723
-        },
-        {
-            "sub": "412",
-            "jobCount": 2054,
-            "jobWalltime": 1561101345
-        },
-        {
-            "sub": "1102",
-            "jobCount": 357,
-            "jobWalltime": 236172427
-        },
-        {
-            "sub": "1062",
-            "jobCount": 42,
-            "jobWalltime": 37475571
-        },
-        {
-            "sub": "239",
-            "jobCount": 126,
-            "jobWalltime": 249019820
-        },
-        {
             "sub": "403",
             "jobCount": 2,
             "jobWalltime": 24921
-        },
-        {
-            "sub": "1170",
-            "jobCount": 21,
-            "jobWalltime": 24356724
-        },
-        {
-            "sub": "1183",
-            "jobCount": 21,
-            "jobWalltime": 20499983
-        },
-        {
-            "sub": "285",
-            "jobCount": 29,
-            "jobWalltime": 2212729
-        },
-        {
-            "sub": "35",
-            "jobCount": 8,
-            "jobWalltime": 7066127
-        },
-        {
-            "sub": "19",
-            "jobCount": 11,
-            "jobWalltime": 22290270
-        },
-        {
-            "sub": "704",
-            "jobCount": 15,
-            "jobWalltime": 2036837
-        },
-        {
-            "sub": "1177",
-            "jobCount": 22,
-            "jobWalltime": 20043693
-        },
-        {
-            "sub": "115",
-            "jobCount": 485,
-            "jobWalltime": 82849351
-        },
-        {
-            "sub": "1107",
-            "jobCount": 570,
-            "jobWalltime": 3123789
-        },
-        {
-            "sub": "1035",
-            "jobCount": 1204,
-            "jobWalltime": 3034537681
-        },
-        {
-            "sub": "110",
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "1115",
-            "jobCount": 261,
-            "jobWalltime": 170334545
-        },
-        {
-            "sub": "786",
-            "jobCount": 385,
-            "jobWalltime": 1313118590
-        },
-        {
-            "sub": "1155",
-            "jobCount": 18,
-            "jobWalltime": 1271337
-        },
-        {
-            "sub": "1197",
-            "jobCount": 19,
-            "jobWalltime": 2963214
-        },
-        {
-            "sub": "1103",
-            "jobCount": 204,
-            "jobWalltime": 163703806
-        },
-        {
-            "sub": "41",
-            "jobCount": 884,
-            "jobWalltime": 1681998617
-        },
-        {
-            "sub": "1130",
-            "jobCount": 11,
-            "jobWalltime": 330173
         },
         {
             "sub": "148",
@@ -172,29 +27,154 @@
             "jobWalltime": 244910897
         },
         {
-            "sub": "837",
-            "jobCount": 274,
-            "jobWalltime": 3416751
+            "sub": "1079",
+            "jobCount": 4012,
+            "jobWalltime": 5164809424
         },
         {
-            "sub": "1081",
-            "jobCount": 7994,
-            "jobWalltime": 12294009925
-        },
-        {
-            "sub": "1154",
-            "jobCount": 182,
-            "jobWalltime": 29229104
-        },
-        {
-            "sub": "1139",
+            "sub": "1128",
             "jobCount": 3,
-            "jobWalltime": 2340265
+            "jobWalltime": 30911
         },
         {
-            "sub": "1163",
-            "jobCount": 200,
-            "jobWalltime": 334088137
+            "sub": "1160",
+            "jobCount": 1,
+            "jobWalltime": 13928
+        },
+        {
+            "sub": "785",
+            "jobCount": 234,
+            "jobWalltime": 209528531
+        },
+        {
+            "sub": "239",
+            "jobCount": 126,
+            "jobWalltime": 249019820
+        },
+        {
+            "sub": "955",
+            "jobCount": 3,
+            "jobWalltime": 91190
+        },
+        {
+            "sub": "283",
+            "jobCount": 38,
+            "jobWalltime": 109961665
+        },
+        {
+            "sub": "1114",
+            "jobCount": 233,
+            "jobWalltime": 380844876
+        },
+        {
+            "sub": "123",
+            "jobCount": 253,
+            "jobWalltime": 183080676
+        },
+        {
+            "sub": "56",
+            "jobCount": 39,
+            "jobWalltime": 56930068
+        },
+        {
+            "sub": "1165",
+            "jobCount": 27,
+            "jobWalltime": 1119300
+        },
+        {
+            "sub": "1180",
+            "jobCount": 1,
+            "jobWalltime": 12730
+        },
+        {
+            "sub": "1153",
+            "jobCount": 4,
+            "jobWalltime": 148285
+        },
+        {
+            "sub": "578",
+            "jobCount": 7254,
+            "jobWalltime": 9631670165
+        },
+        {
+            "sub": "1108",
+            "jobCount": 1882,
+            "jobWalltime": 651243405
+        },
+        {
+            "sub": "822",
+            "jobCount": 2737,
+            "jobWalltime": 42364897
+        },
+        {
+            "sub": "1035",
+            "jobCount": 1204,
+            "jobWalltime": 3034537681
+        },
+        {
+            "sub": "1067",
+            "jobCount": 2995,
+            "jobWalltime": 3585778687
+        },
+        {
+            "sub": "742",
+            "jobCount": 9,
+            "jobWalltime": 47159
+        },
+        {
+            "sub": "1115",
+            "jobCount": 261,
+            "jobWalltime": 170334545
+        },
+        {
+            "sub": "1138",
+            "jobCount": 3,
+            "jobWalltime": 45201
+        },
+        {
+            "sub": "1107",
+            "jobCount": 570,
+            "jobWalltime": 3123789
+        },
+        {
+            "sub": "1167",
+            "jobCount": 223,
+            "jobWalltime": 1977147
+        },
+        {
+            "sub": "1174",
+            "jobCount": 5,
+            "jobWalltime": 47427
+        },
+        {
+            "sub": "1164",
+            "jobCount": 30,
+            "jobWalltime": 42253988
+        },
+        {
+            "sub": "1169",
+            "jobCount": 30,
+            "jobWalltime": 41800640
+        },
+        {
+            "sub": "1183",
+            "jobCount": 21,
+            "jobWalltime": 20499983
+        },
+        {
+            "sub": "1170",
+            "jobCount": 21,
+            "jobWalltime": 24356724
+        },
+        {
+            "sub": "1176",
+            "jobCount": 26,
+            "jobWalltime": 37065036
+        },
+        {
+            "sub": "704",
+            "jobCount": 15,
+            "jobWalltime": 2036837
         },
         {
             "sub": "116",
@@ -202,14 +182,64 @@
             "jobWalltime": 0
         },
         {
+            "sub": "174",
+            "jobCount": 25766,
+            "jobWalltime": 33411864355
+        },
+        {
             "sub": "634",
             "jobCount": 14,
             "jobWalltime": 72965
         },
         {
-            "sub": "1125",
-            "jobCount": 1,
-            "jobWalltime": 0
+            "sub": "1103",
+            "jobCount": 204,
+            "jobWalltime": 163703806
+        },
+        {
+            "sub": "1154",
+            "jobCount": 182,
+            "jobWalltime": 29229104
+        },
+        {
+            "sub": "1130",
+            "jobCount": 11,
+            "jobWalltime": 330173
+        },
+        {
+            "sub": "983",
+            "jobCount": 37,
+            "jobWalltime": 22713488
+        },
+        {
+            "sub": "41",
+            "jobCount": 884,
+            "jobWalltime": 1681998617
+        },
+        {
+            "sub": "1177",
+            "jobCount": 22,
+            "jobWalltime": 20043693
+        },
+        {
+            "sub": "837",
+            "jobCount": 274,
+            "jobWalltime": 3416751
+        },
+        {
+            "sub": "19",
+            "jobCount": 11,
+            "jobWalltime": 22290270
+        },
+        {
+            "sub": "1086",
+            "jobCount": 13,
+            "jobWalltime": 41727
+        },
+        {
+            "sub": "767",
+            "jobCount": 3,
+            "jobWalltime": 17782
         },
         {
             "sub": "1092",
@@ -222,19 +252,9 @@
             "jobWalltime": 1252429727
         },
         {
-            "sub": "1067",
-            "jobCount": 2995,
-            "jobWalltime": 3585778687
-        },
-        {
-            "sub": "1152",
-            "jobCount": 3,
+            "sub": "1125",
+            "jobCount": 1,
             "jobWalltime": 0
-        },
-        {
-            "sub": "1165",
-            "jobCount": 27,
-            "jobWalltime": 1119300
         },
         {
             "sub": "1033",
@@ -242,49 +262,19 @@
             "jobWalltime": 79851208
         },
         {
-            "sub": "983",
-            "jobCount": 37,
-            "jobWalltime": 22713488
+            "sub": "1163",
+            "jobCount": 200,
+            "jobWalltime": 334088137
         },
         {
-            "sub": "955",
-            "jobCount": 3,
-            "jobWalltime": 91190
+            "sub": "828",
+            "jobCount": 2,
+            "jobWalltime": 0
         },
         {
-            "sub": "1128",
-            "jobCount": 3,
-            "jobWalltime": 30911
-        },
-        {
-            "sub": "1149",
-            "jobCount": 5,
-            "jobWalltime": 13918943
-        },
-        {
-            "sub": "822",
-            "jobCount": 2737,
-            "jobWalltime": 42364897
-        },
-        {
-            "sub": "1108",
-            "jobCount": 1882,
-            "jobWalltime": 651243405
-        },
-        {
-            "sub": "1085",
-            "jobCount": 38,
-            "jobWalltime": 640399
-        },
-        {
-            "sub": "1086",
-            "jobCount": 13,
-            "jobWalltime": 41727
-        },
-        {
-            "sub": "785",
-            "jobCount": 234,
-            "jobWalltime": 209528531
+            "sub": "1191",
+            "jobCount": 1,
+            "jobWalltime": 12909
         },
         {
             "sub": "1",
@@ -292,18 +282,53 @@
             "jobWalltime": 284411530
         },
         {
-            "sub": "45",
-            "jobCount": 652,
-            "jobWalltime": 128236961
+            "sub": "1119",
+            "jobCount": 334,
+            "jobWalltime": 228215703
         },
         {
-            "sub": "1178",
-            "jobCount": 21,
-            "jobWalltime": 21575576
+            "sub": "412",
+            "jobCount": 2054,
+            "jobWalltime": 1561101345
         },
         {
-            "sub": "828",
+            "sub": "1081",
+            "jobCount": 7994,
+            "jobWalltime": 12294009925
+        },
+        {
+            "sub": "506",
+            "jobCount": 156,
+            "jobWalltime": 1701271
+        },
+        {
+            "sub": "1139",
+            "jobCount": 3,
+            "jobWalltime": 2340265
+        },
+        {
+            "sub": "1040",
             "jobCount": 2,
+            "jobWalltime": 12811
+        },
+        {
+            "sub": "256",
+            "jobCount": 4,
+            "jobWalltime": 913162
+        },
+        {
+            "sub": "16",
+            "jobCount": 47353,
+            "jobWalltime": 48026270147
+        },
+        {
+            "sub": "1085",
+            "jobCount": 38,
+            "jobWalltime": 640399
+        },
+        {
+            "sub": "1152",
+            "jobCount": 3,
             "jobWalltime": 0
         },
         {
@@ -317,114 +342,9 @@
             "jobWalltime": 1167343810
         },
         {
-            "sub": "1180",
-            "jobCount": 1,
-            "jobWalltime": 12730
-        },
-        {
-            "sub": "1167",
-            "jobCount": 223,
-            "jobWalltime": 1977147
-        },
-        {
-            "sub": "1175",
-            "jobCount": 22,
-            "jobWalltime": 20646438
-        },
-        {
-            "sub": "1079",
-            "jobCount": 4012,
-            "jobWalltime": 5164809424
-        },
-        {
-            "sub": "16",
-            "jobCount": 47353,
-            "jobWalltime": 48026270147
-        },
-        {
-            "sub": "506",
-            "jobCount": 156,
-            "jobWalltime": 1701271
-        },
-        {
-            "sub": "1174",
-            "jobCount": 5,
-            "jobWalltime": 47427
-        },
-        {
-            "sub": "93",
-            "jobCount": 8,
-            "jobWalltime": 1838783
-        },
-        {
-            "sub": "256",
-            "jobCount": 4,
-            "jobWalltime": 913162
-        },
-        {
-            "sub": "1158",
-            "jobCount": 6,
-            "jobWalltime": 157106
-        },
-        {
-            "sub": "1151",
-            "jobCount": 2,
-            "jobWalltime": 33844
-        },
-        {
-            "sub": "126",
-            "jobCount": 2019,
-            "jobWalltime": 3677980972
-        },
-        {
-            "sub": "1063",
-            "jobCount": 246,
-            "jobWalltime": 212282071
-        },
-        {
-            "sub": "401",
-            "jobCount": 68,
-            "jobWalltime": 458629675
-        },
-        {
-            "sub": "880",
-            "jobCount": 22,
-            "jobWalltime": 44019382
-        },
-        {
-            "sub": "174",
-            "jobCount": 25766,
-            "jobWalltime": 33411864355
-        },
-        {
-            "sub": "1137",
+            "sub": "1187",
             "jobCount": 13,
-            "jobWalltime": 4204270
-        },
-        {
-            "sub": "767",
-            "jobCount": 3,
-            "jobWalltime": 17782
-        },
-        {
-            "sub": "974",
-            "jobCount": 6567,
-            "jobWalltime": 8971229108
-        },
-        {
-            "sub": "1172",
-            "jobCount": 21,
-            "jobWalltime": 20966084
-        },
-        {
-            "sub": "146",
-            "jobCount": 179,
-            "jobWalltime": 380727797
-        },
-        {
-            "sub": "682",
-            "jobCount": 532,
-            "jobWalltime": 1349031600
+            "jobWalltime": 11952941
         },
         {
             "sub": "521",
@@ -432,14 +352,69 @@
             "jobWalltime": 2693065
         },
         {
-            "sub": "1073",
-            "jobCount": 348,
-            "jobWalltime": 1658496869
+            "sub": "45",
+            "jobCount": 652,
+            "jobWalltime": 128236961
         },
         {
-            "sub": "1191",
-            "jobCount": 1,
-            "jobWalltime": 12909
+            "sub": "35",
+            "jobCount": 8,
+            "jobWalltime": 7066127
+        },
+        {
+            "sub": "1178",
+            "jobCount": 21,
+            "jobWalltime": 21575576
+        },
+        {
+            "sub": "1149",
+            "jobCount": 5,
+            "jobWalltime": 13918943
+        },
+        {
+            "sub": "250",
+            "jobCount": 7,
+            "jobWalltime": 17723
+        },
+        {
+            "sub": "1155",
+            "jobCount": 18,
+            "jobWalltime": 1271337
+        },
+        {
+            "sub": "1137",
+            "jobCount": 13,
+            "jobWalltime": 4204270
+        },
+        {
+            "sub": "1151",
+            "jobCount": 2,
+            "jobWalltime": 33844
+        },
+        {
+            "sub": "1063",
+            "jobCount": 246,
+            "jobWalltime": 212282071
+        },
+        {
+            "sub": "1102",
+            "jobCount": 357,
+            "jobWalltime": 236172427
+        },
+        {
+            "sub": "401",
+            "jobCount": 68,
+            "jobWalltime": 458629675
+        },
+        {
+            "sub": "146",
+            "jobCount": 179,
+            "jobWalltime": 380727797
+        },
+        {
+            "sub": "1062",
+            "jobCount": 42,
+            "jobWalltime": 37475571
         },
         {
             "sub": "386",
@@ -447,39 +422,44 @@
             "jobWalltime": 170469131
         },
         {
-            "sub": "1040",
-            "jobCount": 2,
-            "jobWalltime": 12811
+            "sub": "93",
+            "jobCount": 8,
+            "jobWalltime": 1838783
         },
         {
-            "sub": "1119",
-            "jobCount": 334,
-            "jobWalltime": 228215703
+            "sub": "1175",
+            "jobCount": 22,
+            "jobWalltime": 20646438
         },
         {
-            "sub": "742",
-            "jobCount": 9,
-            "jobWalltime": 47159
+            "sub": "1158",
+            "jobCount": 6,
+            "jobWalltime": 157106
         },
         {
-            "sub": "283",
-            "jobCount": 38,
-            "jobWalltime": 109961665
+            "sub": "1172",
+            "jobCount": 21,
+            "jobWalltime": 20966084
         },
         {
-            "sub": "1187",
-            "jobCount": 13,
-            "jobWalltime": 11952941
+            "sub": "285",
+            "jobCount": 29,
+            "jobWalltime": 2212729
         },
         {
-            "sub": "1176",
-            "jobCount": 26,
-            "jobWalltime": 37065036
+            "sub": "682",
+            "jobCount": 532,
+            "jobWalltime": 1349031600
         },
         {
-            "sub": "1169",
-            "jobCount": 30,
-            "jobWalltime": 41800640
+            "sub": "126",
+            "jobCount": 2019,
+            "jobWalltime": 3677980972
+        },
+        {
+            "sub": "880",
+            "jobCount": 22,
+            "jobWalltime": 44019382
         },
         {
             "sub": "135",
@@ -487,96 +467,51 @@
             "jobWalltime": 56116
         },
         {
-            "sub": "1153",
-            "jobCount": 4,
-            "jobWalltime": 148285
+            "sub": "115",
+            "jobCount": 485,
+            "jobWalltime": 82849351
         },
         {
-            "sub": "1138",
+            "sub": "786",
+            "jobCount": 385,
+            "jobWalltime": 1313118590
+        },
+        {
+            "sub": "110",
             "jobCount": 3,
-            "jobWalltime": 45201
+            "jobWalltime": 0
         },
         {
-            "sub": "1164",
-            "jobCount": 30,
-            "jobWalltime": 42253988
+            "sub": "928",
+            "jobCount": 18,
+            "jobWalltime": 18565211
+        },
+        {
+            "sub": "1197",
+            "jobCount": 19,
+            "jobWalltime": 2963214
+        },
+        {
+            "sub": "83",
+            "jobCount": 1030,
+            "jobWalltime": 1075540321
+        },
+        {
+            "sub": "974",
+            "jobCount": 6567,
+            "jobWalltime": 8971229108
         }
     ],
     "byServices": [
         {
-            "service": "giulia-berto/app-multi-lap-anat",
-            "jobCount": 9,
-            "jobWalltime": 10269195
-        },
-        {
-            "service": "filipinascimento/bl-conmat2network",
-            "jobCount": 183,
-            "jobWalltime": 74862276
-        },
-        {
-            "service": "filipinascimento/bl-network-communities",
-            "jobCount": 2,
-            "jobWalltime": 266526
-        },
-        {
-            "service": "brainlife/app-cortex-tissue-mapping",
-            "jobCount": 154,
-            "jobWalltime": 29023244
-        },
-        {
-            "service": "brainlife/app-fslDTIFIT",
-            "jobCount": 148,
-            "jobWalltime": 91389069
-        },
-        {
-            "service": "giulia-berto/app-ants-FA-registration",
-            "jobCount": 24,
-            "jobWalltime": 458047360
-        },
-        {
-            "service": "FBK-NILab/app-classifyber-segmentation",
-            "jobCount": 3,
-            "jobWalltime": 35636314
-        },
-        {
-            "service": "dipy/bl_apps_dipy_mask",
-            "jobCount": 2,
-            "jobWalltime": 98962
-        },
-        {
-            "service": "soichih/sca-service-conneval-validate",
-            "jobCount": 4,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-mrtrix3-preproc",
-            "jobCount": 1169,
-            "jobWalltime": 15187392031
-        },
-        {
-            "service": "giulia-berto/app-pynets",
+            "service": "brainlife/app-mrtrix3-roi2roi-tracking",
             "jobCount": 10,
-            "jobWalltime": 46824559
+            "jobWalltime": 13785073
         },
         {
-            "service": "brain-life/app-dtiinit",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "giulia-berto/app-ants-mni",
-            "jobCount": 1,
-            "jobWalltime": 8429270
-        },
-        {
-            "service": "filipinascimento/bl-network-report",
+            "service": "brainlife/app-networkneuro-agg",
             "jobCount": 2,
-            "jobWalltime": 537075
-        },
-        {
-            "service": "brainlife/app-trk2tck",
-            "jobCount": 11,
-            "jobWalltime": 286781
+            "jobWalltime": 670928
         },
         {
             "service": "soichih/sca-service-noop",
@@ -584,44 +519,29 @@
             "jobWalltime": 0
         },
         {
-            "service": "brainlife/app-archive-secondary",
-            "jobCount": 16345,
-            "jobWalltime": 267987438
+            "service": "brainlife/app-archive",
+            "jobCount": 35968,
+            "jobWalltime": 782560823
         },
         {
-            "service": "brainlife/validator-neuro-wmc",
-            "jobCount": 1220,
-            "jobWalltime": 731893221
-        },
-        {
-            "service": "brainlife/app-align-n-average-images",
-            "jobCount": 3,
-            "jobWalltime": 1291125
-        },
-        {
-            "service": "brainlife/app-trekker-roi-tracking",
-            "jobCount": 494,
-            "jobWalltime": 9643152779
-        },
-        {
-            "service": "dipy/bl_apps_dipy_track",
-            "jobCount": 2,
-            "jobWalltime": 119640
-        },
-        {
-            "service": "kathrynalpert/app-bids-mrtrix3_connectome",
+            "service": "soichih/app-conn-preprocessing",
             "jobCount": 1,
-            "jobWalltime": 3538681
+            "jobWalltime": 842646
         },
         {
-            "service": "brainlife/app-mrtrix3-act",
-            "jobCount": 862,
-            "jobWalltime": 2219052259
+            "service": "brainlife/app-slicer-fsl",
+            "jobCount": 442,
+            "jobWalltime": 114684990
         },
         {
-            "service": "bcmcpher/app-networkmatrices",
-            "jobCount": 177,
-            "jobWalltime": 431526886
+            "service": "davhunt/app-analyzePRF-GIFTI",
+            "jobCount": 5,
+            "jobWalltime": 57800032
+        },
+        {
+            "service": "brainlife/app-noop",
+            "jobCount": 5150,
+            "jobWalltime": 0
         },
         {
             "service": "brainlife/app-compile-tractmeasures",
@@ -634,434 +554,9 @@
             "jobWalltime": 72129200
         },
         {
-            "service": "brainlife/app-acpcART",
-            "jobCount": 29,
-            "jobWalltime": 4011581
-        },
-        {
-            "service": "giulia-berto/app-multi-lap",
-            "jobCount": 9,
-            "jobWalltime": 63380010
-        },
-        {
-            "service": "brainlife/app-eccentricity-classification",
-            "jobCount": 4,
-            "jobWalltime": 358924
-        },
-        {
-            "service": "brainlife/app-sift2-connectome-generation",
-            "jobCount": 26,
-            "jobWalltime": 3725561
-        },
-        {
-            "service": "brainlife/app-extract-diffusion-metrics-rois",
-            "jobCount": 35,
-            "jobWalltime": 2485825
-        },
-        {
             "service": "brainlife/app-network-matrices-2-mat",
             "jobCount": 166,
             "jobWalltime": 63631205
-        },
-        {
-            "service": "brainlife/app-mrtrix3-roi2roi-tracking",
-            "jobCount": 10,
-            "jobWalltime": 13785073
-        },
-        {
-            "service": "davhunt/app-benson14-retinotopy",
-            "jobCount": 705,
-            "jobWalltime": 2350669525
-        },
-        {
-            "service": "brainlife/app-noop",
-            "jobCount": 5150,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-networkneuro",
-            "jobCount": 166,
-            "jobWalltime": 1105717961
-        },
-        {
-            "service": "brainlife/app-dtiinit",
-            "jobCount": 37,
-            "jobWalltime": 51046007
-        },
-        {
-            "service": "brainlife/app-fsl-anat",
-            "jobCount": 318,
-            "jobWalltime": 1961481516
-        },
-        {
-            "service": "brainlife/app-FSLBET",
-            "jobCount": 578,
-            "jobWalltime": 3305740464
-        },
-        {
-            "service": "brainlife/app-FSLTopupEddy",
-            "jobCount": 237,
-            "jobWalltime": 726241202
-        },
-        {
-            "service": "filipinascimento/bl-network-measurements",
-            "jobCount": 2,
-            "jobWalltime": 441771
-        },
-        {
-            "service": "soichih/C-PAC",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/validator-neuro-dwi",
-            "jobCount": 3439,
-            "jobWalltime": 402224294
-        },
-        {
-            "service": "kitchell/app-testgradientflip",
-            "jobCount": 1,
-            "jobWalltime": 55417308
-        },
-        {
-            "service": "brainlife/app-dt6tonifti",
-            "jobCount": 1,
-            "jobWalltime": 109146
-        },
-        {
-            "service": "dipy/bl_apps_dipy_median_otsu",
-            "jobCount": 244,
-            "jobWalltime": 500000785
-        },
-        {
-            "service": "brainlife/validator-neuro-track",
-            "jobCount": 1761,
-            "jobWalltime": 916722124
-        },
-        {
-            "service": "brainlife/app-socr-mlra",
-            "jobCount": 1,
-            "jobWalltime": 62919
-        },
-        {
-            "service": "frankyeh/dsi-studio-tt2trk",
-            "jobCount": 6,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-tractseg",
-            "jobCount": 1165,
-            "jobWalltime": 7463564955
-        },
-        {
-            "service": "brainlife/validator-neuro-rois",
-            "jobCount": 3825,
-            "jobWalltime": 417038341
-        },
-        {
-            "service": "faskowit/app-multiAtlasTT",
-            "jobCount": 689,
-            "jobWalltime": 329427389
-        },
-        {
-            "service": "faskowit/app-fmri-2-mat",
-            "jobCount": 8,
-            "jobWalltime": 1432951
-        },
-        {
-            "service": "brainlife/app-endpointMapGeneration",
-            "jobCount": 47,
-            "jobWalltime": 179212198
-        },
-        {
-            "service": "frankyeh/dsi-studio-dwi2src",
-            "jobCount": 108,
-            "jobWalltime": 11092029
-        },
-        {
-            "service": "dipy/bl_apps_dipy_fit_csa",
-            "jobCount": 3,
-            "jobWalltime": 532824
-        },
-        {
-            "service": "brainlife/app-ROIsfromAtlas",
-            "jobCount": 2,
-            "jobWalltime": 86846
-        },
-        {
-            "service": "brainlife/app-tractographyQualityCheck",
-            "jobCount": 187,
-            "jobWalltime": 2600686892
-        },
-        {
-            "service": "brainlife/validator-neuro-func-task",
-            "jobCount": 1279,
-            "jobWalltime": 437683061
-        },
-        {
-            "service": "brainlife/validator-neuro-anat",
-            "jobCount": 2787,
-            "jobWalltime": 899729938
-        },
-        {
-            "service": "yeatmanlab/pyAFQ",
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-acpcART",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-tractclassification",
-            "jobCount": 14,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/validator-neuro-tractprofile",
-            "jobCount": 531,
-            "jobWalltime": 172083668
-        },
-        {
-            "service": "brainlife/validator-dsistudio-tractmeasure",
-            "jobCount": 45,
-            "jobWalltime": 1287079
-        },
-        {
-            "service": "davhunt/app-snr_in_cc",
-            "jobCount": 14,
-            "jobWalltime": 19501781
-        },
-        {
-            "service": "dipy/bl_apps_dipy_info",
-            "jobCount": 1,
-            "jobWalltime": 73247
-        },
-        {
-            "service": "brainlife/app-tractanalysisprofiles",
-            "jobCount": 777,
-            "jobWalltime": 775852069
-        },
-        {
-            "service": "brainlife/app-plot-odf",
-            "jobCount": 12,
-            "jobWalltime": 0
-        },
-        {
-            "service": "bcmcpher/app-repeat-tracking",
-            "jobCount": 1,
-            "jobWalltime": 12220547
-        },
-        {
-            "service": "brainlife/app-roi2roitracking",
-            "jobCount": 14,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-crop_reorient",
-            "jobCount": 162,
-            "jobWalltime": 62998939
-        },
-        {
-            "service": "davhunt/app-GLMdenoise",
-            "jobCount": 6,
-            "jobWalltime": 51877973
-        },
-        {
-            "service": "bacaron/app-mrtrix3-act",
-            "jobCount": 1371,
-            "jobWalltime": 15858968705
-        },
-        {
-            "service": "brainlife/app-rsHRF",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "filipinascimento/bl-network-nullmodel",
-            "jobCount": 1,
-            "jobWalltime": 255984
-        },
-        {
-            "service": "shnizzedy/brainlife-C-PAC",
-            "jobCount": 11,
-            "jobWalltime": 43475759
-        },
-        {
-            "service": "brainlife/app-testflip",
-            "jobCount": 6,
-            "jobWalltime": 663909
-        },
-        {
-            "service": "brainlife/app-life",
-            "jobCount": 307,
-            "jobWalltime": 1239795068
-        },
-        {
-            "service": "brainlife/app-networkneuro-agg",
-            "jobCount": 2,
-            "jobWalltime": 670928
-        },
-        {
-            "service": "brainlife/app-noddi-amico",
-            "jobCount": 110,
-            "jobWalltime": 591570523
-        },
-        {
-            "service": "brain-life/app-freesurfer",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-product-raw",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "frankyeh/dsi-studio-atk",
-            "jobCount": 3504,
-            "jobWalltime": 11892650957
-        },
-        {
-            "service": "brainlife/app-freesurfer",
-            "jobCount": 1755,
-            "jobWalltime": 26579884949
-        },
-        {
-            "service": "brainlife/app-slicer-fsl",
-            "jobCount": 442,
-            "jobWalltime": 114684990
-        },
-        {
-            "service": "mandymejia/app-clever",
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-roiGenerator",
-            "jobCount": 6059,
-            "jobWalltime": 7006469978
-        },
-        {
-            "service": "soichih/app-conn-preprocessing",
-            "jobCount": 1,
-            "jobWalltime": 842646
-        },
-        {
-            "service": "brainlife/app-removeTractOutliers",
-            "jobCount": 7,
-            "jobWalltime": 9060021
-        },
-        {
-            "service": "FBK-NILab/app-classifyber",
-            "jobCount": 2,
-            "jobWalltime": 55656395
-        },
-        {
-            "service": "brainlife/app-mrtrix3-5tt",
-            "jobCount": 1921,
-            "jobWalltime": 5843588126
-        },
-        {
-            "service": "brainlife/app-tracking",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "dipy/bl_apps_dipy_fit_dti",
-            "jobCount": 3,
-            "jobWalltime": 718494
-        },
-        {
-            "service": "brainlife/app-extract-warp-temp",
-            "jobCount": 442,
-            "jobWalltime": 120996917
-        },
-        {
-            "service": "frankyeh/dsi-studio-qc",
-            "jobCount": 108,
-            "jobWalltime": 15722545
-        },
-        {
-            "service": "davhunt/app-analyzePRF-GIFTI",
-            "jobCount": 5,
-            "jobWalltime": 57800032
-        },
-        {
-            "service": "filipinascimento/bl-network-preprocess",
-            "jobCount": 2,
-            "jobWalltime": 348664
-        },
-        {
-            "service": "frankyeh/dsi-studio-trk2tt",
-            "jobCount": 1,
-            "jobWalltime": 64721
-        },
-        {
-            "service": "brainlife/abcd-novnc",
-            "jobCount": 514,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brainlife/app-epi-t1-registration",
-            "jobCount": 51,
-            "jobWalltime": 612534292
-        },
-        {
-            "service": "dPys/PyNets",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "service": "filipinascimento/bl-network-visualization",
-            "jobCount": 167,
-            "jobWalltime": 14196973
-        },
-        {
-            "service": "brainlife/app-segment-thalamic-nuclei",
-            "jobCount": 1054,
-            "jobWalltime": 1423600525
-        },
-        {
-            "service": "brainlife/app-fmriprep",
-            "jobCount": 2851,
-            "jobWalltime": 12145626881
-        },
-        {
-            "service": "brainlife/app-archive",
-            "jobCount": 35968,
-            "jobWalltime": 782560823
-        },
-        {
-            "service": "brainlife/app-deface",
-            "jobCount": 208,
-            "jobWalltime": 40975484
-        },
-        {
-            "service": "brainlife/app-hcp-acpc-alignment",
-            "jobCount": 152,
-            "jobWalltime": 1619054070
-        },
-        {
-            "service": "brainlife/app-splitshells",
-            "jobCount": 46,
-            "jobWalltime": 2530336
-        },
-        {
-            "service": "brainlife/app-qsiprep",
-            "jobCount": 97,
-            "jobWalltime": 0
-        },
-        {
-            "service": "dipy/bl_apps_dipy_reslice",
-            "jobCount": 1238,
-            "jobWalltime": 537259110
-        },
-        {
-            "service": "frankyeh/dsi-studio-trk",
-            "jobCount": 7,
-            "jobWalltime": 261488
         },
         {
             "service": "svincibo/app-mergeTCK",
@@ -1069,14 +564,84 @@
             "jobWalltime": 0
         },
         {
-            "service": "brainlife/app-freesurfer-agg",
+            "service": "brainlife/app-dtiinit",
+            "jobCount": 37,
+            "jobWalltime": 51046007
+        },
+        {
+            "service": "filipinascimento/bl-network-report",
+            "jobCount": 2,
+            "jobWalltime": 537075
+        },
+        {
+            "service": "brainlife/validator-neuro-wmc",
+            "jobCount": 1220,
+            "jobWalltime": 731893221
+        },
+        {
+            "service": "brainlife/app-align-n-average-images",
+            "jobCount": 3,
+            "jobWalltime": 1291125
+        },
+        {
+            "service": "soichih/C-PAC",
             "jobCount": 1,
             "jobWalltime": 0
         },
         {
-            "service": "brainlife/app-freesurfer-stats",
-            "jobCount": 282,
-            "jobWalltime": 159440456
+            "service": "brainlife/app-mrtrix3-act",
+            "jobCount": 862,
+            "jobWalltime": 2219052259
+        },
+        {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 4,
+            "jobWalltime": 0
+        },
+        {
+            "service": "frankyeh/dsi-studio-qc",
+            "jobCount": 108,
+            "jobWalltime": 15722545
+        },
+        {
+            "service": "brainlife/app-roiGenerator",
+            "jobCount": 6059,
+            "jobWalltime": 7006469978
+        },
+        {
+            "service": "frankyeh/dsi-studio-trk",
+            "jobCount": 7,
+            "jobWalltime": 261488
+        },
+        {
+            "service": "brainlife/app-networkneuro",
+            "jobCount": 166,
+            "jobWalltime": 1105717961
+        },
+        {
+            "service": "brainlife/app-fmriprep",
+            "jobCount": 2851,
+            "jobWalltime": 12145626881
+        },
+        {
+            "service": "brainlife/app-acpcART",
+            "jobCount": 29,
+            "jobWalltime": 4011581
+        },
+        {
+            "service": "brainlife/app-dt6tonifti",
+            "jobCount": 1,
+            "jobWalltime": 109146
+        },
+        {
+            "service": "giulia-berto/app-multi-lap-anat",
+            "jobCount": 9,
+            "jobWalltime": 10269195
+        },
+        {
+            "service": "brainlife/app-FSLBET",
+            "jobCount": 578,
+            "jobWalltime": 3305740464
         },
         {
             "service": "brainlife/app-pynets",
@@ -1084,19 +649,9 @@
             "jobWalltime": 0
         },
         {
-            "service": "brainlife/validator-neuro-freesurfer",
-            "jobCount": 1906,
-            "jobWalltime": 2475324819
-        },
-        {
             "service": "brainlife/app-stage",
             "jobCount": 17433,
             "jobWalltime": 332664210
-        },
-        {
-            "service": "brainlife/app-generate-eccentricity-rois",
-            "jobCount": 5,
-            "jobWalltime": 593421
         },
         {
             "service": "brainlife/app-wmaSeg",
@@ -1104,19 +659,359 @@
             "jobWalltime": 545646029
         },
         {
-            "service": "frankyeh/dsi-studio-src2fib",
-            "jobCount": 10,
-            "jobWalltime": 13900760
-        },
-        {
             "service": "brainlife/app-cortex-tissue-mapping-stats",
             "jobCount": 352,
             "jobWalltime": 474332349
         },
         {
+            "service": "dipy/bl_apps_dipy_median_otsu",
+            "jobCount": 244,
+            "jobWalltime": 500000785
+        },
+        {
+            "service": "frankyeh/dsi-studio-tt2trk",
+            "jobCount": 6,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-freesurfer",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-socr-mlra",
+            "jobCount": 1,
+            "jobWalltime": 62919
+        },
+        {
+            "service": "filipinascimento/bl-conmat2network",
+            "jobCount": 183,
+            "jobWalltime": 74862276
+        },
+        {
+            "service": "soichih/sca-product-raw",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-roi2roitracking",
+            "jobCount": 14,
+            "jobWalltime": 0
+        },
+        {
+            "service": "giulia-berto/app-multi-lap",
+            "jobCount": 9,
+            "jobWalltime": 63380010
+        },
+        {
+            "service": "faskowit/app-multiAtlasTT",
+            "jobCount": 689,
+            "jobWalltime": 329427389
+        },
+        {
+            "service": "mandymejia/app-clever",
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "service": "dipy/bl_apps_dipy_track",
+            "jobCount": 2,
+            "jobWalltime": 119640
+        },
+        {
+            "service": "brainlife/app-trk2tck",
+            "jobCount": 11,
+            "jobWalltime": 286781
+        },
+        {
+            "service": "brainlife/app-tractseg",
+            "jobCount": 1165,
+            "jobWalltime": 7463564955
+        },
+        {
+            "service": "brainlife/app-extract-diffusion-metrics-rois",
+            "jobCount": 35,
+            "jobWalltime": 2485825
+        },
+        {
+            "service": "brainlife/app-testflip",
+            "jobCount": 6,
+            "jobWalltime": 663909
+        },
+        {
+            "service": "bcmcpher/app-repeat-tracking",
+            "jobCount": 1,
+            "jobWalltime": 12220547
+        },
+        {
+            "service": "giulia-berto/app-ants-FA-registration",
+            "jobCount": 24,
+            "jobWalltime": 458047360
+        },
+        {
+            "service": "brainlife/app-fslDTIFIT",
+            "jobCount": 148,
+            "jobWalltime": 91389069
+        },
+        {
+            "service": "filipinascimento/bl-network-measurements",
+            "jobCount": 2,
+            "jobWalltime": 441771
+        },
+        {
+            "service": "brain-life/app-acpcART",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-plot-odf",
+            "jobCount": 12,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-life",
+            "jobCount": 307,
+            "jobWalltime": 1239795068
+        },
+        {
+            "service": "brainlife/app-fsl-anat",
+            "jobCount": 318,
+            "jobWalltime": 1961481516
+        },
+        {
+            "service": "giulia-berto/app-ants-mni",
+            "jobCount": 1,
+            "jobWalltime": 8429270
+        },
+        {
+            "service": "brainlife/app-freesurfer",
+            "jobCount": 1755,
+            "jobWalltime": 26579884949
+        },
+        {
+            "service": "kathrynalpert/app-bids-mrtrix3_connectome",
+            "jobCount": 1,
+            "jobWalltime": 3538681
+        },
+        {
+            "service": "brainlife/validator-dsistudio-tractmeasure",
+            "jobCount": 45,
+            "jobWalltime": 1287079
+        },
+        {
+            "service": "brainlife/app-FSLTopupEddy",
+            "jobCount": 237,
+            "jobWalltime": 726241202
+        },
+        {
+            "service": "bcmcpher/app-networkmatrices",
+            "jobCount": 177,
+            "jobWalltime": 431526886
+        },
+        {
+            "service": "brainlife/app-freesurfer-agg",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-archive-secondary",
+            "jobCount": 16345,
+            "jobWalltime": 267987438
+        },
+        {
+            "service": "brainlife/app-freesurfer-stats",
+            "jobCount": 282,
+            "jobWalltime": 159440456
+        },
+        {
+            "service": "brainlife/app-sift2-connectome-generation",
+            "jobCount": 26,
+            "jobWalltime": 3725561
+        },
+        {
+            "service": "brainlife/validator-neuro-dwi",
+            "jobCount": 3439,
+            "jobWalltime": 402224294
+        },
+        {
+            "service": "brainlife/validator-neuro-rois",
+            "jobCount": 3825,
+            "jobWalltime": 417038341
+        },
+        {
+            "service": "shnizzedy/brainlife-C-PAC",
+            "jobCount": 11,
+            "jobWalltime": 43475759
+        },
+        {
+            "service": "dipy/bl_apps_dipy_reslice",
+            "jobCount": 1238,
+            "jobWalltime": 537259110
+        },
+        {
+            "service": "brainlife/app-crop_reorient",
+            "jobCount": 162,
+            "jobWalltime": 62998939
+        },
+        {
+            "service": "brainlife/app-cortex-tissue-mapping",
+            "jobCount": 154,
+            "jobWalltime": 29023244
+        },
+        {
+            "service": "FBK-NILab/app-classifyber",
+            "jobCount": 2,
+            "jobWalltime": 55656395
+        },
+        {
+            "service": "filipinascimento/bl-network-visualization",
+            "jobCount": 167,
+            "jobWalltime": 14196973
+        },
+        {
+            "service": "brainlife/app-epi-t1-registration",
+            "jobCount": 51,
+            "jobWalltime": 612534292
+        },
+        {
+            "service": "faskowit/app-fmri-2-mat",
+            "jobCount": 8,
+            "jobWalltime": 1432951
+        },
+        {
+            "service": "frankyeh/dsi-studio-dwi2src",
+            "jobCount": 108,
+            "jobWalltime": 11092029
+        },
+        {
+            "service": "brainlife/app-endpointMapGeneration",
+            "jobCount": 47,
+            "jobWalltime": 179212198
+        },
+        {
+            "service": "filipinascimento/bl-network-nullmodel",
+            "jobCount": 1,
+            "jobWalltime": 255984
+        },
+        {
+            "service": "frankyeh/dsi-studio-atk",
+            "jobCount": 3504,
+            "jobWalltime": 11892650957
+        },
+        {
+            "service": "brainlife/app-noddi-amico",
+            "jobCount": 110,
+            "jobWalltime": 591570523
+        },
+        {
+            "service": "dipy/bl_apps_dipy_info",
+            "jobCount": 1,
+            "jobWalltime": 73247
+        },
+        {
+            "service": "brainlife/app-tractclassification",
+            "jobCount": 14,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-ROIsfromAtlas",
+            "jobCount": 2,
+            "jobWalltime": 86846
+        },
+        {
+            "service": "yeatmanlab/pyAFQ",
+            "jobCount": 3,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/validator-neuro-track",
+            "jobCount": 1761,
+            "jobWalltime": 916722124
+        },
+        {
+            "service": "kitchell/app-testgradientflip",
+            "jobCount": 1,
+            "jobWalltime": 55417308
+        },
+        {
+            "service": "brainlife/app-qsiprep",
+            "jobCount": 97,
+            "jobWalltime": 0
+        },
+        {
+            "service": "davhunt/app-snr_in_cc",
+            "jobCount": 14,
+            "jobWalltime": 19501781
+        },
+        {
             "service": "brainlife/ga-launcher",
             "jobCount": 1,
             "jobWalltime": 0
+        },
+        {
+            "service": "davhunt/app-benson14-retinotopy",
+            "jobCount": 705,
+            "jobWalltime": 2350669525
+        },
+        {
+            "service": "filipinascimento/bl-network-preprocess",
+            "jobCount": 2,
+            "jobWalltime": 348664
+        },
+        {
+            "service": "brainlife/validator-neuro-freesurfer",
+            "jobCount": 1906,
+            "jobWalltime": 2475324819
+        },
+        {
+            "service": "frankyeh/dsi-studio-src2fib",
+            "jobCount": 10,
+            "jobWalltime": 13900760
+        },
+        {
+            "service": "brainlife/app-splitshells",
+            "jobCount": 46,
+            "jobWalltime": 2530336
+        },
+        {
+            "service": "brainlife/app-mrtrix3-preproc",
+            "jobCount": 1169,
+            "jobWalltime": 15187392031
+        },
+        {
+            "service": "brainlife/app-eccentricity-classification",
+            "jobCount": 4,
+            "jobWalltime": 358924
+        },
+        {
+            "service": "brainlife/app-hcp-acpc-alignment",
+            "jobCount": 152,
+            "jobWalltime": 1619054070
+        },
+        {
+            "service": "brainlife/app-mrtrix3-5tt",
+            "jobCount": 1921,
+            "jobWalltime": 5843588126
+        },
+        {
+            "service": "dipy/bl_apps_dipy_mask",
+            "jobCount": 2,
+            "jobWalltime": 98962
+        },
+        {
+            "service": "brainlife/app-tractographyQualityCheck",
+            "jobCount": 187,
+            "jobWalltime": 2600686892
+        },
+        {
+            "service": "brainlife/app-deface",
+            "jobCount": 208,
+            "jobWalltime": 40975484
+        },
+        {
+            "service": "brainlife/validator-neuro-anat",
+            "jobCount": 2787,
+            "jobWalltime": 899729938
         },
         {
             "service": "brainlife/app-compile-macro-micro-tract-stats",
@@ -1127,63 +1022,128 @@
             "service": "brainlife/app-hcp-cortex-mapping-replication",
             "jobCount": 222,
             "jobWalltime": 227793540
+        },
+        {
+            "service": "brainlife/app-removeTractOutliers",
+            "jobCount": 7,
+            "jobWalltime": 9060021
+        },
+        {
+            "service": "brain-life/app-dtiinit",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/validator-neuro-func-task",
+            "jobCount": 1279,
+            "jobWalltime": 437683061
+        },
+        {
+            "service": "dipy/bl_apps_dipy_fit_csa",
+            "jobCount": 3,
+            "jobWalltime": 532824
+        },
+        {
+            "service": "brainlife/validator-neuro-tractprofile",
+            "jobCount": 531,
+            "jobWalltime": 172083668
+        },
+        {
+            "service": "brainlife/app-rsHRF",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "dipy/bl_apps_dipy_fit_dti",
+            "jobCount": 3,
+            "jobWalltime": 718494
+        },
+        {
+            "service": "brainlife/app-generate-eccentricity-rois",
+            "jobCount": 5,
+            "jobWalltime": 593421
+        },
+        {
+            "service": "brainlife/app-extract-warp-temp",
+            "jobCount": 442,
+            "jobWalltime": 120996917
+        },
+        {
+            "service": "brainlife/app-segment-thalamic-nuclei",
+            "jobCount": 1054,
+            "jobWalltime": 1423600525
+        },
+        {
+            "service": "giulia-berto/app-pynets",
+            "jobCount": 10,
+            "jobWalltime": 46824559
+        },
+        {
+            "service": "bacaron/app-mrtrix3-act",
+            "jobCount": 1371,
+            "jobWalltime": 15858968705
+        },
+        {
+            "service": "davhunt/app-GLMdenoise",
+            "jobCount": 6,
+            "jobWalltime": 51877973
+        },
+        {
+            "service": "FBK-NILab/app-classifyber-segmentation",
+            "jobCount": 3,
+            "jobWalltime": 35636314
+        },
+        {
+            "service": "brainlife/app-tracking",
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "service": "frankyeh/dsi-studio-trk2tt",
+            "jobCount": 1,
+            "jobWalltime": 64721
+        },
+        {
+            "service": "filipinascimento/bl-network-communities",
+            "jobCount": 2,
+            "jobWalltime": 266526
+        },
+        {
+            "service": "brainlife/app-trekker-roi-tracking",
+            "jobCount": 494,
+            "jobWalltime": 9643152779
+        },
+        {
+            "service": "brainlife/abcd-novnc",
+            "jobCount": 514,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brainlife/app-tractanalysisprofiles",
+            "jobCount": 777,
+            "jobWalltime": 775852069
+        },
+        {
+            "service": "dPys/PyNets",
+            "jobCount": 1,
+            "jobWalltime": 0
         }
     ],
     "byGroup": [
         {
-            "groupId": 15392,
-            "jobCount": 3682,
-            "jobWalltime": 4830906006
-        },
-        {
-            "groupId": 728,
-            "jobCount": 2,
-            "jobWalltime": 22710
-        },
-        {
-            "groupId": 14698,
-            "jobCount": 14,
-            "jobWalltime": 72965
-        },
-        {
-            "groupId": 307,
-            "jobCount": 8,
-            "jobWalltime": 10012692
-        },
-        {
-            "groupId": 15427,
-            "jobCount": 211,
-            "jobWalltime": 145601878
-        },
-        {
-            "groupId": 108,
+            "groupId": 14540,
             "jobCount": 1,
-            "jobWalltime": 13906
+            "jobWalltime": 0
         },
         {
-            "groupId": 15443,
-            "jobCount": 21,
-            "jobWalltime": 20043693
+            "groupId": 15305,
+            "jobCount": 7597,
+            "jobWalltime": 7000031197
         },
         {
-            "groupId": 14557,
-            "jobCount": 15,
-            "jobWalltime": 4970769
-        },
-        {
-            "groupId": 15466,
-            "jobCount": 21,
-            "jobWalltime": 21575576
-        },
-        {
-            "groupId": 15297,
-            "jobCount": 14,
-            "jobWalltime": 14382151
-        },
-        {
-            "groupId": 15441,
-            "jobCount": 21,
-            "jobWalltime": 24356724
+            "groupId": 15341,
+            "jobCount": 9,
+            "jobWalltime": 11808527
         },
         {
             "groupId": 15353,
@@ -1191,214 +1151,39 @@
             "jobWalltime": 13918943
         },
         {
-            "groupId": 295,
-            "jobCount": 6,
-            "jobWalltime": 310124
-        },
-        {
-            "groupId": 15155,
-            "jobCount": 49,
-            "jobWalltime": 56874097
-        },
-        {
-            "groupId": 15426,
-            "jobCount": 1310,
-            "jobWalltime": 1119013991
-        },
-        {
-            "groupId": 15350,
-            "jobCount": 38,
-            "jobWalltime": 19275331
-        },
-        {
-            "groupId": 531,
-            "jobCount": 83,
-            "jobWalltime": 60835046
-        },
-        {
-            "groupId": 14724,
-            "jobCount": 26,
-            "jobWalltime": 1959529
-        },
-        {
-            "groupId": 15141,
-            "jobCount": 22,
-            "jobWalltime": 44019382
-        },
-        {
-            "groupId": 648,
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15421,
-            "jobCount": 76,
-            "jobWalltime": 1111831
-        },
-        {
-            "groupId": 15345,
-            "jobCount": 54,
-            "jobWalltime": 28007593
-        },
-        {
-            "groupId": 15445,
-            "jobCount": 1,
-            "jobWalltime": 12909
-        },
-        {
-            "groupId": 15473,
-            "jobCount": 53,
-            "jobWalltime": 380359236
-        },
-        {
-            "groupId": 15329,
-            "jobCount": 1,
-            "jobWalltime": 361146
-        },
-        {
-            "groupId": 15243,
-            "jobCount": 1874,
-            "jobWalltime": 651243405
-        },
-        {
-            "groupId": 15432,
-            "jobCount": 186,
-            "jobWalltime": 88828948
-        },
-        {
-            "groupId": 303,
-            "jobCount": 35,
-            "jobWalltime": 109922594
-        },
-        {
-            "groupId": 15383,
-            "jobCount": 101,
-            "jobWalltime": 168033506
-        },
-        {
-            "groupId": 329,
-            "jobCount": 1,
-            "jobWalltime": 2560
-        },
-        {
-            "groupId": 15419,
-            "jobCount": 359,
-            "jobWalltime": 132712228
-        },
-        {
-            "groupId": 15471,
-            "jobCount": 18,
-            "jobWalltime": 2963214
-        },
-        {
-            "groupId": 15233,
-            "jobCount": 345,
-            "jobWalltime": 42192743
-        },
-        {
-            "groupId": 15370,
-            "jobCount": 1222,
-            "jobWalltime": 2345284290
-        },
-        {
-            "groupId": 15271,
-            "jobCount": 550,
-            "jobWalltime": 490401396
-        },
-        {
-            "groupId": 851,
-            "jobCount": 14,
-            "jobWalltime": 5171314
-        },
-        {
-            "groupId": 15260,
-            "jobCount": 1,
-            "jobWalltime": 33639
-        },
-        {
             "groupId": 15363,
             "jobCount": 2728,
             "jobWalltime": 40653517
         },
         {
-            "groupId": 290,
-            "jobCount": 12,
-            "jobWalltime": 5801
+            "groupId": 307,
+            "jobCount": 8,
+            "jobWalltime": 10012692
         },
         {
-            "groupId": 462,
-            "jobCount": 2658,
-            "jobWalltime": 4058257742
-        },
-        {
-            "groupId": 15232,
-            "jobCount": 21,
-            "jobWalltime": 471382
-        },
-        {
-            "groupId": 15377,
-            "jobCount": 10,
-            "jobWalltime": 37203
-        },
-        {
-            "groupId": 15314,
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15299,
-            "jobCount": 11,
-            "jobWalltime": 3203639
-        },
-        {
-            "groupId": 14586,
+            "groupId": 15334,
             "jobCount": 2,
-            "jobWalltime": 16215
+            "jobWalltime": 32550
         },
         {
-            "groupId": 14870,
-            "jobCount": 18,
-            "jobWalltime": 18565211
+            "groupId": 728,
+            "jobCount": 2,
+            "jobWalltime": 22710
         },
         {
-            "groupId": 15472,
-            "jobCount": 1,
-            "jobWalltime": 0
+            "groupId": 15428,
+            "jobCount": 239,
+            "jobWalltime": 173469533
         },
         {
-            "groupId": 69,
-            "jobCount": 3030,
-            "jobWalltime": 164729884
+            "groupId": 15381,
+            "jobCount": 27,
+            "jobWalltime": 1119300
         },
         {
-            "groupId": 15259,
-            "jobCount": 5012,
-            "jobWalltime": 3984212101
-        },
-        {
-            "groupId": 15411,
-            "jobCount": 726,
-            "jobWalltime": 745187322
-        },
-        {
-            "groupId": 15450,
-            "jobCount": 49,
-            "jobWalltime": 65205740
-        },
-        {
-            "groupId": 169,
-            "jobCount": 654,
-            "jobWalltime": 128675713
-        },
-        {
-            "groupId": 232,
-            "jobCount": 1,
-            "jobWalltime": 15099
-        },
-        {
-            "groupId": 15474,
-            "jobCount": 41,
-            "jobWalltime": 3772296
+            "groupId": 14484,
+            "jobCount": 186,
+            "jobWalltime": 72127441
         },
         {
             "groupId": 15367,
@@ -1406,469 +1191,19 @@
             "jobWalltime": 1065454
         },
         {
-            "groupId": 14737,
-            "jobCount": 39,
-            "jobWalltime": 171640
+            "groupId": 113,
+            "jobCount": 122,
+            "jobWalltime": 334413808
         },
         {
-            "groupId": 15254,
-            "jobCount": 13,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15274,
-            "jobCount": 979,
-            "jobWalltime": 437863317
-        },
-        {
-            "groupId": 185,
-            "jobCount": 38,
-            "jobWalltime": 7344237
-        },
-        {
-            "groupId": 15229,
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 14942,
-            "jobCount": 3,
-            "jobWalltime": 26301
-        },
-        {
-            "groupId": 15288,
-            "jobCount": 43,
-            "jobWalltime": 24732667
-        },
-        {
-            "groupId": 15365,
-            "jobCount": 3,
-            "jobWalltime": 1698425
-        },
-        {
-            "groupId": 15278,
-            "jobCount": 7,
-            "jobWalltime": 483577
-        },
-        {
-            "groupId": 563,
-            "jobCount": 40,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15371,
-            "jobCount": 6,
-            "jobWalltime": 157106
-        },
-        {
-            "groupId": 170,
-            "jobCount": 91,
-            "jobWalltime": 241835904
-        },
-        {
-            "groupId": 288,
-            "jobCount": 967,
-            "jobWalltime": 2233377826
-        },
-        {
-            "groupId": 15303,
-            "jobCount": 52,
-            "jobWalltime": 18918801
-        },
-        {
-            "groupId": 15338,
-            "jobCount": 8,
-            "jobWalltime": 11775713
-        },
-        {
-            "groupId": 15357,
-            "jobCount": 2,
-            "jobWalltime": 33844
-        },
-        {
-            "groupId": 15385,
-            "jobCount": 3263,
-            "jobWalltime": 6341380214
-        },
-        {
-            "groupId": 15418,
-            "jobCount": 1097,
-            "jobWalltime": 271666754
-        },
-        {
-            "groupId": 14629,
-            "jobCount": 24,
-            "jobWalltime": 2721103
-        },
-        {
-            "groupId": 15399,
-            "jobCount": 22,
-            "jobWalltime": 20646438
-        },
-        {
-            "groupId": 15318,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 555,
-            "jobCount": 31,
-            "jobWalltime": 1382060
-        },
-        {
-            "groupId": 15339,
-            "jobCount": 47,
-            "jobWalltime": 39670210
-        },
-        {
-            "groupId": 146,
-            "jobCount": 10,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 242,
-            "jobCount": 532,
-            "jobWalltime": 1349031600
-        },
-        {
-            "groupId": 14603,
-            "jobCount": 1275,
-            "jobWalltime": 3115663975
-        },
-        {
-            "groupId": 1,
-            "jobCount": 2,
-            "jobWalltime": 22893
-        },
-        {
-            "groupId": 14929,
-            "jobCount": 3,
-            "jobWalltime": 91190
-        },
-        {
-            "groupId": 564,
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15384,
-            "jobCount": 6,
-            "jobWalltime": 13490468
-        },
-        {
-            "groupId": 15467,
-            "jobCount": 24,
-            "jobWalltime": 22678076
-        },
-        {
-            "groupId": 15442,
-            "jobCount": 30,
-            "jobWalltime": 41800640
-        },
-        {
-            "groupId": 15222,
-            "jobCount": 1445,
-            "jobWalltime": 2029811721
-        },
-        {
-            "groupId": 402,
-            "jobCount": 77,
-            "jobWalltime": 3074993
-        },
-        {
-            "groupId": 286,
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15187,
-            "jobCount": 13,
-            "jobWalltime": 41727
-        },
-        {
-            "groupId": 15298,
-            "jobCount": 1,
-            "jobWalltime": 1949046
-        },
-        {
-            "groupId": 324,
-            "jobCount": 5,
-            "jobWalltime": 115429
-        },
-        {
-            "groupId": 15320,
-            "jobCount": 1,
-            "jobWalltime": 16978
-        },
-        {
-            "groupId": 15457,
-            "jobCount": 26,
-            "jobWalltime": 37065036
-        },
-        {
-            "groupId": 191,
-            "jobCount": 2,
-            "jobWalltime": 126707
-        },
-        {
-            "groupId": 15253,
-            "jobCount": 17,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15302,
-            "jobCount": 3,
-            "jobWalltime": 3578108
-        },
-        {
-            "groupId": 15397,
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15077,
-            "jobCount": 1622,
-            "jobWalltime": 797272021
-        },
-        {
-            "groupId": 15110,
-            "jobCount": 2,
-            "jobWalltime": 12811
-        },
-        {
-            "groupId": 15354,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15408,
-            "jobCount": 165,
-            "jobWalltime": 281812202
-        },
-        {
-            "groupId": 15434,
-            "jobCount": 136,
-            "jobWalltime": 138512883
-        },
-        {
-            "groupId": 14865,
-            "jobCount": 173,
-            "jobWalltime": 115937471
-        },
-        {
-            "groupId": 15326,
-            "jobCount": 1,
-            "jobWalltime": 1409242
-        },
-        {
-            "groupId": 15379,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15431,
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15435,
-            "jobCount": 149,
-            "jobWalltime": 693305158
-        },
-        {
-            "groupId": 14937,
-            "jobCount": 123,
-            "jobWalltime": 248993519
-        },
-        {
-            "groupId": 15449,
-            "jobCount": 8,
-            "jobWalltime": 7066127
-        },
-        {
-            "groupId": 15364,
-            "jobCount": 68,
-            "jobWalltime": 26868877
-        },
-        {
-            "groupId": 15372,
-            "jobCount": 7609,
-            "jobWalltime": 9645589779
-        },
-        {
-            "groupId": 15321,
-            "jobCount": 81,
-            "jobWalltime": 34298925
-        },
-        {
-            "groupId": 204,
-            "jobCount": 1,
-            "jobWalltime": 16697
-        },
-        {
-            "groupId": 14975,
-            "jobCount": 6560,
-            "jobWalltime": 8971170249
-        },
-        {
-            "groupId": 14514,
-            "jobCount": 9,
-            "jobWalltime": 47159
-        },
-        {
-            "groupId": 14613,
-            "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15280,
-            "jobCount": 7890,
-            "jobWalltime": 12292982253
-        },
-        {
-            "groupId": 15319,
-            "jobCount": 1,
-            "jobWalltime": 28223
-        },
-        {
-            "groupId": 696,
-            "jobCount": 36051,
-            "jobWalltime": 36350616056
-        },
-        {
-            "groupId": 15424,
-            "jobCount": 167,
-            "jobWalltime": 287556249
-        },
-        {
-            "groupId": 14518,
-            "jobCount": 2,
-            "jobWalltime": 24921
-        },
-        {
-            "groupId": 15413,
-            "jobCount": 3986,
-            "jobWalltime": 8140579225
-        },
-        {
-            "groupId": 193,
-            "jobCount": 6,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15136,
-            "jobCount": 14,
-            "jobWalltime": 2036837
-        },
-        {
-            "groupId": 15415,
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 139,
-            "jobCount": 10,
-            "jobWalltime": 40187
-        },
-        {
-            "groupId": 15458,
+            "groupId": 15443,
             "jobCount": 21,
-            "jobWalltime": 20966084
+            "jobWalltime": 20043693
         },
         {
-            "groupId": 15317,
-            "jobCount": 9,
-            "jobWalltime": 4204270
-        },
-        {
-            "groupId": 15273,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 86,
-            "jobCount": 70,
-            "jobWalltime": 18741925
-        },
-        {
-            "groupId": 14837,
-            "jobCount": 865,
-            "jobWalltime": 1681030040
-        },
-        {
-            "groupId": 15420,
-            "jobCount": 1583,
-            "jobWalltime": 3985556033
-        },
-        {
-            "groupId": 15412,
-            "jobCount": 420,
-            "jobWalltime": 164294406
-        },
-        {
-            "groupId": 15436,
-            "jobCount": 26,
-            "jobWalltime": 36268811
-        },
-        {
-            "groupId": 575,
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 14540,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15430,
-            "jobCount": 1508,
-            "jobWalltime": 3767420022
-        },
-        {
-            "groupId": 249,
-            "jobCount": 3,
-            "jobWalltime": 14022
-        },
-        {
-            "groupId": 15336,
-            "jobCount": 3,
-            "jobWalltime": 17723
-        },
-        {
-            "groupId": 15282,
-            "jobCount": 2,
-            "jobWalltime": 30911
-        },
-        {
-            "groupId": 17,
-            "jobCount": 8,
-            "jobWalltime": 7808
-        },
-        {
-            "groupId": 15,
-            "jobCount": 4,
-            "jobWalltime": 24622
-        },
-        {
-            "groupId": 15362,
-            "jobCount": 3,
-            "jobWalltime": 57727
-        },
-        {
-            "groupId": 15398,
-            "jobCount": 2,
-            "jobWalltime": 47427
-        },
-        {
-            "groupId": 14993,
-            "jobCount": 37,
-            "jobWalltime": 22713488
-        },
-        {
-            "groupId": 240,
-            "jobCount": 1,
-            "jobWalltime": 23465
+            "groupId": 71,
+            "jobCount": 274,
+            "jobWalltime": 4751569
         },
         {
             "groupId": 15395,
@@ -1876,38 +1211,18 @@
             "jobWalltime": 1521431135
         },
         {
-            "groupId": 750,
-            "jobCount": 64,
-            "jobWalltime": 0
+            "groupId": 15329,
+            "jobCount": 1,
+            "jobWalltime": 361146
         },
         {
-            "groupId": 15293,
+            "groupId": 15378,
             "jobCount": 1,
             "jobWalltime": 0
         },
         {
-            "groupId": 15375,
+            "groupId": 15472,
             "jobCount": 1,
-            "jobWalltime": 13928
-        },
-        {
-            "groupId": 15277,
-            "jobCount": 2,
-            "jobWalltime": 47232
-        },
-        {
-            "groupId": 529,
-            "jobCount": 23,
-            "jobWalltime": 56116
-        },
-        {
-            "groupId": 241,
-            "jobCount": 1,
-            "jobWalltime": 5324
-        },
-        {
-            "groupId": 15227,
-            "jobCount": 17,
             "jobWalltime": 0
         },
         {
@@ -1916,89 +1231,14 @@
             "jobWalltime": 42133
         },
         {
-            "groupId": 15150,
-            "jobCount": 246,
-            "jobWalltime": 212282071
-        },
-        {
-            "groupId": 113,
-            "jobCount": 122,
-            "jobWalltime": 334413808
-        },
-        {
-            "groupId": 14927,
-            "jobCount": 68,
-            "jobWalltime": 458629675
-        },
-        {
-            "groupId": 15301,
-            "jobCount": 2,
-            "jobWalltime": 94423
-        },
-        {
-            "groupId": 334,
-            "jobCount": 8,
-            "jobWalltime": 1838783
-        },
-        {
-            "groupId": 15315,
+            "groupId": 15361,
             "jobCount": 1,
-            "jobWalltime": 0
+            "jobWalltime": 90558
         },
         {
-            "groupId": 328,
-            "jobCount": 3,
-            "jobWalltime": 12277578
-        },
-        {
-            "groupId": 14568,
-            "jobCount": 385,
-            "jobWalltime": 1313118590
-        },
-        {
-            "groupId": 15296,
-            "jobCount": 236,
-            "jobWalltime": 823569774
-        },
-        {
-            "groupId": 15341,
-            "jobCount": 9,
-            "jobWalltime": 11808527
-        },
-        {
-            "groupId": 15381,
-            "jobCount": 27,
-            "jobWalltime": 1119300
-        },
-        {
-            "groupId": 15388,
-            "jobCount": 2,
-            "jobWalltime": 12513
-        },
-        {
-            "groupId": null,
-            "jobCount": 94,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 293,
-            "jobCount": 240,
-            "jobWalltime": 362863301
-        },
-        {
-            "groupId": 8,
-            "jobCount": 23,
-            "jobWalltime": 56837956
-        },
-        {
-            "groupId": 601,
-            "jobCount": 2,
-            "jobWalltime": 36191
-        },
-        {
-            "groupId": 14598,
-            "jobCount": 156,
-            "jobWalltime": 1701271
+            "groupId": 15101,
+            "jobCount": 51,
+            "jobWalltime": 43582397
         },
         {
             "groupId": 18,
@@ -2006,59 +1246,19 @@
             "jobWalltime": 2234
         },
         {
-            "groupId": 15156,
-            "jobCount": 5,
-            "jobWalltime": 104828
+            "groupId": 15150,
+            "jobCount": 246,
+            "jobWalltime": 212282071
         },
         {
-            "groupId": 332,
-            "jobCount": 479,
-            "jobWalltime": 502767708
+            "groupId": 15392,
+            "jobCount": 3682,
+            "jobWalltime": 4830906006
         },
         {
-            "groupId": 15405,
-            "jobCount": 1,
-            "jobWalltime": 12730
-        },
-        {
-            "groupId": 15330,
-            "jobCount": 1,
-            "jobWalltime": 569877
-        },
-        {
-            "groupId": 15003,
-            "jobCount": 1054,
-            "jobWalltime": 1162918202
-        },
-        {
-            "groupId": 14894,
-            "jobCount": 5,
-            "jobWalltime": 4745872
-        },
-        {
-            "groupId": 15148,
-            "jobCount": 18,
-            "jobWalltime": 14797495
-        },
-        {
-            "groupId": 15279,
-            "jobCount": 101,
-            "jobWalltime": 1009398
-        },
-        {
-            "groupId": 15337,
-            "jobCount": 188,
-            "jobWalltime": 1528294
-        },
-        {
-            "groupId": 178,
-            "jobCount": 2,
-            "jobWalltime": 20183
-        },
-        {
-            "groupId": 15197,
-            "jobCount": 608,
-            "jobWalltime": 337254659
+            "groupId": 15349,
+            "jobCount": 8,
+            "jobWalltime": 235750
         },
         {
             "groupId": 15335,
@@ -2066,24 +1266,14 @@
             "jobWalltime": 89710519
         },
         {
-            "groupId": 140,
+            "groupId": 15441,
+            "jobCount": 21,
+            "jobWalltime": 24356724
+        },
+        {
+            "groupId": 15362,
             "jobCount": 3,
-            "jobWalltime": 39071
-        },
-        {
-            "groupId": 14907,
-            "jobCount": 311,
-            "jobWalltime": 1252448831
-        },
-        {
-            "groupId": 15300,
-            "jobCount": 6,
-            "jobWalltime": 899403
-        },
-        {
-            "groupId": 864,
-            "jobCount": 1,
-            "jobWalltime": 0
+            "jobWalltime": 57727
         },
         {
             "groupId": 15387,
@@ -2091,18 +1281,193 @@
             "jobWalltime": 52226219
         },
         {
-            "groupId": 15386,
-            "jobCount": 295,
-            "jobWalltime": 1278137633
+            "groupId": 15375,
+            "jobCount": 1,
+            "jobWalltime": 13928
         },
         {
-            "groupId": 292,
-            "jobCount": 4,
-            "jobWalltime": 913162
+            "groupId": 15330,
+            "jobCount": 1,
+            "jobWalltime": 569877
         },
         {
-            "groupId": 15240,
-            "jobCount": 178,
+            "groupId": 15227,
+            "jobCount": 17,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15273,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15345,
+            "jobCount": 54,
+            "jobWalltime": 28007593
+        },
+        {
+            "groupId": 15421,
+            "jobCount": 76,
+            "jobWalltime": 1111831
+        },
+        {
+            "groupId": 15297,
+            "jobCount": 14,
+            "jobWalltime": 14382151
+        },
+        {
+            "groupId": 15445,
+            "jobCount": 1,
+            "jobWalltime": 12909
+        },
+        {
+            "groupId": 250,
+            "jobCount": 7,
+            "jobWalltime": 22492
+        },
+        {
+            "groupId": 15003,
+            "jobCount": 1054,
+            "jobWalltime": 1162918202
+        },
+        {
+            "groupId": 15243,
+            "jobCount": 1874,
+            "jobWalltime": 651243405
+        },
+        {
+            "groupId": 14870,
+            "jobCount": 18,
+            "jobWalltime": 18565211
+        },
+        {
+            "groupId": 14557,
+            "jobCount": 15,
+            "jobWalltime": 4970769
+        },
+        {
+            "groupId": 15300,
+            "jobCount": 6,
+            "jobWalltime": 899403
+        },
+        {
+            "groupId": 15474,
+            "jobCount": 41,
+            "jobWalltime": 3772296
+        },
+        {
+            "groupId": 15191,
+            "jobCount": 3,
+            "jobWalltime": 18274
+        },
+        {
+            "groupId": 15388,
+            "jobCount": 2,
+            "jobWalltime": 12513
+        },
+        {
+            "groupId": 851,
+            "jobCount": 14,
+            "jobWalltime": 5171314
+        },
+        {
+            "groupId": 15337,
+            "jobCount": 188,
+            "jobWalltime": 1528294
+        },
+        {
+            "groupId": 15473,
+            "jobCount": 53,
+            "jobWalltime": 380359236
+        },
+        {
+            "groupId": 15438,
+            "jobCount": 11,
+            "jobWalltime": 11952941
+        },
+        {
+            "groupId": 170,
+            "jobCount": 91,
+            "jobWalltime": 241835904
+        },
+        {
+            "groupId": 15296,
+            "jobCount": 236,
+            "jobWalltime": 823569774
+        },
+        {
+            "groupId": 15424,
+            "jobCount": 167,
+            "jobWalltime": 287556249
+        },
+        {
+            "groupId": 15365,
+            "jobCount": 3,
+            "jobWalltime": 1698425
+        },
+        {
+            "groupId": 15148,
+            "jobCount": 18,
+            "jobWalltime": 14797495
+        },
+        {
+            "groupId": 15319,
+            "jobCount": 1,
+            "jobWalltime": 28223
+        },
+        {
+            "groupId": 178,
+            "jobCount": 2,
+            "jobWalltime": 20183
+        },
+        {
+            "groupId": 15277,
+            "jobCount": 2,
+            "jobWalltime": 47232
+        },
+        {
+            "groupId": 8,
+            "jobCount": 23,
+            "jobWalltime": 56837956
+        },
+        {
+            "groupId": 15318,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15358,
+            "jobCount": 7,
+            "jobWalltime": 58859
+        },
+        {
+            "groupId": 750,
+            "jobCount": 64,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 696,
+            "jobCount": 36051,
+            "jobWalltime": 36350616056
+        },
+        {
+            "groupId": 15369,
+            "jobCount": 1,
+            "jobWalltime": 17782
+        },
+        {
+            "groupId": 241,
+            "jobCount": 1,
+            "jobWalltime": 5324
+        },
+        {
+            "groupId": 242,
+            "jobCount": 532,
+            "jobWalltime": 1349031600
+        },
+        {
+            "groupId": null,
+            "jobCount": 94,
             "jobWalltime": 0
         },
         {
@@ -2111,9 +1476,29 @@
             "jobWalltime": 205883
         },
         {
-            "groupId": 15343,
-            "jobCount": 2083,
-            "jobWalltime": 3279149205
+            "groupId": 15274,
+            "jobCount": 979,
+            "jobWalltime": 437863317
+        },
+        {
+            "groupId": 14951,
+            "jobCount": 98,
+            "jobWalltime": 37497663
+        },
+        {
+            "groupId": 15302,
+            "jobCount": 3,
+            "jobWalltime": 3578108
+        },
+        {
+            "groupId": 15156,
+            "jobCount": 5,
+            "jobWalltime": 104828
+        },
+        {
+            "groupId": 328,
+            "jobCount": 3,
+            "jobWalltime": 12277578
         },
         {
             "groupId": 15439,
@@ -2121,18 +1506,628 @@
             "jobWalltime": 42253988
         },
         {
-            "groupId": 15352,
+            "groupId": 15398,
+            "jobCount": 2,
+            "jobWalltime": 47427
+        },
+        {
+            "groupId": 15317,
+            "jobCount": 9,
+            "jobWalltime": 4204270
+        },
+        {
+            "groupId": 15413,
+            "jobCount": 3986,
+            "jobWalltime": 8140579225
+        },
+        {
+            "groupId": 15434,
+            "jobCount": 136,
+            "jobWalltime": 138512883
+        },
+        {
+            "groupId": 15430,
+            "jobCount": 1508,
+            "jobWalltime": 3767420022
+        },
+        {
+            "groupId": 531,
+            "jobCount": 83,
+            "jobWalltime": 60835046
+        },
+        {
+            "groupId": 15418,
+            "jobCount": 1097,
+            "jobWalltime": 271666754
+        },
+        {
+            "groupId": 15298,
+            "jobCount": 1,
+            "jobWalltime": 1949046
+        },
+        {
+            "groupId": 15240,
+            "jobCount": 178,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15,
+            "jobCount": 4,
+            "jobWalltime": 24622
+        },
+        {
+            "groupId": 15458,
+            "jobCount": 21,
+            "jobWalltime": 20966084
+        },
+        {
+            "groupId": 288,
+            "jobCount": 967,
+            "jobWalltime": 2233377826
+        },
+        {
+            "groupId": 864,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 14737,
+            "jobCount": 39,
+            "jobWalltime": 171640
+        },
+        {
+            "groupId": 15401,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15415,
+            "jobCount": 3,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15384,
+            "jobCount": 6,
+            "jobWalltime": 13490468
+        },
+        {
+            "groupId": 1,
+            "jobCount": 2,
+            "jobWalltime": 22893
+        },
+        {
+            "groupId": 15408,
+            "jobCount": 165,
+            "jobWalltime": 281812202
+        },
+        {
+            "groupId": 86,
+            "jobCount": 70,
+            "jobWalltime": 18741925
+        },
+        {
+            "groupId": 15280,
+            "jobCount": 7890,
+            "jobWalltime": 12292982253
+        },
+        {
+            "groupId": 17,
+            "jobCount": 8,
+            "jobWalltime": 7808
+        },
+        {
+            "groupId": 15229,
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15320,
+            "jobCount": 1,
+            "jobWalltime": 16978
+        },
+        {
+            "groupId": 15416,
+            "jobCount": 101,
+            "jobWalltime": 63229634
+        },
+        {
+            "groupId": 575,
+            "jobCount": 3,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 14518,
+            "jobCount": 2,
+            "jobWalltime": 24921
+        },
+        {
+            "groupId": 193,
+            "jobCount": 6,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 14907,
+            "jobCount": 311,
+            "jobWalltime": 1252448831
+        },
+        {
+            "groupId": 249,
+            "jobCount": 3,
+            "jobWalltime": 14022
+        },
+        {
+            "groupId": 14975,
+            "jobCount": 6560,
+            "jobWalltime": 8971170249
+        },
+        {
+            "groupId": 15357,
+            "jobCount": 2,
+            "jobWalltime": 33844
+        },
+        {
+            "groupId": 15222,
+            "jobCount": 1445,
+            "jobWalltime": 2029811721
+        },
+        {
+            "groupId": 15253,
+            "jobCount": 17,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15354,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15301,
+            "jobCount": 2,
+            "jobWalltime": 94423
+        },
+        {
+            "groupId": 15077,
+            "jobCount": 1622,
+            "jobWalltime": 797272021
+        },
+        {
+            "groupId": 191,
+            "jobCount": 2,
+            "jobWalltime": 126707
+        },
+        {
+            "groupId": 14698,
+            "jobCount": 14,
+            "jobWalltime": 72965
+        },
+        {
+            "groupId": 15303,
+            "jobCount": 52,
+            "jobWalltime": 18918801
+        },
+        {
+            "groupId": 15379,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 293,
+            "jobCount": 240,
+            "jobWalltime": 362863301
+        },
+        {
+            "groupId": 15155,
+            "jobCount": 49,
+            "jobWalltime": 56874097
+        },
+        {
+            "groupId": 108,
+            "jobCount": 1,
+            "jobWalltime": 13906
+        },
+        {
+            "groupId": 14514,
+            "jobCount": 9,
+            "jobWalltime": 47159
+        },
+        {
+            "groupId": 15110,
+            "jobCount": 2,
+            "jobWalltime": 12811
+        },
+        {
+            "groupId": 15449,
+            "jobCount": 8,
+            "jobWalltime": 7066127
+        },
+        {
+            "groupId": 169,
+            "jobCount": 654,
+            "jobWalltime": 128675713
+        },
+        {
+            "groupId": 15405,
+            "jobCount": 1,
+            "jobWalltime": 12730
+        },
+        {
+            "groupId": 15420,
+            "jobCount": 1583,
+            "jobWalltime": 3985556033
+        },
+        {
+            "groupId": 15282,
+            "jobCount": 2,
+            "jobWalltime": 30911
+        },
+        {
+            "groupId": 15457,
+            "jobCount": 26,
+            "jobWalltime": 37065036
+        },
+        {
+            "groupId": 15336,
+            "jobCount": 3,
+            "jobWalltime": 17723
+        },
+        {
+            "groupId": 14613,
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 601,
+            "jobCount": 2,
+            "jobWalltime": 36191
+        },
+        {
+            "groupId": 529,
+            "jobCount": 23,
+            "jobWalltime": 56116
+        },
+        {
+            "groupId": 648,
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 204,
+            "jobCount": 1,
+            "jobWalltime": 16697
+        },
+        {
+            "groupId": 329,
+            "jobCount": 1,
+            "jobWalltime": 2560
+        },
+        {
+            "groupId": 240,
+            "jobCount": 1,
+            "jobWalltime": 23465
+        },
+        {
+            "groupId": 15436,
+            "jobCount": 26,
+            "jobWalltime": 36268811
+        },
+        {
+            "groupId": 15372,
+            "jobCount": 7609,
+            "jobWalltime": 9645589779
+        },
+        {
+            "groupId": 14993,
+            "jobCount": 37,
+            "jobWalltime": 22713488
+        },
+        {
+            "groupId": 14586,
+            "jobCount": 2,
+            "jobWalltime": 16215
+        },
+        {
+            "groupId": 332,
+            "jobCount": 479,
+            "jobWalltime": 502767708
+        },
+        {
+            "groupId": 15419,
+            "jobCount": 359,
+            "jobWalltime": 132712228
+        },
+        {
+            "groupId": 146,
+            "jobCount": 10,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15293,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 14942,
+            "jobCount": 3,
+            "jobWalltime": 26301
+        },
+        {
+            "groupId": 14927,
+            "jobCount": 68,
+            "jobWalltime": 458629675
+        },
+        {
+            "groupId": 15254,
+            "jobCount": 13,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15260,
+            "jobCount": 1,
+            "jobWalltime": 33639
+        },
+        {
+            "groupId": 15399,
+            "jobCount": 22,
+            "jobWalltime": 20646438
+        },
+        {
+            "groupId": 15314,
+            "jobCount": 3,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15232,
+            "jobCount": 21,
+            "jobWalltime": 471382
+        },
+        {
+            "groupId": 15299,
+            "jobCount": 11,
+            "jobWalltime": 3203639
+        },
+        {
+            "groupId": 295,
+            "jobCount": 6,
+            "jobWalltime": 310124
+        },
+        {
+            "groupId": 15371,
+            "jobCount": 6,
+            "jobWalltime": 157106
+        },
+        {
+            "groupId": 15315,
+            "jobCount": 1,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 14603,
+            "jobCount": 1275,
+            "jobWalltime": 3115663975
+        },
+        {
+            "groupId": 15442,
+            "jobCount": 30,
+            "jobWalltime": 41800640
+        },
+        {
+            "groupId": 15288,
+            "jobCount": 43,
+            "jobWalltime": 24732667
+        },
+        {
+            "groupId": 15432,
+            "jobCount": 186,
+            "jobWalltime": 88828948
+        },
+        {
+            "groupId": 334,
+            "jobCount": 8,
+            "jobWalltime": 1838783
+        },
+        {
+            "groupId": 14929,
+            "jobCount": 3,
+            "jobWalltime": 91190
+        },
+        {
+            "groupId": 286,
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 14837,
+            "jobCount": 865,
+            "jobWalltime": 1681030040
+        },
+        {
+            "groupId": 15467,
+            "jobCount": 24,
+            "jobWalltime": 22678076
+        },
+        {
+            "groupId": 14598,
+            "jobCount": 156,
+            "jobWalltime": 1701271
+        },
+        {
+            "groupId": 14568,
+            "jobCount": 385,
+            "jobWalltime": 1313118590
+        },
+        {
+            "groupId": 15427,
+            "jobCount": 211,
+            "jobWalltime": 145601878
+        },
+        {
+            "groupId": 402,
+            "jobCount": 77,
+            "jobWalltime": 3074993
+        },
+        {
+            "groupId": 15370,
+            "jobCount": 1222,
+            "jobWalltime": 2345284290
+        },
+        {
+            "groupId": 139,
+            "jobCount": 10,
+            "jobWalltime": 40187
+        },
+        {
+            "groupId": 15385,
+            "jobCount": 3263,
+            "jobWalltime": 6341380214
+        },
+        {
+            "groupId": 15412,
+            "jobCount": 420,
+            "jobWalltime": 164294406
+        },
+        {
+            "groupId": 140,
+            "jobCount": 3,
+            "jobWalltime": 39071
+        },
+        {
+            "groupId": 14865,
+            "jobCount": 173,
+            "jobWalltime": 115937471
+        },
+        {
+            "groupId": 14937,
+            "jobCount": 123,
+            "jobWalltime": 248993519
+        },
+        {
+            "groupId": 185,
+            "jobCount": 38,
+            "jobWalltime": 7344237
+        },
+        {
+            "groupId": 290,
+            "jobCount": 12,
+            "jobWalltime": 5801
+        },
+        {
+            "groupId": 15259,
+            "jobCount": 5012,
+            "jobWalltime": 3984212101
+        },
+        {
+            "groupId": 15351,
+            "jobCount": 16,
+            "jobWalltime": 74874858
+        },
+        {
+            "groupId": 563,
+            "jobCount": 40,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15346,
+            "jobCount": 18,
+            "jobWalltime": 12382281
+        },
+        {
+            "groupId": 15377,
+            "jobCount": 10,
+            "jobWalltime": 37203
+        },
+        {
+            "groupId": 15411,
+            "jobCount": 726,
+            "jobWalltime": 745187322
+        },
+        {
+            "groupId": 15326,
+            "jobCount": 1,
+            "jobWalltime": 1409242
+        },
+        {
+            "groupId": 15426,
+            "jobCount": 1310,
+            "jobWalltime": 1119013991
+        },
+        {
+            "groupId": 462,
+            "jobCount": 2658,
+            "jobWalltime": 4058257742
+        },
+        {
+            "groupId": 15435,
+            "jobCount": 149,
+            "jobWalltime": 693305158
+        },
+        {
+            "groupId": 15447,
+            "jobCount": 21,
+            "jobWalltime": 20499983
+        },
+        {
+            "groupId": 15321,
+            "jobCount": 81,
+            "jobWalltime": 34298925
+        },
+        {
+            "groupId": 15278,
+            "jobCount": 7,
+            "jobWalltime": 483577
+        },
+        {
+            "groupId": 15339,
+            "jobCount": 47,
+            "jobWalltime": 39670210
+        },
+        {
+            "groupId": 324,
             "jobCount": 5,
-            "jobWalltime": 13979685
+            "jobWalltime": 115429
         },
         {
-            "groupId": 14892,
-            "jobCount": 237,
-            "jobWalltime": 218918264
+            "groupId": 555,
+            "jobCount": 31,
+            "jobWalltime": 1382060
         },
         {
-            "groupId": 878,
-            "jobCount": 66,
+            "groupId": 69,
+            "jobCount": 3030,
+            "jobWalltime": 164729884
+        },
+        {
+            "groupId": 15471,
+            "jobCount": 18,
+            "jobWalltime": 2963214
+        },
+        {
+            "groupId": 15187,
+            "jobCount": 13,
+            "jobWalltime": 41727
+        },
+        {
+            "groupId": 15250,
+            "jobCount": 18,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15431,
+            "jobCount": 2,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15343,
+            "jobCount": 2083,
+            "jobWalltime": 3279149205
+        },
+        {
+            "groupId": 15233,
+            "jobCount": 345,
+            "jobWalltime": 42192743
+        },
+        {
+            "groupId": 564,
+            "jobCount": 2,
             "jobWalltime": 0
         },
         {
@@ -2141,84 +2136,24 @@
             "jobWalltime": 0
         },
         {
-            "groupId": 15191,
-            "jobCount": 3,
-            "jobWalltime": 18274
+            "groupId": 14892,
+            "jobCount": 237,
+            "jobWalltime": 218918264
         },
         {
-            "groupId": 15358,
-            "jobCount": 7,
-            "jobWalltime": 58859
+            "groupId": 15450,
+            "jobCount": 49,
+            "jobWalltime": 65205740
         },
         {
-            "groupId": 15369,
+            "groupId": 232,
             "jobCount": 1,
-            "jobWalltime": 17782
+            "jobWalltime": 15099
         },
         {
-            "groupId": 15416,
-            "jobCount": 101,
-            "jobWalltime": 63229634
-        },
-        {
-            "groupId": 250,
-            "jobCount": 7,
-            "jobWalltime": 22492
-        },
-        {
-            "groupId": 14765,
-            "jobCount": 274,
-            "jobWalltime": 3416751
-        },
-        {
-            "groupId": 15346,
-            "jobCount": 18,
-            "jobWalltime": 12382281
-        },
-        {
-            "groupId": 248,
-            "jobCount": 4,
-            "jobWalltime": 19407
-        },
-        {
-            "groupId": 15417,
-            "jobCount": 38,
-            "jobWalltime": 1248396
-        },
-        {
-            "groupId": 15447,
-            "jobCount": 21,
-            "jobWalltime": 20499983
-        },
-        {
-            "groupId": 15378,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 15401,
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 269,
-            "jobCount": 620,
-            "jobWalltime": 1816023
-        },
-        {
-            "groupId": 15361,
-            "jobCount": 1,
-            "jobWalltime": 90558
-        },
-        {
-            "groupId": 15250,
-            "jobCount": 18,
-            "jobWalltime": 0
-        },
-        {
-            "groupId": 14951,
-            "jobCount": 98,
-            "jobWalltime": 37497663
+            "groupId": 15271,
+            "jobCount": 550,
+            "jobWalltime": 490401396
         },
         {
             "groupId": 15404,
@@ -2226,19 +2161,39 @@
             "jobWalltime": 1412683
         },
         {
-            "groupId": 15359,
-            "jobCount": 3,
-            "jobWalltime": 0
+            "groupId": 14724,
+            "jobCount": 26,
+            "jobWalltime": 1959529
         },
         {
-            "groupId": 15438,
-            "jobCount": 11,
-            "jobWalltime": 11952941
+            "groupId": 269,
+            "jobCount": 620,
+            "jobWalltime": 1816023
         },
         {
-            "groupId": 15349,
-            "jobCount": 8,
-            "jobWalltime": 235750
+            "groupId": 14765,
+            "jobCount": 274,
+            "jobWalltime": 3416751
+        },
+        {
+            "groupId": 292,
+            "jobCount": 4,
+            "jobWalltime": 913162
+        },
+        {
+            "groupId": 14629,
+            "jobCount": 24,
+            "jobWalltime": 2721103
+        },
+        {
+            "groupId": 15350,
+            "jobCount": 38,
+            "jobWalltime": 19275331
+        },
+        {
+            "groupId": 15352,
+            "jobCount": 5,
+            "jobWalltime": 13979685
         },
         {
             "groupId": 15251,
@@ -2246,24 +2201,84 @@
             "jobWalltime": 0
         },
         {
-            "groupId": 15334,
-            "jobCount": 2,
-            "jobWalltime": 32550
+            "groupId": 303,
+            "jobCount": 35,
+            "jobWalltime": 109922594
         },
         {
-            "groupId": 15305,
-            "jobCount": 7597,
-            "jobWalltime": 7000031197
+            "groupId": 15425,
+            "jobCount": 253,
+            "jobWalltime": 182048861
         },
         {
-            "groupId": 15351,
-            "jobCount": 16,
-            "jobWalltime": 74874858
+            "groupId": 15141,
+            "jobCount": 22,
+            "jobWalltime": 44019382
         },
         {
-            "groupId": 15428,
-            "jobCount": 239,
-            "jobWalltime": 173469533
+            "groupId": 15383,
+            "jobCount": 101,
+            "jobWalltime": 168033506
+        },
+        {
+            "groupId": 15364,
+            "jobCount": 68,
+            "jobWalltime": 26868877
+        },
+        {
+            "groupId": 878,
+            "jobCount": 66,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 248,
+            "jobCount": 4,
+            "jobWalltime": 19407
+        },
+        {
+            "groupId": 15386,
+            "jobCount": 295,
+            "jobWalltime": 1278137633
+        },
+        {
+            "groupId": 15417,
+            "jobCount": 38,
+            "jobWalltime": 1248396
+        },
+        {
+            "groupId": 15136,
+            "jobCount": 14,
+            "jobWalltime": 2036837
+        },
+        {
+            "groupId": 14894,
+            "jobCount": 5,
+            "jobWalltime": 4745872
+        },
+        {
+            "groupId": 15197,
+            "jobCount": 608,
+            "jobWalltime": 337254659
+        },
+        {
+            "groupId": 15338,
+            "jobCount": 8,
+            "jobWalltime": 11775713
+        },
+        {
+            "groupId": 15279,
+            "jobCount": 101,
+            "jobWalltime": 1009398
+        },
+        {
+            "groupId": 15397,
+            "jobCount": 3,
+            "jobWalltime": 0
+        },
+        {
+            "groupId": 15359,
+            "jobCount": 3,
+            "jobWalltime": 0
         },
         {
             "groupId": 15281,
@@ -2271,32 +2286,29 @@
             "jobWalltime": 0
         },
         {
-            "groupId": 15101,
-            "jobCount": 51,
-            "jobWalltime": 43582397
-        },
-        {
-            "groupId": 71,
-            "jobCount": 274,
-            "jobWalltime": 4751569
-        },
-        {
-            "groupId": 14484,
-            "jobCount": 186,
-            "jobWalltime": 72127441
-        },
-        {
-            "groupId": 15425,
-            "jobCount": 253,
-            "jobWalltime": 182048861
+            "groupId": 15466,
+            "jobCount": 21,
+            "jobWalltime": 21575576
         }
     ],
     "byResources": [
+        {
+            "resourceId": "5a9f26c4101e770030ebe890",
+            "resourceName": "giulia_karst_account",
+            "jobCount": 3,
+            "jobWalltime": 4700969
+        },
         {
             "resourceId": "5943cd40055b490021abb7b6",
             "resourceName": "Carbonate @ IU",
             "jobCount": 6871,
             "jobWalltime": 19176906633
+        },
+        {
+            "resourceId": "5ad77ad474a590003bd3dc7e",
+            "resourceName": "My_Carbonate",
+            "jobCount": 2195,
+            "jobWalltime": 7200810474
         },
         {
             "resourceId": "5a74dbd081ba9100344fd2a2",
@@ -2305,10 +2317,16 @@
             "jobWalltime": 332664210
         },
         {
-            "resourceId": "5e9dd028d291bc0fd5c11e5f",
-            "resourceName": "Jetstream/slurm4 @ IU",
-            "jobCount": 6625,
-            "jobWalltime": 18729006377
+            "resourceId": "5931bee335530000253833d2",
+            "resourceName": "osgconnect",
+            "jobCount": 1,
+            "jobWalltime": 12220547
+        },
+        {
+            "resourceId": "5a302a5b10dbcd0034e33d7a",
+            "resourceName": "Visualization Server (gpu2)",
+            "jobCount": 214,
+            "jobWalltime": 0
         },
         {
             "resourceId": "5e8694ae93735e7f24d2b3fa",
@@ -2317,28 +2335,40 @@
             "jobWalltime": 1050548261
         },
         {
-            "resourceId": "5c757c90c7df560026b612de",
-            "resourceName": "jfaskowi-carb",
-            "jobCount": 31,
-            "jobWalltime": 243167103
+            "resourceId": "5e69b57a421167574a0ceefa",
+            "resourceName": "Jetstream/slurm7 @ TACC",
+            "jobCount": 4071,
+            "jobWalltime": 21744463081
         },
         {
-            "resourceId": "5a9f26c4101e770030ebe890",
-            "resourceName": "giulia_karst_account",
-            "jobCount": 3,
-            "jobWalltime": 4700969
+            "resourceId": null,
+            "resourceName": null,
+            "jobCount": 3865,
+            "jobWalltime": 66483216
         },
         {
-            "resourceId": "5c89722e012ec9002678de01",
-            "resourceName": "iu-carbonate",
-            "jobCount": 16,
-            "jobWalltime": 109744322
+            "resourceId": "5e8786cd93735e4a42d2e229",
+            "resourceName": "Jetstream/slurm8 @ TACC",
+            "jobCount": 4918,
+            "jobWalltime": 15363818721
         },
         {
-            "resourceId": "5eda7efa529ab419cc850874",
-            "resourceName": "Group Analysis Server",
-            "jobCount": 1,
-            "jobWalltime": 0
+            "resourceId": "5e87a46d93735e1592d2e485",
+            "resourceName": "Jetstream/slurm9 @ TACC",
+            "jobCount": 6677,
+            "jobWalltime": 8783170899
+        },
+        {
+            "resourceId": "5e9dd028d291bc0fd5c11e5f",
+            "resourceName": "Jetstream/slurm4 @ IU",
+            "jobCount": 6625,
+            "jobWalltime": 18729006377
+        },
+        {
+            "resourceId": "5ca79eec19784303236b3313",
+            "resourceName": "Carbonate IU - my resource",
+            "jobCount": 176,
+            "jobWalltime": 2775741230
         },
         {
             "resourceId": "5ed41f05529ab423ed83ba57",
@@ -2353,10 +2383,10 @@
             "jobWalltime": 22190626219
         },
         {
-            "resourceId": "5dc444ec0d34c9e59d6dfac6",
-            "resourceName": "Bigred3 @ IU",
-            "jobCount": 6479,
-            "jobWalltime": 15520244434
+            "resourceId": "5c98a140e8d13b4c38012ab6",
+            "resourceName": "giulia_carbonate_account",
+            "jobCount": 43,
+            "jobWalltime": 214160271
         },
         {
             "resourceId": "5979f579abf0be0023d11be4",
@@ -2371,46 +2401,22 @@
             "jobWalltime": 11415377875
         },
         {
-            "resourceId": "5ad77ad474a590003bd3dc7e",
-            "resourceName": "My_Carbonate",
-            "jobCount": 2195,
-            "jobWalltime": 7200810474
+            "resourceId": "5dc444ec0d34c9e59d6dfac6",
+            "resourceName": "Bigred3 @ IU",
+            "jobCount": 6479,
+            "jobWalltime": 15520244434
         },
         {
-            "resourceId": "5c98a140e8d13b4c38012ab6",
-            "resourceName": "giulia_carbonate_account",
-            "jobCount": 43,
-            "jobWalltime": 214160271
+            "resourceId": "5c89722e012ec9002678de01",
+            "resourceName": "iu-carbonate",
+            "jobCount": 16,
+            "jobWalltime": 109744322
         },
         {
-            "resourceId": "5a302a5b10dbcd0034e33d7a",
-            "resourceName": "gpu2 Visualization",
-            "jobCount": 214,
+            "resourceId": "5eda7efa529ab419cc850874",
+            "resourceName": "Group Analysis Server",
+            "jobCount": 1,
             "jobWalltime": 0
-        },
-        {
-            "resourceId": "5e69b57a421167574a0ceefa",
-            "resourceName": "Jetstream/slurm7 @ TACC",
-            "jobCount": 4071,
-            "jobWalltime": 21744463081
-        },
-        {
-            "resourceId": "5ca79eec19784303236b3313",
-            "resourceName": "Carbonate IU - my resource",
-            "jobCount": 176,
-            "jobWalltime": 2775741230
-        },
-        {
-            "resourceId": "5e87a46d93735e1592d2e485",
-            "resourceName": "Jetstream/slurm9 @ TACC",
-            "jobCount": 6677,
-            "jobWalltime": 8783170899
-        },
-        {
-            "resourceId": null,
-            "resourceName": null,
-            "jobCount": 3865,
-            "jobWalltime": 66483216
         },
         {
             "resourceId": "5a8747985042cc002aa2e2a9",
@@ -2419,58 +2425,52 @@
             "jobWalltime": 136304764
         },
         {
-            "resourceId": "5e8786cd93735e4a42d2e229",
-            "resourceName": "Jetstream/slurm8 @ TACC",
-            "jobCount": 4918,
-            "jobWalltime": 15363818721
-        },
-        {
-            "resourceId": "5931bee335530000253833d2",
-            "resourceName": "osgconnect",
-            "jobCount": 1,
-            "jobWalltime": 12220547
+            "resourceId": "5c757c90c7df560026b612de",
+            "resourceName": "jfaskowi-carb",
+            "jobCount": 31,
+            "jobWalltime": 243167103
         }
     ],
     "visByType": [
         {
+            "type": "fibernavigator",
+            "jobCount": 3
+        },
+        {
             "type": "fsleyes",
             "jobCount": 275
-        },
-        {
-            "type": "dsistudio",
-            "jobCount": 31
-        },
-        {
-            "type": "html",
-            "jobCount": 5
-        },
-        {
-            "type": "trackvis",
-            "jobCount": 1
-        },
-        {
-            "type": "mrview",
-            "jobCount": 28
         },
         {
             "type": "fslview",
             "jobCount": 35
         },
         {
-            "type": "freeview-gpu",
-            "jobCount": 101
-        },
-        {
-            "type": "fibernavigator",
-            "jobCount": 3
-        },
-        {
             "type": "wb_view",
             "jobCount": 12
         },
         {
+            "type": "trackvis",
+            "jobCount": 1
+        },
+        {
+            "type": "freeview-gpu",
+            "jobCount": 101
+        },
+        {
             "type": "mricrogl",
             "jobCount": 23
+        },
+        {
+            "type": "dsistudio",
+            "jobCount": 31
+        },
+        {
+            "type": "mrview",
+            "jobCount": 28
+        },
+        {
+            "type": "html",
+            "jobCount": 5
         }
     ]
 }

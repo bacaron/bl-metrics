@@ -7,18 +7,13 @@
     "totalResources": 8,
     "byUsers": [
         {
-            "sub": "53",
-            "jobCount": 4,
+            "sub": "61",
+            "jobCount": 114,
             "jobWalltime": 0
         },
         {
-            "sub": "64",
-            "jobCount": 29,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "35",
-            "jobCount": 28,
+            "sub": "19",
+            "jobCount": 1,
             "jobWalltime": 0
         },
         {
@@ -27,18 +22,38 @@
             "jobWalltime": 0
         },
         {
+            "sub": "59",
+            "jobCount": 20,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "73",
+            "jobCount": 8,
+            "jobWalltime": 0
+        },
+        {
             "sub": "1",
             "jobCount": 543,
             "jobWalltime": 0
         },
         {
-            "sub": "41",
-            "jobCount": 6,
+            "sub": "68",
+            "jobCount": 7,
             "jobWalltime": 0
         },
         {
-            "sub": "59",
-            "jobCount": 20,
+            "sub": "30",
+            "jobCount": 144,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "64",
+            "jobCount": 29,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "49",
+            "jobCount": 16,
             "jobWalltime": 0
         },
         {
@@ -47,7 +62,7 @@
             "jobWalltime": 0
         },
         {
-            "sub": "49",
+            "sub": "70",
             "jobCount": 16,
             "jobWalltime": 0
         },
@@ -57,40 +72,60 @@
             "jobWalltime": 0
         },
         {
-            "sub": "30",
-            "jobCount": 144,
+            "sub": "41",
+            "jobCount": 6,
             "jobWalltime": 0
         },
         {
-            "sub": "68",
-            "jobCount": 7,
+            "sub": "35",
+            "jobCount": 28,
             "jobWalltime": 0
         },
         {
-            "sub": "73",
-            "jobCount": 8,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "19",
-            "jobCount": 1,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "61",
-            "jobCount": 114,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "70",
-            "jobCount": 16,
+            "sub": "53",
+            "jobCount": 4,
             "jobWalltime": 0
         }
     ],
     "byServices": [
         {
-            "service": "brain-life/app-freesurfer",
+            "service": "brain-life/app-dipy-csamodel",
+            "jobCount": 32,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-autoalignacpc",
+            "jobCount": 89,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-dtiinit",
             "jobCount": 76,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/app-fsurf",
+            "jobCount": 14,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-splitshells",
+            "jobCount": 20,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-generatetractmasks",
+            "jobCount": 12,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/abcd-novnc",
+            "jobCount": 34,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/validator-neuro-anat",
+            "jobCount": 8,
             "jobWalltime": 0
         },
         {
@@ -99,8 +134,8 @@
             "jobWalltime": 0
         },
         {
-            "service": "brain-life/app-life",
-            "jobCount": 86,
+            "service": "brain-life/app-dipy-tracking",
+            "jobCount": 21,
             "jobWalltime": 0
         },
         {
@@ -114,83 +149,8 @@
             "jobWalltime": 0
         },
         {
-            "service": "soichih/sca-service-conneval-validate",
-            "jobCount": 117,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/abcd-novnc",
-            "jobCount": 34,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-splitshells",
-            "jobCount": 20,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-datanormalize",
-            "jobCount": 22,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/app-fsurf",
-            "jobCount": 14,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-tractclassification",
-            "jobCount": 31,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-connectome-data-comparison",
-            "jobCount": 8,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-dipy-csamodel",
-            "jobCount": 32,
-            "jobWalltime": 0
-        },
-        {
-            "service": "kitchell/app-generatetractsurfaces",
-            "jobCount": 11,
-            "jobWalltime": 0
-        },
-        {
             "service": "soichih/app-connectome-evaluator",
             "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-dipy-tracking",
-            "jobCount": 21,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/validator-neuro-anat",
-            "jobCount": 8,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-generatetractmasks",
-            "jobCount": 12,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-noop",
-            "jobCount": 3,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-networkneuro",
-            "jobCount": 16,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/app-dtiinit",
-            "jobCount": 76,
             "jobWalltime": 0
         },
         {
@@ -199,8 +159,8 @@
             "jobWalltime": 0
         },
         {
-            "service": "brain-life/app-autoalignacpc",
-            "jobCount": 89,
+            "service": "soichih/sca-service-noop",
+            "jobCount": 3,
             "jobWalltime": 0
         },
         {
@@ -210,6 +170,46 @@
         },
         {
             "service": "kitchell/app-LBspectrum",
+            "jobCount": 8,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-networkneuro",
+            "jobCount": 16,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-freesurfer",
+            "jobCount": 76,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 117,
+            "jobWalltime": 0
+        },
+        {
+            "service": "kitchell/app-generatetractsurfaces",
+            "jobCount": 11,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-datanormalize",
+            "jobCount": 22,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-life",
+            "jobCount": 86,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/app-tractclassification",
+            "jobCount": 31,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-connectome-data-comparison",
             "jobCount": 8,
             "jobWalltime": 0
         }
@@ -247,15 +247,15 @@
             "jobWalltime": 0
         },
         {
-            "resourceId": "5931bee335530000253833d2",
-            "resourceName": "osgconnect",
-            "jobCount": 12,
-            "jobWalltime": 0
-        },
-        {
             "resourceId": "5936c625644ffe0021f03d9e",
             "resourceName": "matlab2 (shared)",
             "jobCount": 103,
+            "jobWalltime": 0
+        },
+        {
+            "resourceId": "59384c29644ffe0021f03d9f",
+            "resourceName": "brain-life api server",
+            "jobCount": 261,
             "jobWalltime": 0
         },
         {
@@ -265,9 +265,9 @@
             "jobWalltime": 0
         },
         {
-            "resourceId": "59384c29644ffe0021f03d9f",
-            "resourceName": "brain-life api server",
-            "jobCount": 261,
+            "resourceId": "5931bee335530000253833d2",
+            "resourceName": "osgconnect",
+            "jobCount": 12,
             "jobWalltime": 0
         }
     ],

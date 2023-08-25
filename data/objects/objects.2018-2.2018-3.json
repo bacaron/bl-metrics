@@ -1,19 +1,13 @@
 {
     "totalObjectCount": 743,
     "totalObjectSize": 144917381120,
-    "totalObjectDownload": 858,
+    "totalObjectDownload": 861,
     "byUsers": [
         {
-            "sub": "65",
-            "count": 1,
-            "totalSize": 11171840,
-            "totalDownload": 0
-        },
-        {
-            "sub": "152",
-            "count": 177,
-            "totalSize": 4174725120,
-            "totalDownload": 323
+            "sub": "19",
+            "count": 24,
+            "totalSize": 35924561920,
+            "totalDownload": 34
         },
         {
             "sub": "106",
@@ -22,36 +16,49 @@
             "totalDownload": 100
         },
         {
-            "sub": "140",
-            "count": 163,
-            "totalSize": 42690478080,
-            "totalDownload": 381
+            "sub": "152",
+            "count": 177,
+            "totalSize": 4174725120,
+            "totalDownload": 323
         },
         {
             "sub": "1",
             "count": 65,
             "totalSize": 15634472960,
-            "totalDownload": 3
-        },
-        {
-            "sub": "19",
-            "count": 24,
-            "totalSize": 35924561920,
-            "totalDownload": 34
+            "totalDownload": 4
         },
         {
             "sub": "99",
             "count": 263,
             "totalSize": 4596582400,
-            "totalDownload": 17
+            "totalDownload": 19
+        },
+        {
+            "sub": "65",
+            "count": 1,
+            "totalSize": 11171840,
+            "totalDownload": 0
+        },
+        {
+            "sub": "140",
+            "count": 163,
+            "totalSize": 42690478080,
+            "totalDownload": 381
         }
     ],
     "byDatatypes": [
         {
-            "datatypeId": "59c3eae633fc1cf9ead71679",
-            "datatypeName": "raw",
-            "count": 4,
-            "totalSize": 2914959360,
+            "datatypeId": "58cb22c8e13a50849b25882e",
+            "datatypeName": "neuro/freesurfer",
+            "count": 66,
+            "totalSize": 15960360960,
+            "totalDownload": 6
+        },
+        {
+            "datatypeId": "58e6e21e6cd4e826de4537ee",
+            "datatypeName": "neuro/networkneuro",
+            "count": 1,
+            "totalSize": 23664640,
             "totalDownload": 1
         },
         {
@@ -62,11 +69,18 @@
             "totalDownload": 4
         },
         {
-            "datatypeId": "58e6e21e6cd4e826de4537ee",
-            "datatypeName": "neuro/networkneuro",
-            "count": 1,
-            "totalSize": 23664640,
+            "datatypeId": "59c3eae633fc1cf9ead71679",
+            "datatypeName": "raw",
+            "count": 4,
+            "totalSize": 2914959360,
             "totalDownload": 1
+        },
+        {
+            "datatypeId": "58c33c5fe13a50849b25879b",
+            "datatypeName": "neuro/dwi",
+            "count": 370,
+            "totalSize": 46797496320,
+            "totalDownload": 285
         },
         {
             "datatypeId": "5907d922436ee50ffde9c549",
@@ -76,13 +90,6 @@
             "totalDownload": 125
         },
         {
-            "datatypeId": "58c33bcee13a50849b25879a",
-            "datatypeName": "neuro/anat/t1w",
-            "count": 230,
-            "totalSize": 1460643840,
-            "totalDownload": 434
-        },
-        {
             "datatypeId": "58d15eaee13a50849b258844",
             "datatypeName": "neuro/LiFE",
             "count": 3,
@@ -90,27 +97,41 @@
             "totalDownload": 3
         },
         {
-            "datatypeId": "58cb22c8e13a50849b25882e",
-            "datatypeName": "neuro/freesurfer",
-            "count": 66,
-            "totalSize": 15960360960,
-            "totalDownload": 5
-        },
-        {
-            "datatypeId": "58c33c5fe13a50849b25879b",
-            "datatypeName": "neuro/dwi",
-            "count": 370,
-            "totalSize": 46797496320,
-            "totalDownload": 285
+            "datatypeId": "58c33bcee13a50849b25879a",
+            "datatypeName": "neuro/anat/t1w",
+            "count": 230,
+            "totalSize": 1460643840,
+            "totalDownload": 436
         }
     ],
     "byProjects": [
         {
-            "projectId": "5a25f2714e57c077cf5e3471",
-            "projectName": "TLT",
-            "count": 258,
-            "totalSize": 4522158080,
-            "totalDownload": 2
+            "projectId": "5a8efa74bd722700496bdc01",
+            "projectName": "mrtrix 0.2.12 ensemble+ test",
+            "count": 23,
+            "totalSize": 35900897280,
+            "totalDownload": 33
+        },
+        {
+            "projectId": "5a74b26ab7f7fb00495482bd",
+            "projectName": "Hetrick_DTI",
+            "count": 161,
+            "totalSize": 42338099200,
+            "totalDownload": 376
+        },
+        {
+            "projectId": "59a57af4b5e93a0023001416",
+            "projectName": "NKI",
+            "count": 65,
+            "totalSize": 15634472960,
+            "totalDownload": 4
+        },
+        {
+            "projectId": "5a28e449e78f7477c8b8d9aa",
+            "projectName": "My Dev Derivatives",
+            "count": 1,
+            "totalSize": 23664640,
+            "totalDownload": 1
         },
         {
             "projectId": "5a79cc22429b7c00439a33aa",
@@ -124,28 +145,14 @@
             "projectName": "subval",
             "count": 182,
             "totalSize": 4249149440,
-            "totalDownload": 338
+            "totalDownload": 340
         },
         {
-            "projectId": "5a8efa74bd722700496bdc01",
-            "projectName": "mrtrix 0.2.12 ensemble+ test",
-            "count": 23,
-            "totalSize": 35900897280,
-            "totalDownload": 33
-        },
-        {
-            "projectId": "5a28e449e78f7477c8b8d9aa",
-            "projectName": "My Dev Derivatives",
-            "count": 1,
-            "totalSize": 23664640,
-            "totalDownload": 1
-        },
-        {
-            "projectId": "59a57af4b5e93a0023001416",
-            "projectName": "NKI",
-            "count": 65,
-            "totalSize": 15634472960,
-            "totalDownload": 3
+            "projectId": "5a25f2714e57c077cf5e3471",
+            "projectName": "TLT",
+            "count": 258,
+            "totalSize": 4522158080,
+            "totalDownload": 2
         },
         {
             "projectId": "59a074fc6895d6002e0aca7a",
@@ -153,13 +160,6 @@
             "count": 50,
             "totalSize": 41885388800,
             "totalDownload": 100
-        },
-        {
-            "projectId": "5a74b26ab7f7fb00495482bd",
-            "projectName": "Hetrick_DTI",
-            "count": 161,
-            "totalSize": 42338099200,
-            "totalDownload": 376
         },
         {
             "projectId": "5a947051412075003b909a59",

@@ -12,18 +12,13 @@
             "jobWalltime": 0
         },
         {
-            "sub": "18",
-            "jobCount": 108,
-            "jobWalltime": 0
-        },
-        {
             "sub": "20",
             "jobCount": 2,
             "jobWalltime": 0
         },
         {
-            "sub": "22",
-            "jobCount": 9,
+            "sub": "16",
+            "jobCount": 24,
             "jobWalltime": 0
         },
         {
@@ -37,13 +32,18 @@
             "jobWalltime": 0
         },
         {
-            "sub": "16",
-            "jobCount": 24,
+            "sub": "25",
+            "jobCount": 18,
             "jobWalltime": 0
         },
         {
-            "sub": "25",
-            "jobCount": 18,
+            "sub": "1",
+            "jobCount": 398,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "18",
+            "jobCount": 108,
             "jobWalltime": 0
         },
         {
@@ -52,40 +52,15 @@
             "jobWalltime": 0
         },
         {
-            "sub": "1",
-            "jobCount": 398,
+            "sub": "22",
+            "jobCount": 9,
             "jobWalltime": 0
         }
     ],
     "byServices": [
         {
-            "service": "soichih/sca-service-neuro-tracking",
-            "jobCount": 64,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-conneval-validate",
-            "jobCount": 175,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-freesurfer",
-            "jobCount": 64,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/sca-service-tractclassification",
-            "jobCount": 54,
-            "jobWalltime": 0
-        },
-        {
             "service": "soichih/sca-service-networkneuro",
             "jobCount": 2,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/sca-service-autoalignacpc",
-            "jobCount": 74,
             "jobWalltime": 0
         },
         {
@@ -94,8 +69,33 @@
             "jobWalltime": 0
         },
         {
+            "service": "soichih/sca-service-freesurfer",
+            "jobCount": 64,
+            "jobWalltime": 0
+        },
+        {
             "service": "soichih/sca-service-life",
             "jobCount": 60,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/sca-service-tractclassification",
+            "jobCount": 54,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 175,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/sca-service-autoalignacpc",
+            "jobCount": 74,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-dtiinit",
+            "jobCount": 73,
             "jobWalltime": 0
         },
         {
@@ -104,8 +104,8 @@
             "jobWalltime": 0
         },
         {
-            "service": "soichih/sca-service-dtiinit",
-            "jobCount": 73,
+            "service": "soichih/sca-service-neuro-tracking",
+            "jobCount": 64,
             "jobWalltime": 0
         }
     ],

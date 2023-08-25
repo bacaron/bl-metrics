@@ -7,8 +7,28 @@
     "totalResources": 3,
     "byUsers": [
         {
-            "sub": "25",
-            "jobCount": 25,
+            "sub": "14",
+            "jobCount": 26,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "16",
+            "jobCount": 13,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "30",
+            "jobCount": 159,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "32",
+            "jobCount": 10,
+            "jobWalltime": 0
+        },
+        {
+            "sub": "34",
+            "jobCount": 9,
             "jobWalltime": 0
         },
         {
@@ -17,8 +37,8 @@
             "jobWalltime": 0
         },
         {
-            "sub": "34",
-            "jobCount": 9,
+            "sub": "35",
+            "jobCount": 10,
             "jobWalltime": 0
         },
         {
@@ -32,60 +52,30 @@
             "jobWalltime": 0
         },
         {
-            "sub": "30",
-            "jobCount": 159,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "35",
-            "jobCount": 10,
-            "jobWalltime": 0
-        },
-        {
-            "sub": "14",
-            "jobCount": 26,
-            "jobWalltime": 0
-        },
-        {
             "sub": "17",
             "jobCount": 63,
             "jobWalltime": 0
         },
         {
-            "sub": "32",
-            "jobCount": 10,
+            "sub": "25",
+            "jobCount": 25,
             "jobWalltime": 0
         },
         {
             "sub": "33",
             "jobCount": 7,
             "jobWalltime": 0
-        },
-        {
-            "sub": "16",
-            "jobCount": 13,
-            "jobWalltime": 0
         }
     ],
     "byServices": [
         {
-            "service": "soichih/sca-service-dtiinit",
-            "jobCount": 51,
-            "jobWalltime": 0
-        },
-        {
-            "service": "brain-life/sca-service-tractclassification",
-            "jobCount": 9,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-neuro-tracking",
-            "jobCount": 55,
-            "jobWalltime": 0
-        },
-        {
             "service": "soichih/sca-service-networkneuro",
             "jobCount": 10,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-dtiinit",
+            "jobCount": 51,
             "jobWalltime": 0
         },
         {
@@ -94,8 +84,23 @@
             "jobWalltime": 0
         },
         {
+            "service": "soichih/sca-service-freesurfer",
+            "jobCount": 63,
+            "jobWalltime": 0
+        },
+        {
             "service": "soichih/sca-service-life",
             "jobCount": 46,
+            "jobWalltime": 0
+        },
+        {
+            "service": "brain-life/sca-service-tractclassification",
+            "jobCount": 9,
+            "jobWalltime": 0
+        },
+        {
+            "service": "soichih/sca-service-conneval-validate",
+            "jobCount": 138,
             "jobWalltime": 0
         },
         {
@@ -109,13 +114,8 @@
             "jobWalltime": 0
         },
         {
-            "service": "soichih/sca-service-conneval-validate",
-            "jobCount": 138,
-            "jobWalltime": 0
-        },
-        {
-            "service": "soichih/sca-service-freesurfer",
-            "jobCount": 63,
+            "service": "soichih/sca-service-neuro-tracking",
+            "jobCount": 55,
             "jobWalltime": 0
         }
     ],
